@@ -1,0 +1,259 @@
+Physics 1 - F6 - 2007
+| SECTION A (40 marks)
+Answer four (4) questions from this section.
+I. ,
+Aa) (1) What is a systematic error? (01 mark)
+
+(11) The smallest divisions for the voltmeter and ammeter are 0.1 V and 0.01 A
+respectively. |
+If V = IR, find the relative error in the resistance R, when V = 2V and! =0.1 A.
+
+(02'4 marks)
+(b) (1) Mention two (2) uses of dimensional analysis. (01 mark)
+
+(it) The frequency f of a note given by an organ pipe depends on the length, (, the
+air pressure P and the air density D. Use the method of dimensions to find a
+formula for the frequency. (03 marks)
+
+(iit) What will be the new frequency of a pipe whose original frequency was 256 Hz
+if the air density falls by 2 % and the pressure increases by | %? (02% marks)
+
+2. (a) (1) What is meant by the term “projectile” as applied to projectile motion?
+(01 mark)
+(it) Give two (2) practical applications of projectile motion at your locality.
+(02 marks)
+(b) (1) A ball is thrown towards a vertical wall from a point 2 m above the ground and
+
+3 m from the wall. The initial velocity of the ball is 20 ms. at an angle of 30°
+
+above the horizontal. If the collision of the ball with the wall ts perfectly elastic,
+
+how far behind the thrower does the ball hit the ground? (04 marks)
+
+(11) The ceiling of a long hall is 25 m high. Determine the maximum horizontal
+distance that a ball thrown with a speed of 40 ms” can go without hitting the
+ceiling of the wall. (03 marks)
+
+3. (a) Explain why when catching a fast moving ball, tle hands are drawn back while the ball 1s
+being brought to rest. (02 marks)
+(b) Rockets are propelled by the ejection of the products of the combustion of fuel. Consider
+‘ a rocket of total mass M travelling at a speed V in a region of space where the
+gravitational forces are negligible.
+
+(1) Supposing the combustion products are ejected at a constant speed V, relative to
+the rocket, show that a fuel “burn” which reduces the total mass M of the rocket
+to m results in an increase in the speed of the rocket to v such that
+
+-~V=V, (Cn M . (03 marks)
+V ' m
+
+(ii) Supposing that 2.1 x 10° kg of fuel are consumed during a “burn” lasting 1.5 x
+102 seconds and given that there is a constant force on the rocket of 3.4 x 10 N
+during this burn, calculate V, and increase in speed resulting from the burn if
+M = 2.8 x 10" kg. (03 marks)
+
+(iti) What is the initial vertical acceleration that can be imparted to this rocket when
+‘is launched from the earth if the ‘nitial mass is 2.8 x 10° kg? (02 marks)
+
+USA 2
+
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+4, (a ti .
+) (1) What is meant by centripetal force? (01 mark)
++e . Vv 2
+) Derive the expression a = ~, + Where a, v and r stands for the centripetal
+acceleration, linear velocity and radius of a circular path respectively.
+(04 marks)
+
+(b) A ball of mass 0.5 kp attached to a light inextensible string rotates in a vertical circle of
+
+radius 0.75 m, such that it has a speed of 5 ms” when the String is horizontal.
+Calculate:
+(1) the speed of the ball and the tension in the string at the lowest point of its |
+circular path. (03 marks)
+(11) evaluate the work done by tHe earth’s gravitational force and by the tension in
+the string as the ball moves from its highest to its lowest point. (02 marks)
+5. (a) (1) What is meant by a thermometric property of a substance? = (01 mark)
+(11) What qualities make a particular property suitable for use in practical
+| thermometers? (03 marks)
+(b) (1) Explain why at least two (2) fixed points are required to define a temperature
+scale. (01 mark)
+(it) Mention the type of thermometer which is most suitable for car ration of
+thermometers. (01 mark)
+. : ‘lyp-l:
+
+(c) When a metal cylinder of mass 2.0 x 10° kg and specific heat capacity 500 J kg K™ is
+heated at constant power, the initial rate of rise of temperature ts 3.0K min. After a
+time the heater is switched off and the initial rate of fall of temperature is0.3K min. |
+What is the rate at which the cylinder gains heat energy immediately be the iS
+
+marks
+switched off? (
+ati iV 01 mark
+6 ~ (a) (i) What is blackbody radiation of a given body? (01 mark)
+| . infrared (01 mark)
+(ii) Explain why heat may just mean intrared.
+01 mark) |
+(iit) State Prévosts theory of heat exchange. (
+a: d
+; i of modern buildings are double grazea,
+(b) (1) Explain why in cold nates. ney smal air space between them.
+i.e. there are two pieces OF gia (01marks)
+col t law? (01 mark)
+. is Wien’s displacemen a, .
+m “ee ‘s about 6000 K. The sun's radiation 1s maximum
+- un’s surface temperature Is a ou ts radiation with
+(iit) The s 6 light bulb filament em
+length of 0.5 x 10° m. A certain lig and of the
+at waveren’ © m. If both the surface of the sun
+maximum wavelength of 2 x 10° m. doen ne What is the temperature of the
+filament have the same emissive character! _ Wh (02 marks)
+filament? on
+bs A
+C7
+USA 3
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+(c) (i) State Newton's law of cooling and give one limitation of the law. (01 mark)
+
+(ii) A body initially at 70 °C cools to a temperature of 55 °C in 5 minutes. What
+will be its temperature after 10 minutes given that the surrounding temperature
+is 31 °C? (Assume Newton’s law of cooling holds true). (02 marks)
+
+SECTION B (30 marks)
+Answer three (3) questions from this section.
+7. (a) (i) Give two (2) differences between progressive and standing waves.
+(01 mark)
+
+(ii) Two progressive waves travelling along the same line in a medium are
+represented by Y, = 10 sin (wt + ™/, y and Y, = 10 sin (wt + nf ).
+
+If the two progressive waves form a standing wave, determine the resultant
+amplitude and phase angle of the wave formed. - (02 marks)
+(b) (i) State the modes of vibrations in closed and open pipes. (01 mark)
+
+(ii) A metre-long tube at one end, with a movable piston at the other end, shows
+resonance with a fixed frequency source (a tuning fork) of frequency 340 Hz
+when the tube length is 25.5 cm or 79.3 cm. Estimate the speed of sound in air
+at the temperature of the experiment (ignore edge effects). (03 marks)
+
+(c) The shortest length of the resonance tube closed at one end which resounds to a fork of
+frequency 256 Hz is 32.0 cm. The corresponding length for a fork of frequency 384 Hz
+
+‘5 20.8 cm. Determine the end correction for the tube and the velocity of sound in air.
+
+(03 marks)
+8. (a) (1) Define the internal resistance (r) of a cell and the terminal potential difference.
+(02 marks)
+(11) The emf. of a cell is a special terminal potential difference. Comment.
+(01 mark)
+(b) Calculate the reading on the high resistance voltmeter V in figure 1.0 below:
+B C
+12 V 8 V
+(03 marks)
+2Q 4Q
+A D |
+Figure 1.0
+(c) (1) State Kirchhoff's laws of electrica: network. (01 mark)
+(ii) Calculate the currents I), 1, and |; flowing in the following circuit (figure 2.0
+below).
+USA 4
+Find more free educational resources at:
+http://maktaba. ,
+pu/maktada-tetea.org Scanned by CamScanner
+
+I
+TS (03 marks)
+" —_ °
+2 -
+Is 82
+8 Q
+Figure 2.0
+9. (a) (1) List three (3) classes of magnetic materials on the basis of magnetic
+susceptibility and give one example for each class. (03 marks)
+(11) How are the magnetic susceptibility and relative permeability of a magnetic
+material related to each other? (01 mark)
+(b) (1) Define the magnetic field intensity. (01 mark)
+(ii) A long solenoid has 10 turns per cm and carries a current of 2.0 A. Calculate
+the magnetic field intensity at its centre. (02 marks)
+(c) An a.c. generator consists of a coil of 50 turns and an area of 2. 5 m’, rotates at an angular
+speed of 60 rad s’' in a uniform magnetic field of 0.30 T between two fixed pole pieces.
+The resistance of the circuit including that of the coil is 500 Q.
+(1) What is the maximum current that can be drawn from the generator?
+(02 marks)
+(111) What is the magnetic flux through the coil if the current is maximum?
+(01 mark)
+10. (a) How does the arrangement of the energy level in a semiconductor differ from that of an
+insulator? (01 mark)
+(b) Using the notion of energy bands, explain the following optical properties of solids.
+(1) All metals are opaque to light of all wavelengths. (01 mark)
+(11) Semi-conductors are transparent to infrared light although opaque to visible
+light. (01 mark)
+(iv) Most insulators are transparent to visible light. (01 mark)
+Yam ato We
+lev Y
+{7 on
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+(¢) In the circuit shown below (figure 3.0), LDR is a light-dependent resistor, whose
+resistance varies from 1 M Q in the dark to 5 MQ in sunlight. The transistor has a
+current amplification factor B of about 80. The voltmeter takes a negligible current.
+i; wo
+- Z Cr
+Figure 3.0
+(i) Over what range of resistance would the LDR take if the voltmeter reads $ V or
+more? What if it reads 1 V or less? (03 marks)
+(11) At what light intensity measured in terms of the resistance of LDR, would the
+circuit be most sensitive to small changes of intensity? (Assume that Vge = 0
+volts). (03 marks)
+SECTION C (30 marks)
+Answer three (3) questions from this section.
+11. (a) What is the potential at the centre of the square of side 1.0 m, due to charges
+qi = + 1.0 x 10°C, q) =-2.0 x 10°C, qs = +3.0 x 10°C and q, = + 2.0 x 10° C situated
+at the corners of the square? (02 marks)
+(b) What do you understand by an electrostatic generator? (01 mark)
+(c) The belt of a Van de Graaf generator carries a charge of 100 yC per metre. If the
+diameter of the lower pulley is 10 cm and its angular velocity is 5 rad s', what p.d will
+the upper conductor attain in 5 minutes if its capacitance to ground is 5 x 10°" F and if
+there is no leakage of charge? (07 marks)
+USA |
+6
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+12. (a) we similar balls of mass m are hung from silk thread of length “a” and carry a similar
+enarge q. Assume Q is small enough that tan 6 x sin 8. To this approximation, show that
+yf _a’a_)3 a
+= one .me , where X is the distance of separation. (03 marks)
+O
+(b) A charge Q ts distributed over the concentric hollow spheres of radii r and R (R &gt; r) such
+that the surface densities are the same. Calculate the potential at the common centre of
+the two spheres. (07 marks)
+13.4% (a) (1) Make a well labelled diagram of the cathode ray oscilloscope and explain briefly
+how a sinusoidal voltage signal is displayed on its screen. (03 marks)
+(11) Mention three (3) practical applications of the cathode ray oscilloscope.
+(01'4 marks)
+(b) An electron having 450 eV of energy enters at right angles to a uniform magnetic field of
+strength 1.50 x 10° T. Show that the path traced by the electron in a uniform magnetic
+field is circular and estimate its radius. | (022 marks)
+(c) A charged oil drop of mass 6.0 x 10°’? kg falls vertically in air with a steady velocity
+between two long parallel vertical plates 5.0 mm apart. When a potential difference of
+3000 V is applied between the plates the drop falls with a steady velocity at an angle of
+58° to the vertical.
+Determine the charge Q, on the oil drop. | (03 marks)
+14 (a) (1) What are the differences between P and S waves? (02 marks)
+(i) Explain how the two terms of waves (P and S) can be used in studying the
+internal structure of the earth. (01 mark)
+(b) Write short notes on the following terms in relation to changes in the earth’s magnetic
+field: long-term (secular) changes, short-period (regular) changes and short-term
+(irregular) changes. (03 marks)
+(c) (1) What is geomagnetic micropulsation. (01 mark)
+(11) Give a summary of location, constitution and practical uses of the stratosphere,
+ionosphere and mesosphere. (03 marks)
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+

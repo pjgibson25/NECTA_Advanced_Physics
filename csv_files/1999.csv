@@ -1,0 +1,78 @@
+,Question,Year,Topic,Subtopic
+0,Mention two applications and two limitations of dimensional analysis.,1999,Measurement,Physical Quantities
+1,"The frequency f of a note produced by a taut wire stretched between two supports depends on
+the distance ​ l ​ between the supports, the mass per unit length of the wire, μ, and the tension T.
+Use dimensional analysis to find how f is related to ​ l ​ , μ, and T.",1999,Measurement,Physical Quantities
+2,Define momentum,1999,Mechanics,Newton’s Laws of Motion
+3,Define impulse of a force,1999,Mechanics,Newton’s Laws of Motion
+4,"A jet of water emerges from a hose pipe of a cross-sectional area 5.0 x 10-​ 3​ m​ 2 with a velocity of
+3.0ms​ -1 and strikes a wall at right angle. Assuming the water to be brought to rest by the wall
+and does not rebound, calculate the force on the wall.",1999,Mechanics,Newton’s Laws of Motion
+5,What do you understand by the term escape velocity?,1999,Mechanics,Gravitation
+6,"Calculate the escape velocity from the moon’s surface given that a man on the moon has 1⁄6 his
+weight on earth. The mean radius of the moon is 1.75 x 10​ 6​ m.",1999,Mechanics,Gravitation
+7,Give two similarities between simple harmonic motion and circular motion.,1999,Mechanics,Simple Harmonic Motion
+8,"On the same set of axes, sketch how energy exchange (kinetic to potential) takes place in an
+oscillator placed in a damping medium.",1999,Mechanics,Simple Harmonic Motion
+9,State the parallel axis theorem.,1999,Mechanics,Rotation of Rigid Bodies
+10,"Show that the Kinetic energy (K.E.) of rotation of a rigid body about an axis with a constant
+angular velocity w is given by KE = 1⁄2 Iw​ 2 where I is the moment of inertia of the rigid body
+about the given axis.",1999,Mechanics,Rotation of Rigid Bodies
+11,Distinguish between static and dynamic friction.,1999,Mechanics,Newton’s Laws of Motion
+12,"With the help of a well labelled diagram briefly explain how you will determine the coefficient
+of viscosity of a liquid by a constant pressure head apparatus in the laboratory.",1999,Fluid Dynamics,Viscosity and Turbulent Flow
+13,"Explain in terms of surface energy, what is meant by the surface tension, ​ γ ​ of a liquid. ",1999,Properties of Matter,Surface Tension
+14,"What energy is required to form a soap bubble of radius 1.00mm if the surface tension of the
+soap solution is 2.5 x 10​ -4​ Nm​ -2​ ?",1999,Properties of Matter,Surface Tension
+15,Write down the equation of continuity of a fluid defining all your symbols.,1999,Fluid Dynamics,Streamline Flow and Continuity
+16,"The velocity at a certain point in a flow pipe is 1.0ms​ -1 and the gauge pressure there is 3 x 10​ 5
+Nm​ -2​ . The cross-sectional area at a point 10m above the first is half that at the first point. If the
+flowing fluid is pure water, calculate the gauge pressure at the second point.",1999,Fluid Dynamics,Bernoulli's Principle
+17,What do you understand by the term: Thermodynamic temperature scale,1999,Heat,Thermometers
+18,What do you understand by the term:   Triple point of water,1999,Heat,Thermometers
+19,"The resistance of a platinum wire at a temperature T​ ° ​ C measured on a gas scale is given by
+R(T) = R​ o​ (1 + aT + bT​ 2​ ).
+What temperature will the platinum thermometer indicate when the temperature on the gas
+scale is 200​ ° ​ C? (take a = 3.8 x 10​ -3​ and b = -5.6 x 10​ -7​ ).",1999,Heat,Thermometers
+20,What is the coefficient of thermal conductivity of a material?,1999,Heat,Thermal Conduction
+21,"The temperature difference between the inside and outside of a room is 25​ ° ​ C. The rom has a
+window of an area 2m​ 2 and the thickness of the window material is 2mm. Calculate the heat
+flow through the window if the coefficient of thermal conductivity of the window material is
+0.5 SI units.",1999,Heat,Thermal Conduction
+22,Write down the equation of state of an ideal gas defining all the symbols used.,1999,Heat,First Law of Thermodynamics
+23,"If the root-mean-square velocity of a hydrogen molecule at 0​ ° ​ C is 1840m/s, find the
+root-mean-square velocity of the molecule at 100​ ° ​ C.",1999,Properties of Matter,Kinetic Theory of Gases
+24,What is the difference between refraction and diffraction as applied to waves?,1999,Vibrations and Waves,Physical Optics (interferance/diffraction/polarization)
+25,"A parallel beam containing two wavelengths 600nm and 602nm is incident on a diffraction
+grating with 400 lines per mm. Calculate the angular separation of the first order spectrum of
+the two wavelengths. (1nm = 10​ -9​ m)",1999,Vibrations and Waves,Physical Optics (interferance/diffraction/polarization)
+26,What is a “Doppler Effect”?,1999,Vibrations and Waves,Doppler Effect
+27,"A whistle sound of frequency 1200Hz was directed to an approaching train moving at 48km h​ -1​ .
+The whistleman then listened to the beats between the emitted sound and that reflected from the
+train. What is the beat frequency detected by the whistleman?",1999,Vibrations and Waves,Sound
+28,Explain why an uncharged metal is attracted by a charged one?,1999,Electrostatics,The Electric Field
+29,"Charges Q​ 1 = 1.2 x 10​ -12 C and Q​ 2 = -4 x 10​ -12 C are placed 5.0m apart in air. A third charge
+Q​ 3 = 1 x 10​ -14 C is introduced midway between them. Find the resultant force on the third
+charge.",1999,Electrostatics,The Electric Field
+30,State Kirchhoff’s laws of circuit analysis,1999,Electrostatics,Electric Potential
+31,"### PICTURE 1 ###
+Determine the magnitudes of I​ 1​ and I​ 3​ .
+3",1999,Electrostatics,Capacitance
+32,"Write down an expression for the forces on an electron when moving perpendicular to: an electric field
+Write down an expression for the forces on an electron when moving perpendicular to: a magnetic field.",1999,Electromagnetism,Magnetic Fields
+33,"An electron is moving in a uniform electric field of intensity 1.2 x 10​ 5​ Vm​ -1.  Find the acceleration of the electron.
+What is a resonant frequency of an oscillator?",1999,Electrostatics,The Electric Field
+34,"Consider the LRC series circuit. The r.m.s. voltages across each component are as shown.
+Calculate",1999,Electrostatics,Electric Potential
+35,"### PICTURE 2 ###
+The r.m.s. current passing through R.
+The resonant frequency for the values of L, C and R.",1999,Electrostatics,Electric Potential
+36,Draw the symbol of n-p-n transistor.,1999,Electronics,Transistors
+37,"Distinguish between insulators, semi-conductors and metals as far as conduction is concerned.",1999,Electronics,Semiconductors
+38,What is the “work function” of a metal?,1999,Electronics,Semiconductors
+39,"The work function of a metal is 2.0 eV. Calculate the stopping potential when the metal is
+illuminated by light of frequency of 6.0 x 10​ 14​ Hz.",1999,Atomic Physics,Quantum Physics
+40,What is nuclear fusion ,1999,Atomic Physics,Nuclear Physics
+41,What is nuclear fission?,1999,Atomic Physics,Nuclear Physics
+42,"### PICTURE 3 ###
+In the following nuclear reactions find the values of x, y and z.",1999,Atomic Physics,Nuclear Physics

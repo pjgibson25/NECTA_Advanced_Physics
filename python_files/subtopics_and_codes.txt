@@ -1,0 +1,100 @@
+Physical Quantities
+01quan
+Errors
+01err
+Newton’s Laws of Motion
+02new
+Projectile Motion
+02proj
+Uniform Circular Motion
+02circ
+Simple Harmonic Motion
+02shm
+Gravitation
+02grav
+Rotation of Rigid Bodies
+02rot
+Streamline Flow and Continuity
+03flow
+Bernoulli's Principle
+03bern
+Viscosity and Turbulent Flow
+03visc
+Surface Tension
+04st
+Elasticity
+04el
+Kinetic Theory of Gases
+04ktog
+Thermometers
+05therm
+Thermal Conduction
+05cond
+Thermal Convection
+05conv
+Thermal Radiation
+05rad
+First Law of Thermodynamics
+05first
+Mechanical Vibrations
+06vib
+Wave Motion
+06wav
+Sound
+06sound
+Electromagnetic Waves (em-waves)
+06em
+Physical Optics (interferance/diffraction/polarization)
+06opt
+Doppler Effect
+06dop
+The Electric Field
+07elf
+Electric Potential
+07pot
+Capacitance
+07ca
+Magnetic Fields
+08field
+Magnetic Properties of Materials
+08prop
+Magnetic Forces
+08force
+Electromagnetic Induction
+08ind
+Magnetic Field of the Earth
+08earth
+Electric Conduction in Metals
+09metal
+Electric Conduction in Gases
+09gas
+Alternating Current (ac)
+09ac
+The Band Theory of Solids
+10band
+Semiconductors
+10semi
+Transistors
+10tran
+Logic Gates
+10log
+Operational Amplifiers
+10amp
+Telecommunication
+10tel
+Structure of the Atom
+11atom
+Quantum Physics
+11quantum
+LASER
+11laser
+Nuclear Physics
+11nuclear
+Agricultural Physics
+12ag
+Energy from the environment
+12energy
+Earthquakes
+12quakes
+Environmental Pollution
+12poll

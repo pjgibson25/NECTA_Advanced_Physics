@@ -1,0 +1,182 @@
+Physics 1 - F6 - 2018
+SECTION A (40 Marks)
+Answer four (4) questions from this section.
+1. (a) (i) |Howcan random and Systematic errors be minimized during an experiment?
+(02 marks)
+(ii) Estimate the precision to which the Young’s modulus, y of the wire can be
+determined from the formula y= “= , given that the applied tension,
+e
+F =S00N, the length of the loaded wire, | =3m, the diameter of the wire,
+d =1mm, the extension of the wire, e =5mm and the error associated with these
+quantities are 0.5N, 2mm, 0.01mm and 0.1mm respectively. (04 marks)
+(b) W@W State the law of dimensional analysis. (01 mark)
+(ii) If the speed V of the transverse wave along a wire of tension, J and mass, m is
+; T .
+given by, V= a . Apply dimensional analysis to check whether the given
+m
+expression is correct or not. | (03 marks)
+2. (a) (i) Under what condition a passenger in a lift feels weightless? (01 mark)
+(11) | Calculate the tension in the supporting cable of an elevator of mass 500kg which
+was originally moving downwards at 4m/s and brought to rest with constant
+acceleration at a distance of 20m. (03 marks)
+(b) (i) The rotating blades of a hovering helicopter swept out an area of radius 2m
+imparting a downward velocity of 8m/s of the air displaced. Find the mass of a
+helicopter. (02 marks)
+(ii) | Compute the mass of water striking the wall per second when a jet of water with a
+velocity of Sm/s and cross-sectional area of 3x10~m’* strikes the wall at right
+angle losing its velocity to zero. (04 marks)
+3. (a) (i) How does projectile motion differ from uniform circular motion? (02 marks)
+(ii) A rifle shoots a bullet with a muzzle velocity of 1000m/s at a small target 200m
+away. How high above the target must the rifle be aimed so that the bullet will hit
+the target? (03 marks)
+(b) (i) Where does the object strike the ground when thrown horizontally with a velocity
+of 15m/s from the top of a 40m high building? (02 marks)
+(ii) | Find the speed of travel when a man jumps a maximum horizontal distance of Im
+spending a minimum time on the ground. (03 marks) _
+Page 2 of 7 ag
+Find more free educational resources at http://maktaba.tetea.&amp;y-anned by CamScanner
+
+4. (a) What is meant by the following terms as used in simple harmonic motion (S.H.M)?
+(1) Periodic motion. (01 mark)
+(ii) | Oscillatory motion. (01 mark)
+(b) List four important properties of a particle executing simple harmonic motion
+(S.H.M). (04 marks)
+(11) Sketch a labeled graph that represents the total energy of a particle executing
+simple harmonic motion (S.H.M). (02 marks)
+(c) The periodic time of a body executing S.H.M is 4 seconds. How much time interval
+from time, t = 0 will its displacement be half its amplitude? (02 marks)
+5. (a) A satellite of mass 600kg is in a circular orbit at a height 2x10°km above the
+earth’s surface. Determine the:
+(1) Orbital speed. (03 marks)
+(ii) | Gravitational potential energy. (02 marks)
+(b) (1) What would happen if gravity suddenly disappears? | (02 marks)
+(i1) Two base of a mountain are at sea level where the gravitational field strength
+is 9.81N/kg . If the value of gravitational field at the top of the mountain is
+9.7N/kg, calculate the height of the mountain above the sea level. |
+(03 marks) ~
+6. (a) (1) Why is flywheel designed such that most of its mass is concentrated at the
+rim? Briefly explain. (02 marks)
+(ii) Estimate the couple that will bring the wheel to rest in 1O0seconds when a
+grinding wheel of radius 40cm and mass 3kg is rotating at 3600 revolutions
+per minute. (03 marks)
+(b) (1) Why an ice skater rotates at relatively low speed when stretches her arms and
+a leg outward? (02 marks)
+(ii) | Calculate the moment of inertia of a sphere about an axis which is a tangent
+to its surface given that the mass and radius of the sphere are 10kg and 0.2m
+respectively. (03 marks)
+Page 3 of 7
+Find more free educational resources at http://maktaba.tetea.&amp;-anned by CamS canner
+
+SECTION B (30 Marks)
+|
+Answer three (3) questions from this section.
+7. (a) (i) Which type of thermometer is most suitable for calibration of other
+thermometers? (01 mark)
+(1) Why at least two fixed points are required to define a temperature scale?
+(02 marks)
+(b) (i) List two qualities which makes a particular property suitable for use in
+practical thermometers. (02 marks)
+(11) Describe how mercury in glass thermometer could be made sensitive.
+(02 marks)
+(c) (1) What is meant by triple point of water? (01 marks)
+(ii) Evaluate the temperature in Kelvin if the pressure recorded by a constant
+volume gas thermometer is 6.8x10*Nm* given that the pressure at triple
+point 273.16K is 4.6x10* Nm 7. (02 marks)
+8. (a) One gram of water becomes 1671 cm* of steam at a pressure of 1 atmosphere. If the
+latent heat of vaporization at this pressure is 2256 J/g, determine the:
+(1) external work done. (03 mark)
+(il) increase in internal energy (02 marks)
+(b) (1) Why during emission of radiations from black body its temperature does not |
+reach zero Kelvin? (1.5 marks)
+(11) A black ball of radius Im is maintained at a temperature of 30°C . How much !
+heat is radiated by the ball in 4 seconds? (3.5 marks)
+9. (a) (i) What do you understand by the term node as applied to electric circuit?
+(01 mark) :
+(ii) Outline three important points which are usually referred as sign convection in |
+solving Kirchhoff’s second law problems. (1.5 marks)
+(b) (i) How is ohmic conductor differ from non-ohmic conductor? Give one example 7
+in each case. (02 marks)
+Page 4 of 7 a
+Find more free educational resources at http://maktaba.tetea.&amp;-anned by CamScanner
+
+(ii) Study Figure 1 then find the reading on the high resistance voltmeter, V.
+k
+D C (02 marks)
+ISV 9V
+3.Q 62
+A B
+Figure 1
+(c) (i) Why the emf of a cell is sometimes called a special terminal potential
+difference? (1.5 marks)
+(ii) Calculate the current flowing in the circuit when three similar cells each of
+emf 1.5 V and internal resistance 0.3 Q are connected in parallel across a 2 92
+resistor. (02 marks)
+10. (a) (i) | Mention four types of energy losses suffered by a transformer. (02 marks)
+(ii) | Why choke coil is preferred over resistance to control alternating current?
+(01 mark)
+(b) (i) Identify two difficulties which would arise when two straight wires are used to
+transmit electricity direct from the source to the city station. (02 marks)
+(ii) Explain what could be done to light a 30 V bulb from a 220 volt A.C supply?
+(1.5 marks)
+(c) A series LCR circuit with inductance, L=0.12H , capacitance, C =480nF and
+resistance, R=23Q is connected to a 230 V variable frequency supply. Determine
+the:
+(i) Maximum current flowing in the circuit. (1.5 marks)
+(ii) Source frequency for which the current is maximum. (02 marks)
+SECTION C (30 Marks)
+Answer three (3) questions from this section.
+11. (a) (i) _ List two chief properties of semiconductors. (01 mark)
+(ii) Why is it easier to establish the current in a semiconductor than in an insulator?
+(02 marks)
+Page 5 of 7
+a Find more free educational resources at http://maktaba.tetea. oa nned by CamS canner
+
+(b) (i) State a condition that could be employed to make an insulator conduct some
+electricity. (Ol mark)
+(ii) Distinguish between conductors and semiconductors on the basis of their
+energy band structures. (03 marks)
+(c) (i) Whatis meant by depletion layer as used in pn -junction device? (01 mark)
+(ii) Describe the effect of applying a reverse bias to the junction diode. (02 marks)
+12. (a) (i) Sketch the graph of transfer characteristic of a transistor. (1.5 marks)
+(ii) State the significance of the slope from the graph in (a) (i). (01 mark) .
+(b) (i) | What is the basic condition for a transistor to operate properly as an amplifier? :
+(1.5 marks) :
+(ii) Briefly explain how a junction transistor can be connected to act as a current
+operated device. (1.5 marks)
+(c) (i) Why the magnitude of output frequency of a full wave rectifier is twice the
+input frequency? (1.5 marks)
+(ii) Draw a simple basic transistor switching circuit diagram. (03 marks)
+13. (a) (i) What is meant by a logic gate? (01 mark)
+(ii) List three basic logic gates that make up all digital circuits. (1.5 marks)
+(b) Study Figure 2 then answer the questions that follow.
+ak &gt;
+; S
+Q s |
+Figure 2 |
+(i) Identify the logic gates marked R and S. (02 marks) ;
+(ii) Write down the output at s, such that when P = |, Q = 1 and when P = O, |
+Q=0. (02 marks)
+Page 6 of 7 i
+f ;
+Find more free educational resources at http://maktaba.tetea.o&amp; a nned by CamScanner
+
+(c) Obtain the truth table for the circuit shown in Figure 3. (3.5 marks)
+C
+C
+E
+E=E+D
+D D
+D D
+Figure 3
+14. (a) (i) What is meant by solar constant? (01 mark)
+(ii) | List two factors on which the solar constant depends. (02 marks)
+(b) (i) Give two advantages of photovoltaic system. (02 marks)
+(ii) Briefly explain how photovoltaic cells work. (02 marks)
+(c) (i) Estimate the maximum power available from 10m’ of solar panels. (01 mark)
+(ii) Calculate the volume of water per second which must pass through if the inlet
+and outlet temperature of the panels are at 10°C and 60°C respectively.
+(Assume the wave carries away energy at the same rate as the maximum power
+available). (02 marks)
+Page 7 of 7
+7 7 Find more free educational resources at http://maktaba.tetea.&amp;-anned by CamS canner
+

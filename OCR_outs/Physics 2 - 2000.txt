@@ -1,0 +1,177 @@
+Physics 2 - 2000
+SECTION A
+Attempt at least ONE question from this section, - oo |
+I. (a) re | Write down the Bernoulli's equations for fluid flow in a pipe and indicate the term which
+. will disappear when the flow of fluid is stopped . (2 marks)
+(ii) Water flows into a tank of large cross-section area at a rate of 10%m’/s but flows out from a
+hole of area lcm? which has been punched through the base. How high does the water rise
+in the tank? | oY | (4 marks)
+(iii) At two points on a horizontal tube of varying circular cross-section carrying water, the radii
+are lcm and 0.4cm and the pressure difference between these points is 4.9cm of water.
+How much liquid flows through the tube per second? (5 marks)
+| (b) (i) Define the “bulk modulus” of a gas (1 mark)
+(ti) Find the ratio of the adiabatic bulk modulus of a gas to that of its isothermal bulk modulus in a
+terms of the specific heat capacities of the gas. 7 (8 marks) a
+2. (a) Determine the position of the centre of gravity of the I - section below, from the line YY’
+, | : , oO (5 marks) -
+| . 3cm | a |
+| Fem | - oo, : |
+— sen ———&gt; | Oo
+| (b) (i) Explain Young’s Modulus of rigidity : | (2 marks) -—
+(ii) Find the work done in stretching a steel wire of 1.0mm” cross-sectional area and 2.0m
+in length through 0.1mm. . (3 marks) y
+(c) Find the work done required to break up a drop of water of radius 0.5cm into drops of water :
+each having radius of 1.0mm, assuming isothermal condition. | (5 marks)
+| (d) (i) What factors lead the real gas to obey the ideal gas equation PV = RT? (2 marks)
+(ii) Define the root-mean-square (r.m.s.) speed of the gas molecules. Hence find the r.m.s.
+speed of oxygen gas molecules at 10° Pa pressure when the density is 1.43kgm”. |
+, | (3 marks)
+G1312 : 2 | | |
+
+3. (a) Derive an expression for the work done per mole in an isothermal expansion of Vander Waal’s
+
+gas from volume V; to volume V}. (5 marks) |
+
+(b) A number of 16moles of an ideal gas which is kept at constant temperature of 320K is compressed
+isothermally from its initial volume of 18 litres to-the final volume of 4 litres.
+
+(i) Calculate the total work done in the whole process. (2 marks)
+(ii) Comment on the sign of numerical answer you've obtained. (4% mark)
+
+(c) Acylinder fitted with a frictionless piston contains 1.0g of oxygen at a pressure of 760mmHg and
+at a temperature of 27°C. the following operations are performed in stages: (1) The oxygen is
+heated at a constant pressure to 127°C and then (2) it is compressed isothermally to its original
+volume and finally (3) it is cooled at a constant volume to its original temperature.
+
+(i) Mlustrate these changes in a sketch P-V diagram.
+
+(ii) What is the input of heat to the cylinder in stage (1) above?
+
+(iti) | How much work does the oxygen do in pushing back the piston during stage (1)?
+
+(iv) How fhuch work is done on the oxygen in stage (2)?
+
+(v) How much heat must be extracted from the oxygen in stage (3)? |
+
+(For oxygen: density = 1.43kgm” (at stp), Cv = 670Jkg'K" and molecular mass = 32)
+
+| . : (13 marks)
+4. (a) What is the difference between an “isothermal” process and an “adiabatic” process? (2 marks)
+(b) How much work is required to compress Smol of air at 20°C and latmosphere to Ith
+= 10
+of the original volume by So
+(i) an isothermal process
+(ii) an adiabatic process?
+(c) What are the final pressures for the cases (b) (i) and (ii) (b) above? (7 marks) ,
+(d) (i) Explain the fact that the temperature of the ocean at great depths is very nearly constant
+| the year round, at a temperature of about 4°C. (3 marks)
+
+(ii) In a diesel engine, the cylinder compresses air from approximately Standard temperature |
+and pressure to about one ~ sixteenth the original volume and a pressure of about 50 "
+atmospheres. What is the temperature of the compressed air? (3 marks)
+
+. (e) (i) Give one major similarity and one major difference between heat conduction and wave
+| propagation. 7 | (2 marks)
+
+(ii) Deep bore holes into the earth show that the temperature increases about i"C for each 30m
+depth. How much heat flows out from the core of the earth each second for each square
+
+| Metreofsurfacearea, (3 marks)
+01312 3
+
+- SECTION B : |
+| Attempt at least ONE question from this section.
+5. (a) (i) Write two uses of Doppler effect. | | . (2 marks)
+. (ti) An observer standing by a railway track notices that the pitch of an engine whistle
+changes in the ratio of 5:4 on passing him. What is the speed of the engine? (3 marks)
+(b) (i) Explain briefiy the necessary conditions for the effects of interference in optics to be
+observed | (2 marks) —
+— (il) Interference patterns are formed when using Young’s double slit arrangement. Mention
+other three methods that can be used to form interference patterns. (2 marks)
+(iii) Explain, giving reasons, whether either transverse or longitudinal waves could exist, if
+the vibratory motion causing them were not simple harmonic motion. (3 marks)
+(c) A beam of monochromatic light of wavelength 600nm in air passes into glass. Calculate: o—™
+(i) the speed of light in glass. | Oo | (1 mark)
+(ii) the frequency of light. | | | (1 mark)
+(iii), the wavelength of light in glass. . a (1 mark)
+(d) What is meant by “diffraction grating” ? (1 mark)
+(e) A monochromatic light of wavelength 5.2 x 10°'m falls normally on a grating which has
+4x10? lines percm &gt; a |
+(i) What is the largest order of spectrum that can be visible?
+(ii) Find the angular separation between the third and fourth order image. (2 marks)
+6. (a) What do you understand by the term “drift velocity” as applied to any current carriers in a wire?
+= | | (2 marks)
+(b) Determine the drift velocity of electrons in a silver wire of a cross —sectional area 4.5 x 10°m’
+i when a current of 15A flows through it. Given: The density of silver = 1.05 x 10° kgm” . The
+atomic weight of silver = 108. — | | (6 marks) ~
+_(c) Anunknown wire of Imm diameter is found to carry and passes a total charge of 90C in 1 hour oe
+and ISmin. If the wire has 5.8 x 10” free electrons per m’, find . a
+(i)  thecurrentinthe wire, - (2 marks)
+(i) the drift velocity of the electrons in ms! = (3 marks)
+(d) The current of 12A is made to pass through an aluminium wire of radius 1.5mm which is joined in _
+series with a copper wire of radius 0.8mm. Determine. So .
+(1) the current density in an aluminium wire. pe (4 marks)
+(it) the drift velocity of the electron tn the copper wire, given that the number of free electrons
+per unit volume in a copper wire is 10”. | - (3 marks)
+01312 4 ,
+
+7. {a) Give the statement of Coulomb’s law. - (2 marks)
+(b) A proton of mass 1.673 x 10"kg falls through a distance of 1.5cm in a uniform electric field of
+magnitude 2.0 x 10° NC". Determine the time of fall [Neglect g and air resistance.] (6 marks)
+(c) A 100V battery terminals are connected to two large and parallel plates which are 2cm apart. The
+field in the region between the plates is nearly uniform. If electric field intensity E is 10° NC’ and |
+points vertically upwards, determine the force of an electron in this field and compare it with the
+weight of an electron. | | | (4 marks) |
+(d) An electron is released from rest from the upper plate inside the field in (c) above.
+(i) At what velocity will it hit the lower plate? | ,
+(ii) Determine its kinetic energy and the time it takes for the. |
+whole journey. | | (8 marks) |
+SECTION C
+Answer at least ONE question from this section. oe a :
+| 8. (a) Mention any three uses of a transistor _ | . | (1% mark) |
+(b) A certain transistor has a current gain B = 55. [fit is used in a circuit with common-base
+configuration, how much change occurs in the collector current if an emitter current is changed by
+100, A? (Assume the collector potential to be constant and neglect the small collector — current
+| due to the minority current carriers). | : (4 marks)
+(c) (i) What is an operational amplifier (2 marks)
+(it) List three desirable features of an operational amplifier. (2 marks)
+— In almost all cases, where an operation amplifier is used as a linear voltage amplifier,
+. negative feedback is employed. State the advantage of negative feedback. (3 marks)
+(d) Figure 1 shows a circuit which incorporates an operational amplifier : (2 marks)
+_ (i) Explain why port P is regarded as being at earth potential. (4 marks) :
+(ii) Show that the ratio of output voltage, V,, to input voltage, V;, is given by 7
+~My = - Ry ee | (4 marks)
+| V; R; - |
+(iii) Explain the significance of the negative sign in the expression .(d) (ii) above.
+| a — (4 mark) |
+01312 5
+
+Ri |
+Figure 1. po | |
+9, (a) (i) Using an example of your own choice explain the mechanism behind the production of a laser
+| beam. | (3 marks)
+(ii) Describe two applications of a laser (4 marks) 3
+(b) A proton is moving in a uniform magnetic field B. Draw the diagram representing B and the path
+of the proton if its initial direction makes an oblique angle to the direction of the field B. (3 marks)
+(ce) In the Bohr model of the hydrogen atom, an electron circles the nucleus in an orbit of radius r
+(i) Explain what keeps the electron in the orbit and why it does not spiral towards the
+Oo - nucleus. | . | | : | (3 marks)
+(ili) What are the assumptions put forward by Bohr about the orbits of the electron in the ,
+hydrogen atom? | | | (2 marks)
+(d) asample of soil from Olduvai Gorge cave was examined. It was found to contain, among other
+things, pieces of charcoal. Further investigation on the charcoal revealed that kg of C’* nuclei
+decayed each second. It is assumed that this charcoal has resulted from decomposition of the
+| stone-age people who died there (i.e. at the cave) long time ago. Calculate the number of years
+: that have elapsed since these people died. a - (5 marks} —
+10. (a) What is the de Broglie wave equation? | i | | (2 marks) “™:
+(b) (i) . Anelectron is accelerated through a potential of 400 V. Determine the de Broglie .
+wavelength of this electron. — | (5 marks)
+- (ii) Determine the de Broglie wavelength for the beam of electron whose total energy is
+250eV. | (5 marks)
+| (c) (i) Whatisaphotoelectriccell? = = (2 marks) |
+(ii) The emission of electrons from the surface of a cathode of a certain phototube when
+irradiated with a light of wavelength 3500 x 10° ''m is found to stop when the plate
+potential is 1.2volt with respect to the cathode. Determine the work function of the |
+cathode. | | (6 marks) ”
+01312 | 6 |
+

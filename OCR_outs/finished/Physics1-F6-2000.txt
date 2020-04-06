@@ -1,0 +1,212 @@
+Physics1-F6-2000
+SECTION A (40 MARKS)
+Answer any four questions from this section.
+1. (a) (1) What is an error? Mention two causes of systematic and two causes of random errors.
+
+(2 marks)
+
+(11) The pressure P is calculated from the relation P = = where F is the force and R the
+T
+
+radius. If the percentage possible errors are + 2% for F and + 1% for R. Calculate the
+
+possible percentage error for P. (2 marks)
+
+(b) The speed v of a wave is found to depend on the tension T in the string and the mass per unit
+length u (linear mass density). Using dimensional analysis derive the relationship between v, T
+and wu. (3 marks)
+
+(c) The longitudinal wave speed in gases is given by v = -/yp/p; where y = 2 , P is the pressure
+and p the density of gas. If v, and v, are the speeds of sound in air at temperature T, and T,
+respectively, show that 7" =T,/T,
+
+NOTE: C, and C, are the specific heats of the gas at constant pressure and constant volume
+respectively. (3 marks)
+
+2. (a) Show that the period of a body of mass m revolving in a horizontal circle with constant velocity
+v at the end of a string of length | is independent of the mass of the object. (3 marks)
+
+(b) A ball of mass 100g is attached to the end of a string and is swung in a circle of radius 100cm at
+a constant velocity of 200cm/s. While in motion the string is shortened to 50cm. Calculate:
+
+(1) the new velocity of the motion.
+(11) the new period of the motion. (4 marks)
+
+(c) A car travels over a humpback bridge of radius of curvature 45m. Calculate the maximum
+speed of the car if the wheels are to remain in contact with the bridge. (3 marks)
+
+3. (a) Mention two motions that add up to make projectile motion. (1 marks)
+(b) (4) In long jumps does it matter how high you jump? State the factors which determine the
+span of the jump. (2 marks)
+(11) Derive an expression that relates the span of the jump and the factors you have mentioned.
+(3 marks)
+
+(d) A bullet is fired from a gun on the top of a cliff 140m high with a velocity of 150m/s at an
+elevation of 30° to the horizontal. Find the horizontal distance from the foot of a cliff to the
+point where the bullet lands on the ground. (4 marks)
+
+4. (a) Define simple harmonic motion. (2 marks)
+
+(b) Two simple pendulums of length 0.4m and 0.6m respectively are set oscillating in step.
+(i) After what further time will the two pendulums be in step again? (3 marks)
+
+2
+Find this and other free resources at http://maktaba.tetea.org/
+
+(41) Find the number of oscillations made by each pendulum during the time in (1) above.
+(2 marks)
+
+(c) Cite two examples of SHM which are of importance to everyday life experience.
+
+(2 marks)
+5. (a) What does one require in order to establish a scale of temperature? (2 marks)
+
+(b) A copper-constantan thermocouple with its cold junction at 0°C had an emf of 4.28mV when its
+other hot junction was at 100°C. The emf became 9.29mV when the temperature of the hot
+junction was 200°C. If the emf E is related to the temperature difference 8 between hot and cold
+junctions by the equation E = A@ + Bé’, calculate:
+
+(i) the values of A and B.
+(11) the range of temperature for which E may be assumed proportional to 8 without incurring
+an error of more than 1%. (4 marks)
+
+(c) The resistance R, of a platinum varies with temperature t according to the equation
+R, = R,(1 + 8000bt - bt’) where b is a constant. Calculate the temperature on platinum scale
+corresponding to 400°C on the gas scale. (4 marks)
+
+6. (a) Define the thermal conductivity of a material (2 marks)
+
+(b) Write down a formula for the rate of cooling under natural convection and define all the
+symbols used. (2 marks)
+
+(c) Heat is supplied at a rate of 80W to one end of a well lagged copper bar of uniform cross
+section area 10cm? having a total length of 20cm. The heat is removed by water cooling at the
+other end of the bar. Temperature recorded by two thermometers T, and T, at distances 5cm
+and 15cm from the hot end are 48°C and 28°C respectively.
+
+(i) Calculate the thermal conductivity of copper. (2 marks)
+(11) Estimate the rate of flow (in g/min) of cooling water sufficient for the water temperature to
+rise 5K. (2 marks)
+(111) What is the temperature at the cold end of the bar? (2 marks)
+SECTION B (30 Marks)
+Answer any THREE questions from this section.
+7. (a) What vibrates in the following types of wave motion?
+(i) Light waves
+(41) Sound waves
+(111) X-rays
+(iv) Water waves. (2 marks)
+
+(b) A plane progressive wave on a water surface is given by the equation y = 2 sin 2x( 100t-— 35 );
+
+where x is the distance covered in a time t. x, y and t are in cm and seconds respectively.
+3
+Find this and other free resources at http://maktaba.tetea.org/
+
+Find:
+
+(1) the wavelength, and frequency of the wave motion. (2 marks)
+
+(11) the phase difference between two points on the water surface that are 60cm apart.
+
+(1 mark)
+(c) (1) Show how wavelength and frequency of a wave are related. (1 mark)
+
+(11) Two open organ pipes of length 50cm and 51cm respectively give beat frequency of 6.0Hz
+when sounding their fundamental notes together, neglecting end corrections. What value
+does this give for the velocity of sound in air? (4 marks)
+
+8. (a) (1) What is electric potential at a point in an electrostatic field? (1 mark)
+
+(11) Derive an expression for an electric potential at a point a distance a from a positive point
+charge Q. (3 marks)
+
+(b) Positive charge is distributed over a solid spherical volume of radius R and the charge per unit
+
+volume is 6
+
+(1) Show that the electric field inside the volume at a distance r &lt; R from the centre is given
+by £ = va (3 marks)
+
+(11) What is the electric field at a point r &gt; R (i.e. outside the spherical volume).
+
+(3 marks)
+9. (a) What is meant by the terms electrical resistivity and ohmic conductor. (1 mark)
+(b) A 4m long resistance wire has a cross-sectional area of 0.8mm? and has a resistance of 2.80Q.
+
+Determine:
+
+(i) the resistivity of the wire. (1 mark)
+
+(11) the length of a similar wire which when joined in parallel will give a total resistance of
+2.0Q. (2 marks)
+
+(c) (1) State Kirchhoff’s laws of electric circuits. (2 marks)
+
+(ii) Two cells of emf 1.5V and 2.0V and internal resistances of 1Q and 2.0Q respecitvely are
+connected in parallel and across them an external resistance of 5.0Q. Calculate the
+currents in each of the three branches of the network. (4 marks)
+
+10. (a) An electron with charge e and mass m, is initially projected with a speed v at right angles to a
+
+uniform magnetic field of flux density B.
+
+(i) Explain why the path of the electron 1s circular. (2 marks)
+
+(11) Show also that the time to describe one complete circle is independent of the speed of the
+electron. (3 marks)
+
+(b) Calculate the radius of the path traversed by an electron of energy 450 eV moving at right
+angles to a uniform magnetic field of flux density 1.5 x 10°T (5 marks)
+4
+Find this and other free resources at http://maktaba.tetea.org/
+
+SECTION C (30 Marks)
+Answer any THREE (3) questions from this section.
+11. (a) Distinguish between metals and semiconductors in terms of energy bands. (3 marks)
+
+(b) Briefly discuss the formation of the potential difference barrier (depletion layer) of a p-n
+junction diode. (2 marks)
+
+(c) (1) What isa rectifier? (2 marks)
+
+(11) Using p-n junction diodes, draw the arrangement of a full-wave rectifier and briefly
+explain how it works. (3 marks)
+12. (a) Define the electron - volt. (1 mark)
+
+(b) Electrons in a certain television tube are accelerated through a potential difference of 2.0kV
+(1) Calculate the velocity acquired by the electrons. (2 marks)
+
+(ii) If these electrons lose all their energy on impact and given that 10'’ electrons pass per
+second in the TV tube, calculate the power dissipated. (2 marks)
+
+(c) (1) Explain why Audio amplification is necessary for a practical radio set. (2 marks)
+
+(ii) A coil and a capacitor in parallel are used to make a tuning circuit for a radio receiver.
+Sketch the resonance curve for the circuit. State two ways of changing the circuit to
+increase the resonant frequency. (3 marks)
+13. (a) Mention any three uses of a CRO. (3 marks)
+
+(b) A proton is placed in a uniform electric field E. What must be the magnitude and direction of
+the field if the electrostatic force acting on the proton 1s just to balance its weight?
+
+(3 marks)
+
+(c) A small charged oil drop is allowed to fall under gravity in the Millikan experiment, it is then
+made to remain stationary under the application of an electric field. Show that the charge Q of
+the oil drop is given by
+
+1/2
+o- (&lt;&gt;) ov)
+EX 200. PWS
+where 7 is the coefficient of viscosity of air, v the terminal velocity, p,, p, densities of air and
+oil respectively and v’ the new terminal velocity. (4 marks)
+14. (a) With reference to an earthquake on a certain point of the earth explain the terms ‘Focus’ and
+‘Epicentre’. (2 marks)
+(b) What is the importance of the following layers of the atmosphere?
+(i) The lowest layer
+(1) The ionosphere. (3 marks)
+(c) (1) Describe two ways by which seismic waves may be produced.
+(1) Describe briefly the meaning and application of “seismic prospecting”. (5 marks)
+5
+Find this and other free resources at http://maktaba.tetea.org/
+

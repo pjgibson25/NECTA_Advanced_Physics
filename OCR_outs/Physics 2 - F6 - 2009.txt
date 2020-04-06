@@ -1,0 +1,284 @@
+Physics 2 - F6 - 2009
+SECTION A
+I, (a) Define the borhos qe terms:
+(1) | esd SEPONS,
+QU) Penahe strana.
+"GY Youre — prcduhes
+(ND) Gd) Derive the eNpression for the work done in stretching a wire of length L
+; bv dod W through an extension X. .
+(MW) NV vcrtreal wire made Of steel of length 2.0 m and 1.0 mm diameter has a
+load 01.0 ke applied to its lower end. What is the energy stored in the
+Whe.
+(co) oN copper Wire Om Jong and 1.22. 1073 m diameter 1s fixed horizontally to
+Wo rigid supports 2.0 apart. Find the mass in kg of the load. which when
+' suspended at the mid point of the wire, produces a sav of 2.0 x 10 ~* m at the
+pot,
+» ‘ af r-: ) : . _* . . - °
+_. (@)) Define aneula Momentum and give its dimensions.
+(b) A grinding wheel ina form of solid cylinder of 0.2 m diameter and 3 kg mass
+Is rotated at 3000 rev/minute.
+GQ) Whatis its kinetic enerey?
+(WW) Find how lar it would have to fall to acquire the same kinetic energy as
+mM 2(b)0) above.
+1 eos . . . : ‘ .
+(C) A uniorm solid cvlinder of mass M and radius R rotates about a vertical axis
+on a frictioniess bearing. “A mass less cord rapped with many turns round the
+cylinder passes aver a pulley of rotational inertia I and radius r and then
+attached to a small mass m that is otherwise free to fall under the influence of
+gravity as shown in figure | below.
+fs :
+- ~~.
+: =
+' POM
+b .
+=e |
+—_.—~" } i ft
+J ales m
+; Loo Wh
+a a an a aa PO AT?
+lig. |
+9
+UK,ACSEE_O9 .
+, UR AQEEM
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+If there j Tiction j
+speed of t e vyon In the pulley axle and the Cord does jy Wp. what is
+. OF the small mass after j fa teny a dt Co IP wWRat rs the
+( SS affer it has fallen a distance h from roo
+“" .
+5. (a) (1) What is the differene: :
+s Hference between isothermal an} t:
+between isothermal and adiahatis processes?
+(11) Write down the equavion Of state Ohbeyed by CdCl rageee te 8
+above. poe Ses CA)
+i
+M1 Isino &gt; same or Jay ¢ .
+(11) Using the same graph and under the same conditions. sketeh the
+isotherms and the — adjabatics. : |
+(b) Derive the expression for the work done by the gas when 1 expands from
+volume V; to volume V&gt; during an
+(1) Isothermal process.
+(11) Adiabatic process. |
+‘
+(c) When water is boiled under a pressure of 2 atmospheres the boiling point is
+O : . , _ 4 : ~
+120°C. At this pressure one kg of water has a volume of 10‘ m’ and two kg
+of steam have avolume of 1.648 m’. Compute the
+(1) work done when one kg of steam is formed at this temperature.
+(11) increase in the internal energy. |
+4- (a) (1) State Kepler's laws of planetary motion.
+i
+(ii) Explain the variation of acceleration due to gravity, ¢. inside and outside
+the earth.
+(b) Derive the formulae for mass and density of the earth.
+. aay catallite?
+(c) (i) What do you understand by the term satellite’
+| ; ; Carly; ~eadius 7000 km
+(ii) A satellite of mass 100 kg moves ina circular orbit o! radius _
+. sear dirre uCutate
+around the earth. a ssumed to be a sphere of radius 0400 kin lt Se
+, test Ty) , Ve a ‘
+the total energy needed to place the satellite im orbit from tae &amp;
+assuming @ LO Nky-T at the earth's surkice.
+t
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+SECTION B
+S of Wy. ry rrfore yo! \ ; i +4, :
+DS. (ay iy hat Is interference? Explain the term path difference with reference to
+ie interference of two wave-trains. }
+q
+i “ hy is it not possible to see interference when the light beams from
+cad lamps of a car overlap?
+; ; yrerrres or se . . : :
+Giles | ISCUSS WW hethet I 1s possible to observe an interference pattern when
+White lightis shone ona Young's double slit experiment.
+) \ erating has § ines ner milli ar ; ;
+(b) ON crating has 00 lines per millimetre and is illuminated normally with
+Monochromatic heht of waveleneth 5.89 x 1077 m. |
+(1) TToww many diffraction maxima may be observed?
+(1) aleulate the angular separation.
+¥ VO ey 7 , Oy ; . °
+(c) In livure 2 below. S; and S&gt; are two coherent light sources in a Young’s two
+Si “Nperiment separated by a distance 0.5 mm and O is a point equidistant
+Hon ‘; and S2 at a distance 0.8 m from the slits. When a thin parallel sided
+piece of glass (G) of thickness 3.6 x 107° m is placed near S; as shown, the
+central fringe system moves from O to a point Ps Calculate OP. (The
+waveleneth of light used = 6.0x 107’ m). |
+P
+| |
+|
+! .
+oh
+UTA 7
+| .
+NS —
+1
+7
+Qs ™ - 0
+S; Ye
+.
+|
+|
+|
+'
+!
+eo . screen
+. 0.8m
+Fig. 2 ,
+6. (a) F aplan the mechanism of electric conduction 11.
+hy Maes,
+Gir electrolytes.
+’
+UK, ACSEE_OF
+UK AC DEES
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+(d) (i) Dev Juation ¢
+velop an equatio -the torque eq
+dimensions (xb placed in - Ce My ng
+ST y | aee@ dW a Magnetic field.  tlaw ds this effect
+apphed in a moving coil galvanometer?
+(1) A galvanometer col has 50 turns. each with an area io em. H the
+coulis ina radial field of 10°° TY and suspended by a suspcnsion of
+Nae, . at ; ~V . .
+torsion constant 2.x 10°" Nm per deeree. what current. needed to cive
+a deflection of 30°
+SECTION C
+. . ‘
+8. (a) Explain the following terms:
+(1) Forward bias.
+(11) Reverse bias.
+(ii) Inverting and non-inverting amplifier. |
+(b) Define the following:
+$
+(i) Logic gate. :
+(ii) Integrated circuit.
+(111) Modulation.
+(c) An operational amplifier is to have a voltage gain 0! LOO. a the
+: - +4 x 9 4 : . ~ L) Wing
+required values for the external resistances Ry and R» when the following
+gains are required:
+4
+(3) non-inverting.
+(ii) inverting.
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+(1) (1) ‘Sil .
+ue the laws of electromagnetic induction.
+(i) Otithne four amplicon: .
+Wine four applications of eddy currents. :
+CC) AN coil or fog :
+; TOPCO turns is rotated ; :
+/ ae ( at TS0Q0 revo &gt; ner my] ;
+field of uniform density 0.08 -T. Ifthe ay: Mons pe minute in a magnetic
+. | STEN MTSE, CoUNXIS Of Tot: fe at 1
+direction ef the (ux and the ares mor Is oF rotation 1s at right angles to the
+. area per turn is 4000 mm. calculate the: :
+' (1) [| CUUCHEY,
+(i) periad, }
+(it) maximum induced ent. ;
+(QV) lmasimum value of the induce : tae
+‘oa luc of the induced e.m.f when the coil has rotated through
+, aon rom the position of zero e.m.f. 7
+a rw Adhaera &gt; "(flo 3) s : ; .
+vcd. mM below (fig. 5) shows a wire of length ( carrying a current ] and
+pkiced in a magnetic lield B such that its length is perpendicular to B. Derive
+an expression for the force exerted on the wire.
+' Pl ee eH
+| \" \/ X x “ 4
+| /\ a
+xx {XXX XX
+| \. / . " . ;
+| ‘ ‘ ~ Xx Xx X *
+_—— %
+a /. A 7 VIN TN X xX x i
+PX XX X X XK XI
+| A
+x 7 X XBXX X X_ X X:!
+Fig. 3
+q
+(b) (4) falve a general form expressing the force exerted on the wire carrying
+current Lif its length (is inclined at an angle 6 to the magnetic field B.
+(ii) \ wsire carrying a current of 2A has a length 100 mm in a uniform
+. . _? —s . .
+aenetic field of 0.8 Wom ~~. Find the force acting on the wire
+. ) :
+«shen the field is at 60° to the wire.
+(c) A wire carrying a current of 25 A and § m long 1s placed in a magnetic field of
+Nux density 0.42 T. What is the force on the wire if it is placed:
+(4) atripht angles to the field’?
+(iyp ah Po to the field’?
+Gi along the field’?
+!
+a
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+(d) Given the circuit in figur - decors
+_ is raised sudd " Tomo. . YON. describe what happens to V o When i
+suddenly Irom U to 1V and remains at that Voltage,
+2uP
+. a. ;
+1M |
+|
+|
+ro | |
+we IV,
+|
+| |
+|
+Y 0
+Fig. 4 OV
+(a) Write down Bragg’s equation for the study of the atomic structure of cis stils
+by X-rays. ~
+(b) The radiation from an X — ray tube which operates at 50 kV is diffracted by i |
+cubic KCl crystal of molecular mass 74.6 and density 1.99 x 10° kg in| |
+Calculate:
+(1) The shortest wavelength limit of the spectrum from the tube.
+
+(ii) The glancing angle for first order reflection from the planes of the
+
+crystal for that wavelength and angle of deviation of a diffracted beim.
+(c) The radiation emitted by an X — ray tube consists of continuous spectrum with
+
+a line spectrum superimposed on it. Explain how the continuous spectium
+
+and the line spectrum are produced.
+
+) Draw the graph of the spectra stated. ‘
+10. (a) Explain the following observations:
+
+(i) A radioactive souree is placed in front of a detector which can detec! all
+forms of radioactive emissions. It is found that the activity registered rs
+noticeably reduced when a thin sheet of paper is placed bebween the
+source and detector.
+
+(1) =Whena brass plate with a narrow vertical shit is placed in front 0 the
+
+: radioactive source in 10.(a)(i1) above and a horizontal: magnetic Hel
+normal to the line joining the source and the detector is applied. its
+found that the activity is further reduced.
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+it) The magnetic field in 10.(a)(ii) is removed and a sheet of aluminium is
+placed in front of the source. The activity recorded is similarly reduced.
+(b) ovis Define the terms laser and maser. |
+cit Gave three applications of laser. |
+. . 9 ) ;
+(or 41) A laser beam has a power of 20 x 10° watts and a diameter of 2 mm.
+Calculate the peak values of electric field and magnetic fields.
+sii A 2.71 g sample of KCl] from the chemistry stock: 1s found to be
+radioactive and decays at a constant rate of 4490 disintegrations per
+second. The decays are traced to the element potassium and in particular
+to the isotope “"K which constitutes 1.17% of normal potassium.
+Calculate the half life of the nuclide. :
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+

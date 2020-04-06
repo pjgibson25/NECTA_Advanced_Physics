@@ -1,0 +1,152 @@
+Physics 2B - 1998
+-~ 2 = |
+| SECTION A
+Attempt at least ONE (1) question from this section.
+1. (a) (i) Define simple harmonic motion. (02)
+(11) Prove that, the velocity v of a particle moving in simple
+harmonic motion is given by:
+ve=w \/ A-y; where A is the amplitude of
+oscillation, w the angular frequency and y the displa-
+- cement from the mean position. (04)
+(kh) A simple pendulum has a period of 2.8 seconds. When its length
+.. is shortened by 1.0 metre, the period becomes 2.0 seconds. —_
+From this information, determine the acceleration g; of
+gravity and the original length of the pendulum. (04)
+(c) A particle rests on a horizontal platform which is moving
+vertically in simple harmonic motion with an amplitude of
+50 mm. Above a certain frequency the particle ceases to remain
+in contact with the platform throughout the motion. With a
+help of a diagram and illustrative equations, find;
+(1) the lowest frequency at which this situation occurs. |
+(ii) the position at which contact ceases. (10)
+2. (a) (i) What is terminal velocity? - (02)
+(ii) Briefly explain an experiment designed to measure
+terminal velocity. ce (03)
+| (b) A small sphere of radius r and density Oo is released from
+the bottom of a column of liquid of density (© which is
+slightly higher than oO . Deduce expressions for;
+(4) the initial acceleration of the sphere. (05) ~
+(ii) the terminal velocity of the sphere. (05) |
+. (c) Two equal drops of water are falling through air with a
+steady velocity of 0.15 ms7!, If the drops coaleasce, find,
+| their new terminal velocity. (95)
+3. (a) (i) State Newton's laws of motion.
+(ii) Explain why a length of horse pipe which is lying in
+a curve on a smooth horizontal surface, straightens out
+when a fast flowing stream of water passes through it. .05)
+- (bob) A ball of mass 0.4 kg is dropped vertically from a height of
+" 2.5 m on to a horizontal table and bounces to a height of 1.5 m.
+(i) Find the kinetic energy of the ball just before striking the
+. table.
+a (11) Find the kinetic energy just after impact.
+.
+vt 5 a |
+
+-~3-
+(iii) Suggest reasons for the difference between these two BIS ene
+values of kinetic energy.
+(iv) What height would you expect the ball to reach after
+its next bounce from the table? (10)
+(c) A jet of water flowing with a velocity of 20 ns”? from
+a pipe of cross-sectional area, 5.0 x 107-32, strikes |
+a wall at right angles and loses all its velocity.
+(i) What is the mass of water striking the wall per second?
+(ii) What is the change in momentum per second of the water
+hitting the wall?
+(iii) What is the force exerted on the wall? — (05) |
+4. (a) What is a diffraction grating? (02)
+~ (b) A diffraction grating has 5000 lines per centimetre. At what
+| angles will bright diffraction images be observed, if it is
+used with monochromatic light of wavelength 6.0 x 107/m at normal
+incidence? (10)
+(c) A lamp emits two wavelengths, 4.2 x 107 /m and 6.0 x 107'n.
+Find the angular separation of these two waves in the third
+order diffraction pattern produced by a diffraction grating
+having 4000 lines per centimetre, when light is at normal
+incidence on the grating? (08)
+SECTIUN B
+Attempt at least ONE (1) question from this section.
+5. (a) (i) A girl is holding a metal rod in her hand and rubs its surface
+with fur. Explain what happens toa the rod. (02)
+: (ii) Can charge be conserved? Give at least two examples
+to support your answer. (03)
+&gt; (b) The distance between the electron and proton in the hydrogen atom
+is about 5.3 x 107!!n. Calculate the electrical and gravitational
+forces between these particles. How do they compare? (06)
+(c) A capacitor of capacitance 3 AF is charged until a potential
+_ difference of 200 V is developed across its plates. Another
+capacitor of capacitance 2,4F developed a p.d. of 100 V
+across its plates on being charged.
+(1) What is the energy stored in each capacitor? ~ (O1)
+(ii) The capacitors are then connected by wires of negligible
+resistance, so that the plates carrying like charges are
+connected together. What is the total energy stored in
+the combined capacitors? (02°
+(iii) What would the time constant of the circuit be, if the
+resistance of each wire connecting the plates was
+10 ohms? (02)
+
+th thee ase! ~4-—-
+eG, (a) (i) Define the term self inductance for a coil. (01)
+(ii) Give the S.I units of self inductance. (01)
+(b) Derive an expression for the coeffictent of self induction of
+a uniformly wound solenoid; of length 1, cross-sectional area
+A having N turns in air. (06)
+(c)} Two coils A _ and B have 200 and 800 turns respectively.
+A current of 2 amperes in A _ produces a magnetic flux of
+1.8 x 10 “Wb in each turn of B. Compute:
+(i) the mutual inductance. (04)
+(ii) the magnetic flux through A when there is a current
+of 4.0 amperes in B .and ~ (04)
+(iii) the emf induced in B when the current in A changes
+from 3 amperes to 1 ampere in 0.2 seconds. (04)
+7. (a) Describe and explain briefly a method for measuring the
+specific charge. Mension the errors expected in this method. (08)
+(b) An electron is projected horizontally with a velocity of
+2.0x 10 ms into a large evacuated enclosure. A magnetic
+field which has a flux density of 15 x 10-4 tesla is directed
+_ vertically downwards throughout the enclosure. Find
+(i) the radius of curvature of the electron's path. (04)
+(ii) how many complete loops must the electron describe
+before it falls by 1.0 cm under the influence of gravity? (06)
+(iii) What would be the effect of changing the direction of the
+magnetic field to upwards? (02)
+SECTION C
+Attempt at least ONE (1) question from this section.
+oS
+8. (a) What is thermionic emission? (02)
+. (b) Describe the function of each of;
+| (i) the electron gun (02)
+(ii) the deflection system and (02)
+(iii) the display system of the Cathode ray Oscilloscope. (02)
+{c) The figure drawn below shows a waveform displayed on the
+screen of a Cathode Ray Oscilloscope. The grid has squares of
+1.0 cm. If the Y amplification is 2 V cm7! and the time
+- base is 30 ms cm7!, what is
+(i) the peak voltage and
+(ii) the frequency? (06)
+
+-5-
+(d) Sketch the traces seen on the screen of a cathode ray oscilloscope
+when two sinusoidal potential differences of the same frequency —
+and amplitude are applied simultaneously to X and Y plates of |
+a cathode ray oscilloscope, when the phase difference between them is:
+“_—,
+(i) 0° (ii) 45° (iii) 90°. (Q6)
+9, (a) Explain the terms: atomic mass unit, mass defect, packing
+fraction and binding energy. (04)
+(b) Discuss carbon dating. (10) |
+(c) Find the age at death of an organism, if the ratio of amount of
+ci4 at death to that of the present time is 10° and that the
+half life of cl4 is 5600 years. (06)
+10. (a) Explain the following terms: Earthquake, |
+‘Earthquake focus, Epicentre and Body waves. (04)
+(b) List down three (3) sources of earthquakes, (03)
+(c) (i) Define ionosphere. (OL)
+(Li) Mention the lonospheric layers that exist during the
+| day time. (02)
+(iii) Give the reason for better reception of radio waves for
+~ High Frequency signals at night than during the day time. (02)
+(d) Explain briefly three different types of radio waves
+travelling from a transmitting station to a receiving antenna. (08)
+

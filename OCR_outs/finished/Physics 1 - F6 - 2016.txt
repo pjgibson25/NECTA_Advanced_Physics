@@ -1,0 +1,325 @@
+Physics 1 - F6 - 2016
+Bete i
+Be SECTION A (40 Marks)
+pS
+7 er |
+os Answer four (4) questions from this section.
+r . | a , ‘ (1 mark)
+rf, - l. (a) (1) Define the term dimension of a physical quantity.
+ye | i, |
+mE - . &gt; ‘ ») xX -avls Ina unit
+. (ii) | The number of particles n crossing a untt area perpendicular to 2
+a ee n,—n &gt; are articles per
+F time is given as n __pn) =") where n, and n, are the number of p p
+2 (x, — 4, f
+. enact; the SIONS O
+. unit volume for the values of x, and x; respectively. What are the om j :
+f
+. oo: } marks
+r diffusion constant D? ( )
+: (b) (i) Give two basic rules of dimensional analysis. (1 "LE 0
+(ii) | The frequency, f of a vibrating string depends upon the force applied, F the
+- length, | of the string and the mass per unit length, y/ . Using dimension show how
+7 f isrelatedto F ,/ and yw. (2.5 marks)
+: (c) (i) | What is meant by least count of a measurement? (1 mark)
+Re a f
+BR: (ii) | The period of oscillation of a simple pendulum is given by T = 27 2 where by
+1 |
+a. 100 vibrations were taken to measure 200 seconds. If the least count for the time
+c and length of a pendulum of Im are 0.lsec. and Imm respectively, calculate the
+- maximum percentage error in the measurement of g. (2.5 marks)
+me 2 (a) (i) Mention two characteristics of projectile motion. (1 mark)
+=. ie (ii) If the range of the projectile is 120m and its time of flight is 4sec , determine the
+i oa angle of projection and its initial velocity of projection assuming that the
+aa "E i acceleration due to gravity g =10ms~. (3 marks)
+Re
+_ae ese |
+Stn En a ° ea . ae . .
+ee (Oy (3) State the principles on which the rocket propulsion is based. (1 mark)
+a rs Bi (ii) A jet engine on a test bed takes in 40kg of air per second at a velocity of 100ms™
+cant ghee moe ed Biveern .. ° ,
+te Baaass- — and bums 0.80kg of fuel per second. After compression and heating the exhaust
+7 a beat an gases are ejected at 600ms™' relative to the air craft. Calculate the thrust of the
+aS, fae (2 marks)
+PNM RRS ert EN a. Din fa d ta . ae
+ee ea scice tuss. 2kg is attached to the hook of a spring balance which is suspended
+PrP Rewrerel Tabi Sema Aen on De Using fn ol waned! ‘ o ce.
+nee cia. © 1 What is the reading on the spring balance when the lift is:
+Ce see OF Ome (Lmark) |
+fein. rae ea ks et ante nme fel git mm. ee - = ct ° "
+Re eee os. Witt anpacceleration of 0.lms (1.mark) ;
+oarhees pe Pa MATTTOTT: mlooity of 0.15ni0e! ee :
+bo a aeeray or oe eet SS | oo a ha ghee e
+| . . a a | a ae c a a ~ . “ike Pe bn fhe om" Sek 67 oe 3 . e | mae nr i) . PS . H =
+eT eR ees Sean Ee pe Bay Ap A on ‘Called the law-of inertia? Cie): ier
+. erent fe Ate E, | eae reve ieee ,
+DSMOPESITE PREP ete ys . . ee |
+DORMER Mtg Se ly
+EES MOMENT og “$4, a
+| an oe air ki i ah is Bt ae id
+
+(2 saa
+"ESSE
+by \ jet of water from a fire hose is capable of reaching a height of Ti: Fe a
+ot aed) area at MS
+‘ectional area of the hose outlet is 4.0 x 104m? , calculate the - A ae
+i) Minimum speed of water from the hose. ee
+. oe a : oo
+(in) Mass of water leaving the hose each second. " es GO
+. , ) - 1 ; ne 7 |
+Ga) Force on the hose due to the water Jet. Gare
+ee core a
+bo A boy ties a string around a stone of mass 0.15kg and then whirls it m a0 gee a
+Wa TT eee Fo
+- 60 . e « : _ a ae ote ; os mo
+at constant speed. If the period of rotation of the stone is 0.4sec and the lengtlt Se oe
+the stone and boy’s hand is 0.50m a
+: 6 oe
+(1) Calculate the tension in the stnng. QSz eee
+(il) State one assumption taken to reach the answer in 3 (c) (1). 65:5 en
+BAD Rs Sa
+SSE
+4. (a) What do you understand by the following terms: 7 ou
+(1) Damped oscillations. (1 mil Oe
+oe e ° i. yee . “1? me
+(i) Undamped oscillations. (1 tam) ae
+(b) (1) Sketch the waveform diagrams to represent the terms in 4 (a) (1). (2 nee meres
+(18) Show that the total energy of a body executing S. HM is independent of trie: G5)"
+“a diy (oS SHRI = ts
+eee
+Ee 8
+my ' Aaa y iN
+f f 20Nm7 since hee ees
+(Cc) A mass of 05kg connected to a light spring of force constant 20Nm™ GOraiiaeey Arenas
+1 + *? . | _@. eal ees ue. Sane e
+horizontal frictionless surface. If the amplitude of the motion 1s 3.0cm , calculate Tie oa: ek
+. - _ ae So ae pee van et
+(;) Maximum speed of the mass. aaa Ge
+. - os | . eg Ma 2a 2 ees aad
+(ii) | _ Kinetic energy of the system when the displacement is 2.0cm . a3 re a
+2 FE, are
+a ee
+Behe
+fin a hy , - ts Si rc
+5. (a) (i) What is meant by moment of inertia of a body? ae Axa pe TE
+(ii) List two factors on which the moment of ineitia of a body depends. - ae eer
+os Oe =: ot : wo : A pcs! ,. : * SPR eee nn RT,
+Find its moment of inertia. on tho RAPS AME ee te
+. T nx 8 onetng throdih ie macteie Ci : ee we Taegan foe
+| (ii) Width and passing cumnigh fp + en aon Bt a Gee, . a Ff ane ne
+- ; 7 ; nos ee ae vr Ste a - eee a cys P :.s Ve oh) aoe: ' Pa +e ai “ie pe ; ah Sar oe a a 7 a mo
+Be Pg on atte SEIS, ae oh A oe ae
+; Say el i ges haat ick, ck hace RRC Pee cant a i ae
+PO By . () eee @ ferme S a RACES Te aN an ee
+ae a i hoe - aa Cr aa : ahaa i “3 = ‘ ae tal , Ae ee ; a area va an re ee - a
+. _ mode an) te i! Mr, os - a PRL CU: (cone aie a arse a : ae nh ' ' a | 7 ri, a | ;
+Be iA At A. 2. 7\ cr rr rr re
+poy Wy, og ig We Sia wees Sy oa a” iene ua rer eae eT Mya . | oe od ; | 7 .
+sa Sts Henge ek olf ne i ne
+
+: os . : ae oe
+(ii) A spaceship is launched into a circular the spaceship if order an
+additional velocity has to be imparted to a
+gravitational pull? ag
+. “ : !
+SECTION B (30 Marks} an
+‘ons from this section. “ae
+Answer three (3) questions oe
+- apg vs
+? (at) Briefly explain why: | -
+(1) A body with large reflectivity 1s a poor emitter. ‘dto live Gan
+(1i) ‘The earth without its atmosphere would be too co Ss
+7 | a al conductivity Of
+(b) (1) Identify two factors on which the coefficient of therm "an
+depend. ae
+a . -1 2 f 1.0cm boils Pe
+(i) A brass boiler of base area 1.50x10'm" and thickness She ‘emperatui ae
+; . : ae
+rate of 6.0kg/min when placed on a gas Stove. Estimate Poe oe
+of the flame in contact with the boiler ee
+a in
+(c) (1) Briefly describe the working principle of a thermocouple. hi eo
+(11) In acertain thermocouple thermometer the e.m-f is given by E=a +7
+* 0 —-2 —_— _. = ae a 4
+8 1s the temperature of hot junction. If a=10mV'C™ , b= an mV 1
+junction } ° al ture (Léa
+cold junction is at O'C , calculate the neutral temperature. ore
+| coe ers.
+8. (a) (1) What 1s meant by thermal radiation? OF =
+(ii) Bnefly explain why forced convection is necessary for excess temperate i
+20K? . Be
+(b) (i) Whyi1s the energy of thermal radiation less than that of visible light? Os
+(11) A body with a surface area of 50cm’ and a temperature of T1235 :
+300 joules of energy in one minute. Calculate its emissivity. a
+a
+A
+(c) (1) State Newton’s law of cooling. in
+"1 | 0, . &gt; _! “ 7
+(ii) A body cools from 70°C to 40°C in 5 minutes. If the olin
+surroundings is 10°C , Calculate the time it takes to cool from SO" (CHIEN
+ann
+9. (a) (1) Define the term junction as applied in electrical network, "2S
+(ii) What ts the physical significance of KirchhofP's first law, 5 ia
+re a a a
+. aos ees tl] eg na le a cay eee hte . : 303 reat
+, (ii) List down five. points to be considerid wit ‘isonet
+mee ees | Ob tet -. mS -", SF ie tet. "Fut i: aa, “a enn. ; ee eo
+rp abe SS eg eae ees Jeet ead fe |
+rants ; ete _ TES z Ms A wali ye pe NAG ie nae Bae teste naira Oe
+= ena ai a . | - . erty ~¢ . . a ! ea Aer oe role on ee oye Pe ce oo, a Son
+Me os ee a
+os ot ; =! mdse is with: ae " ee ; oe : .! . | oe ; .
+
+. : : a 7 OR A eK Pera ere
+0 SEE Sa outa a
+EEE RES Re pow |
+  . : Sake Mes a" Pe aaa 7 - '        Fi — a oon   -
+COLES TL as Feo, ca pee ee are Oa 4 ae
+tr Ea ee ar a ee and ather free | ae
+(c) ey oan Th “. penata rd ari eee so araieaca rin ROP Ce ETM ts o/h
+. =; gests amy, ob 'g' fa* ms fen ye ty a   :
+Da ST i ie oe ee rc a a
+. - “ " aie . be ¥ a 4 ae aS sides eee Baer a = ro o oe ; ' ,    a
+: OS ES Ck eg eae ee re
+  : rt ‘e .| ayy ° = 36 . a os x J a a F . : ot Dan we “ey ; a -
+a Ce 5h vit fe rete ee pe i eae coe! A
+| RS:  e. “ee BOS - . “a .   Pees eer? Mb ay ne Sein ct a
+| ct Sie ih ON LOE ry ot wens jae
+7 | | ~ - ) | OT , be - a d anak 7 . | ‘Tv ase ge ae ; . ae
+a : ne ’ : S 7 a ue fe ' VES am . 7 a _ ,
+~   , awe wt ates ae ee
+| ! ¢ mo, vet oe . re |
+;   . : ! my    : neti vg tors s : | a
+CT   CS
+te
+| V . . 7 “ ~&lt;A re rah 7 ; oo   
+2Q e . : 7 ee 7
+       TOE Sea aa :
+- 7 chp Uae 5 ar
+Ki oR 2 ao a —
+2s =) Rad ae ~ ors
+gure ] ve i PA oa ae
+(1) | . , . F A ee
+. : oa? fic ee el el fo
+OW many loo | ees vet ee
+(ii) Find ps are there in the circui a
+ind the current flow; e circuit? oo Se a
+oe — *. To uo " = ;
+1() owing through 20, 4Q ee
+(a) What i “40 and 8Q resistors, 8 ae
+at is meant by th resistors.
+; e foll   oe ee —
+(i) Ph y the following terms a
+o ase of alternating e erms: Fy oe  
+oot mean s \ ae ane
+qguare (r.m S) value f | gas MS (oe 7 |
+°   e- 7 a a   _ ol a e -
+O alternatin emf vcd arn Po
+(0) An ac Cl   g ee | pe   ee coset
+  = Wee: ee ne in oi
+  circuit consist of a &gt; aoe
+230V S5O0Hz.C pure resistance of |   SLE Pe
+z. Calcul OG 1 | aah a set per
+  ate the; s connected across ‘ai’ 2
+(1) Cu   across: a ae en areas
+fos rrent flow1 ' * . oo are eG mee *. re i va 7 ye oa
+ng in th . : te &lt;a aie. wit
+(ii) | Power diss! € circuit Se re
+ISSIP d   A St | See ne
+ssipated. gi apes ARR ay
+se Cie ae eae
+7 meas rs ae of 1s ie Haas
+(c) A 25 pF . ay Fs ee Berar noe as oe
+capacitor, a 0 ; - {ee SABIE Si sey
+a ,a 0.10 inductor and a NEOs eras
+c source wh da 2502 res! SPE Bg Pes
+e &amp; 4 e . . ; . on Lg -. a4 tee - =t--.4° 3
+F — ° - VAS . sedi } wat aati Pea
+ee e€ eC f O t Determine th *   ile: my coy * rahe iy F
+(13) Net reactance of m. : ° - S; oS   =f Uda 3
+‘ a feet ' ., .. SS at 7 &lt; :
+the circuit , . , a x wae se /~_': hse "
+  vege oe _ ; om a Belg eee
+. L MIS        “¢ r     ee
+  SECTION C BS
+  ks)   Won slo
+| Answer th Be fe,
+  er three (3) vest ; ee ad
+3 1] ons from this section   oo a
+: . (a) (1) h . . ce (0g
+  What : : AS
+- 1S the importance of do . .. ae | Bea
+: tween fl—     onductors? pg ay oad
+  e and p—type semicondu rs &gt;.
+    e ‘ Y - Ga~» 1 7 ge
+- ctors. Give three:poiits.. 3
+- (b) (i) Why ,   reepoints...-
+' 2 are transistors mo ;     er. el
+stly us a,   ae
+  (ii) Whend   in common emitter arran anit Save
+  oes a transistor amplifier work as of emitter arrangement? 3 ee ee
+(c) , hore (7 aaa
+  Expl h oe =A RR
+, i. xpian the use of an op-amp as a summ sing amplific ae
+(ii) Figure 2 |   aannee amplifier. eas 7a
+is an operational amplifier citt / eT. Asie So
+: R — ; . 4 re 7 aa! where R a&gt; 30K "4 rye ee ; 7 a a
+"210K and R,=2.7K. oult where R, =39k02,. 2am
+; oO oe On Ns ae
+° . toe oo egg an
+"Y te z . -   | ; 3 oS oe ee
+° ° |   ‘ . ‘ os . 7 toe ee he ee   i
+  °   ot | on. '      : | an  
+: . we EON eu 3 ea othe
+‘ . . . e- a¢ ro Ue ae oat — ‘
+  . | . s me Le = ne! ; “¥h ares i ;
+'   oa | .   :   . - | . - | | . 7 on we . . Nees oy r : 7
+; | er 2 vows Jpeg et Mets woh et aa ; . ye oF SMA EE Ee ght ae ey sorte onan
+yee Cee OE ay nono yg ee tee SE SE po ee nd ft ca SES igs 4 te ae  
+  eT Rear Hooves i el Sg dee ah ore SCitt hy a eT
+
+= | 8
+1 R ee
+I, He
+; x
+y 1, , &gt;
+|
+V, e Ye V,
+V,
+Figure 2
+Calculate the output potential V, given that the input voltage V, = 4.0V,, V, =-25V
+and V, =1.5V (2.5 marks)
+12) (a) Name three electronic circuits in which multivibrators can be constructed. (1.5 marks)
+(b) (1) List down three types of multivibrators. (1.5 marks)
+(1) Briefly explain the applications of multivibrators listed in 12 (b) (1) |
+(4.5 marks)
+(c) (2) Mention two characteristics of op-amps. (1 mark)
+(ii) Bnefly explain why op-amps are sometimes called differential amplifiers?
+(1.5 marks)
+13 (a) Discuss the mode of action of each of the following sensors:
+(1) Thermistor (TH). (15 marks)
+(i1) Light Dependent Resistor (LDR). (1.5 marks)
+(b) Give symbols, expressions and truth tables for each of the following logic gates: a
+(i) NAND gate (15 marks)
+(ii) Exclusive NOR gate. 3 (5 marks)
+(c) (i) Why is NAND gate-considared ax basic building block far a variety of logic cirouits?
+oy Te Soa a: Ease GEE _ Qmark)
+. cre . i Vasge eal oes a e mie! tei! ¥ + ce te = iasay Lo ; o; waters + os 7
+(i) Produce a truth fable for ig ile oven in Pigice &gt; Benes aey teak Geb SyE
+AND gate. waa a An oe eas
+pcos saad Se eit, as ed dReh Ay Te ee ‘- me
+A— 4 Se =P, Sy Ale aa geet mte gt Te: So
+ete ee ear: hk aT: Rea oe 7 |
+aT es 5 Set eo VASA BE SAL Ee ee
+B nerd TREES ed ol gs Cat RE Loe ee
+1 7S Ln Ca SNE © SLSR LSE abd 3) Mie SO tte
+- VAS PTR ORE RARER COAT Ciel DER CANIM co
+‘= a f ’ ae Sle nie a oe - he Le i na ae a e ya a?
+. . pe ee ; fe SERN fly A ae
+a aS ee an pe ; ' a Pannnta Le Sgt ites
+Cte AAs dey “As. Jie oe ae | a | 7 -
+aera () 0): Aa ee ck
+Pe , =) et ee
+So . RE? ry cea
+7 oe Beay i. ion a
+

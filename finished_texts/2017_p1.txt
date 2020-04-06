@@ -1,0 +1,136 @@
+﻿Physics 1 - 2017
+
+Give the meaning of the following terms as used in error analysis:
+(i) Absolute error. 
+(ii) Relative error. 
+
+The force ‘F’ acting on an object of mass ‘m’, travelling at velocity ‘V’ in a circle of radius ‘r’ is given by: F = m v^2 / r If the measurements are recorded as: m = (3.5 plusminus 0.1) kg, V = ( 20 plusminus 1) m/s, r = (12.5 plusminus 0.5) m; find the maximum possible
+(i) Fractional error. 
+(ii) Percentage error in the measurement of force.
+(iii) Show how you will record the reading of force, ‘F’ in the question above. 
+
+Define the term dimensions of a physical quantity. 
+
+Identify two uses of dimensional equations.
+
+What is the basic requirement for a physical relation to be correct? 
+
+List two quantities whose dimension is [ M L^2 T^-1 ]
+
+The frequency ‘f’ of vibration of a stretched string depends on the tension ‘F’, the length ‘l’ and the mass per unit length mu of the string. Derive the formula relating the physical quantities by the method of dimensions. 
+
+Use dimensional analysis to prove the correctness of the relation, rho = (3 g) / (4 pi R G ) where by rho = density of the earth, g = acceleration due to gravity, R = radius of the earth and G = gravitational constant.
+
+Why does the kinetic energy of an earth satellite change in the elliptical orbit?
+
+Give two factors which determine whether a planet has an atmosphere or not.
+
+A space craft is launched from the earth to the moon, If the mass of the earth is 81 times that of the moon and the distance from the centre of the earth to that of the moon is about 4.0x10E5 km;
+(i) Draw a sketch showing how the gravitational force on the spacecraft varies during its journey. 
+(ii) Calculate the distance from the centre of the earth where the resultant gravitational force becomes zero. 
+
+Justify the statement that ‘If no external torque acts on a body, its angular velocity will not conserved.
+
+A car is moving with a speed of 30 m/s on a circular track of radius 500m. If its speed is increasing at the rate of 2m/s, find its resultant linear acceleration.
+
+An object of mass 1kg is attached to the lower end of a string 1m long whose upper end is fixed and made to rotate in a horizontal circle of radius 0.6m. If the circular speed of the mass is constant, find the:
+(i) Tension in the string. 
+(ii) Period of motion. 
+
+A 75kg hunter fires a bullet of mass 10g with a velocity of 400m/s from a gun of mass 5kg. Calculate the:
+(i) Recoil velocity of the gun. 
+(ii) Velocity acquired by the hunter during firing.
+
+A jumbo jet traveling horizontally at 50m/s at a height of 500m from sea level drops a luggage of food to a disaster area.
+(i) At what horizontal distance from the target should the luggage be dropped?
+(ii) Find the velocity of the luggage as it hit the ground. 
+
+The equation of simple harmonic motion is given as x=6 sin( 10 pi t ) + 8 cos( 10 pi t ) , where x is in centimeters and t in seconds. Determine the:
+(i) Amplitude 
+(ii) Initial phase of motion. 
+
+Show that the total energy of a body executing simple harmonic motion is independent of time. 
+
+Find the periodic time of a cubical body of side 0.2m and mass 0.004kg floating in water then pressed and released such that it oscillates vertically. 
+
+Give a common example of adiabatic process. 
+
+What happens to the internal energy of a gas during adiabatic expansion?
+
+A mass of an ideal gas of volume 400cm^3 at 288K expands adiabatically. If its temperature falls to 273K;
+(i) Find the new volume of the gas. 
+(ii) Calculate the final volume of the gas if it is then compressed isothermally until the pressure returns to its original value.
+
+State the following according to heat exchange:
+(i)  Prevost’s theory. 
+(ii) Wien's displacement law.
+
+Briefly explain why:
+(i) Steam pipes are wrapped with insulating materials?
+(ii) Stainless steel cooking pans fitted with extra copper at the bottom are more preferred?
+
+The value of the property X of a certain substance Is given by X_{theta}=X_0 + 0.5 theta + 2x10E-4 theta^2  , Where theta is the temperature in degree Celsius. What would be the Celsius temperature defined by the property X which corresponds to a temperature of 50 degrees C on this gas thermometer scale? 
+
+What is the advantage of using a greater length of potentiometer wire?
+
+Why is Wheatstone bridge not suitable for measuring very high resistance?
+
+Study the circuit diagram below, then answer the questions that follow:
+### Insert diagram here ###
+If the value of R_1 = R_2 = R_3 = R_4 = 1.0 ohms , R_5 =2 ohms , E_2 = E_3 =4V, E_1 =2.0V, calculate the:
+(i) Current flowing through the circuit.
+(ii) Potential difference. V_{ab} 
+
+List two factors on which the resistivity of a material depends. 
+
+A wire of resistivity, rho , is stretched to double its length. What will be its new resistivity? Give reason for your answer. 
+
+Why a high voltage supply should have high internal resistance?
+
+Justify the statement that ‘it is not possible to verify Ohm's law by using a filament lamp’.
+
+A potential difference of 4V is connected to 4 uniform resistance wire of length 3.0m and cross-sectional area 9x10E-9 , when a current of 0.2A is flowing in the wire. Find the:
+(i) Resistivity of the wire.
+(ii) Conductivity of the wire. 
+
+Briefly explain the function of the following:
+(i) Oscilloscope
+(ii) Op-amps
+
+Study Figure 2 then construct a truth table showing the output P, Q and R.
+### Insert figure here ###
+(i)  List three basic elements of communication system. 
+(ii) Explain the advantage of using optical fibre systems instead of coaxial cable systems in telecommunication processes.
+
+Define the term semiconductor.
+Give three examples of semiconductor materials. 
+
+Outline two factors on which electrical conductivity of a pure semiconductor depends. 
+
+How does the forbidden energy gap of an intrinsic semiconductor vary with increase in temperature? 
+
+The figure below is a circuit diagram containing an ideal diode.
+### Insert figure here ###
+Calculate:
+(i) The peak voltage. 
+(ii) The period. 
+
+Explain the meaning of the following terms:
+(i) P-type semiconductor.
+(i) N-type semiconductor. 
+
+List three types of transistor configurations.
+
+Why is collector of a transistor made wider than emitter and base? 
+
+A change of 100 A in the base current produces a change of 3 mA in the collector current. Calculate:
+(i) The current amplification factor, BETA
+(ii) The current gain, ALPHA
+
+State three sources of heat energy within the interior of the earth. 
+
+Discuss two advantages of windbreaks to plant environment. 
+
+Briefly explain the major causes of the following types of environmental pollution:
+(i) Water pollution. 
+(ii)  Air pollution.

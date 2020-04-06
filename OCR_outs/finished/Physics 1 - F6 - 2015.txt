@@ -1,0 +1,200 @@
+Physics 1 - F6 - 2015
+SECTION A (40 Marks)
+Answer four (4) questions from this section.
+la) (1) What is meant by random errors? (1 mark)
+(n) Briefly explain two causes of random errors in measurements. (2 marks)
+(b} ihe period T of oscillation of a body is said to be 1.5 + 0.0028 while its amplitude A
+is 0.3 + 0.005m and the radius of gyration k is 0.28 + 0.004m. Ifthe acceleration due
+iO "4 r . fA A + ke?
+gravity g was found to be related to T, A and k by the equation —— =/{©—__—.. , find
+4st” i
+the:
+MH) Numencal value of, g in four decimal places. (1.5 marks)
+(1) Percentage error in, g. (E.5 marks}
+ty (c} Cr} state the law of dimensional analysis. (1 mark}
+(hi) The largest mass, m of a stone that can be moved by the flowing river depends
+on the velocity of flow v, the density j of water, and the acceleration due to
+gravity gp. Show lhat the mass, m varies co the sixth power of the velocity of
+flow, (3 marks)
+2. (a) (1) Define the term trajectory. (1 mark)
+(1) Brieily explain why the horizontal component of the initia] velocity of a
+projectile always remains constant. (1.5 marks)
+(bh) (i) List down two limitations of projectile motion. {1 itark)
+Gi) =A body projected from the ground at the angle of 60" is required to pass just
+abuve the two vertical walls each of height 7m. If the velocity of projection 1s
+[G0ms", calculate the distance between the pvo walls. (2.5 marks}
+(c) A Iireman standing at a horizontal distance af 34m tram the edge of the buming storey
+building aimed to raise streams of water at an angle of 60° into the first floor through
+an open windaw which is at 20m lugh fram the ground level. If water strikes on this
+floor 2m away from the ourer edge,
+“fn Sketch @ diagram of the trajectory. (1 mark)
+(ii) What speed will the water leave the nozzle of the fire hose’ (3 marks)
+3. (a) (i) Mention three effects of looping the loop. (1.5 marks)
+(ii) Why there must be a force acting on a particle moving with uniform speed inp
+circular path? Write down an expression for its magnitude. (2.5 marks)
+(b} «= Adriver negotiating a sharp bend usually tend to reduce the apeed of the car.
+{i} What provides the centripetal force on the car? C mars)
+(ii) Why is it necessary to reduce iis speed? {2 marcy)
+Pago 2 of 6
+k
+Find more free educational resources at http://maktaba.tetea.org ra :o- a _
+
+/ a :
+| (c) A ball ot mass 0.54¢ is attached to the end of a cord whose length is 1.5m then
+/ whirled in horizontal circle. If the cord can withstand a maximum tension of SON
+calculate the:
+(1) Maximum speed the ball can have before the cord breaks. (2 marks)
+(i) Tension in the cord if the ball speed is Sm/s - (1 mark)
+4. (a) (i), Briefly explain why the motion of a simple pendulum is not strictly simple
+harmonic? (1.5 marks}
+(1) Why the velocity and acceleration of a body executing simple harmonic
+motion (8.H.M} are out of phase? (1.5 marks)
+(is) A body of mass 0.304¢ executes simple harmonic motion with a period of 2.3 sec
+and amplitude of 4.0x107 a. Determine the:
+(i} Maximum velocity of the body. (1.5 marks)
+(ii) Maximum acceleration of the body. (I-mark)
+Git) Energy associated with the motion. (2.5 marks)
+(c} A particle of mass 0.25k¢ vibrates with a period of?-Osec. Tf tts greatest
+displacement is 0.4m what is its maximum kinetic energy’ (2 marks)
+4. (a) {1) Define moment of incrtia of a body. (i mark)
+(ii) Briefly explain why there is no unique value for the moment of inertia of 4
+given body? (1.5 mark)
+(b} (i) State the principle of conservation af angular momentum. (1 mark)
+(ii} A hotizontal dise rotating freely about a vertical axis makes 45 revolutions per
+minute. A small piece of putty of mass 2.010 Ag falls vertically onto the
+dise and sticks to it at a distance of 5.0% 107° a from the axis. [f the number of
+revolutions per minute is thereby reduced to 36, calculate the moment of
+ineritu of the disc. (3 marks}
+ic} {i} Define the term tangential velocity. (i mark)
+ii} Explain why the astronaut appears lo be weightless when traveling in the
+kpace velucle. (2.4 marks)
+6 {a} fi) Sule Newton's law of gravitation. (1 mark)
+| (ii) Use the kaw stated in {a} (i) to derive Keppler’s third law. (1.5 marks}
+{b) (i Briefly explain why Newtan’s equation of universal gravitation does not hold
+for bodies falling near the surface of the earth? (1.5 marks}
+(ii) Show Liat the tolal energy of a satellite in a circular orbit equals half its
+polential energy. (1.5 marks)
+(c) i) What would be the length of a day if the rate of rotation of the Earth were such
+that the acceleration due to gravity g = 0 atthe equator? ane en
+: ; | the Earth's surface for a satellite ina parking oroit
+(it} Calculate the height above 4 marks)
+Pape 3 of 6
+Find more free educational resources at http://maktaba.tetea.org
+
+SECTION B (30 Marks)
+| Answer three (3) questions from this section.
+AQ 7. (a) =i) =What is meant by a thermometric property? (1 mark}
+(ii) | Mention three qualities that make a particular property suitable for use in a
+practical thermometer. (3 marks)
+(b) study the values in Table 1 which represent the observations of a particular room
+temperature obtained by using two types of thermometers and then answer the
+questions that follow:
+Table t
+| Resistance measured by | Pressure recorded by
+Temperature in,°C | resistance thermometer | constant volume gas
+($2) thermometer (Nm)
+Steam point, 100 °C 110x100
+lee point, 0 °C 83.000 |. 8.00 x 10°
+Linknownl room 64997 | 2 Spe ft"
+temperature ; _
+(i) Calculate the value of unknown room temperature on the scales of resistance
+thermometer and constant volume gas thermometer. (4 murks)
+(ii) Why do the answers in (6) (1) above differ shghtly? (2 marks)
+r &amp;. (a) —s (i) Define coefficient of thermal conductivity. (1 mark)
+OS (ii) Write down two characteristics of a perfectly lagged bar (2 marks}
+(b) A thin copper wall of a hot water tank having a total surface arca of 5.0m" contains
+0.8m° of water at 350K and is lagged with 2 50mm thick layer of a maternal of thermal!
+conductivity 4.0 «107 Wm 'K "'. If the thickness of copper wall is neplected and the
+temperature of the outside surface is 290K,
+(i) Calculate the electrical power supplied to an immersion heuter. (2 marks)
+(ti) Ifthe heater were switched off, how long would it take for the temperature of
+hot water to fall by 1K’? (3 marks)
+(c) The element of an electric fire with an output of LOO0Maris isa cylinder of 25Qsn
+Jong and |5met in diameter. If 11 behaves as a black body, estimate its tempereture.
+(2 marks}
+7, (} Wiat is meant by the following terms:
+(i) Internal resistance of a cell. (6.5 mark)
+(ii) = Drift velocity. (0.5 mark)
+Pago 4 of 6
+Find more free educational resources at http://maktaba.tetea.org
+ee, _ ee
+
+,
+. (b) (1) What is a potentiometer. (1 mark)
+Gi} Mention two advantages and two disadvantages of potentiometer. (2 marks)
+(c) i) State Kirchhoff's laws of electric network. (2 marks)
+(ii) ‘Find the value of the current J in the circuit shown in Figure 1.
+_ Pp _
+(4 marks}
+an} fon
+bo
+12¥
+Figure I
+i (). (a} Distinguish between ohmic and non-ohmic conductor. Give one example in each
+(2 marks}
+CASE.
+(b} Sketch the diagram showing the variation of current with potential difference across
+the following:
+(i) Filament electric bulb. G ek)
+(1%) Gas-filled dicte. {1 mar
+fe) A wire of diameter 0. lena and resistivity 1.69 x 107 Qa with temperature coefficient
+af resistance of 4.3x 107 A"? was required to make a resistance, nary
+(1) What length of the wire is required to make a coil with a resistanee of 0.582 :
+(2 marks}
+Gi} If an passing a Current of 2.4 the temperature of the coil in (¢) (1) above rises
+Ore aye eror would arise in taking the potential drop as 1.0 fe?
+by 10°C, what error wou (4 marks)
+SECTION € (30 Marks)
+r thi tion
+Answer any three (3} questions from this section.
+11 (a) Mention four important properties of a semiconductor, (Z marks)
+by) Applying the concept of doping, explain how a free electron and a positive nana
+marks
+”) be created in a semiconductor crystal. (
+Why a p-n junction diode when connected in a circuit and then reversed ie i
+(c) 1) very small leakage current across the junction? Bae nthe
+. &lt; the size of the current stated in (¢) (i) depends on the temper
+(iL) How 15 the 5) (2 marks)
+diode?
+Page 5 of G
+Find more free educational resources at http://maktaba.tetea.org
+
+‘
+™~
+12. {a) (i) List thres properties of operational amplifiers. (1.5 marks)
+(ii) What is meant by the term negative feedback? Give four advantages of using it
+. iD an Op-amp or any type of voltage amplifier. (2.35 marks)
+(b) (i) Define closed Joop gain. | | (0.5 mark
+(ii) Derive an expression of the closed loop gain for an inverting op-amp voltage
+amplifier with an input resistor R, anda feedback resistor, (2.5 marks)
+(c) Calculate the value of output potential ¥, in Figure 2 if the input potential F, Is
++ 2,0F .
+0) 30k
+15kQ
+(3 marks}
+A
+f q
+¥
+} Figure 2
+| 13. (ad (1) Gixe one advantage of frequency modulation { FM) as compared to amplitude
+metdubation ( AMT). | | (1 mark)
+(Hy Brieily explain the importance of bandwidth of an amplitude mudulated (AM)
+signal (1.45 marks)
+(by it State the function of a modulator in radios. (1.5 matks)
+33. Sketch a bleck diagram to show the gencral plan of any communication
+s¥ster, (3 marks)
+fed) The amplitude modulated (AM) broadcast band ranges from 440 to 1200 kHz. If each
+} station modulates with audio frequencies up to 3.5 kHz, determine the
+ii) Bandwidth needed for each station. (1.56 marks}
+ii) ‘Fotal bandwidth available. {1.6 marks)
+ld (4) (i) Whatis the origin of earthquake? (1 mark)
+ity List down three sources of earth's magnetism. (1.5 marks)
+(hy A large explosion at the earth's surface creates compressional (P) and shear (&amp;) waves
+a moving with a speed of 6.Okois 7! and 4.5dmy7' respectively. Lf both waves arrive at
+seismological station with J0sec onds interval, calculate the distance measured
+herween seismological station and the site of explosion. (4.5 marks)
+=) Explain three techniques applicable for improving soil environment for the best plant
+of erowth (3 marks)
+Page 6 of 6
+Find more free educational resources at http://maktaba.tetea.org___ —
+

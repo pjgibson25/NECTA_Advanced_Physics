@@ -1,0 +1,220 @@
+Physics 1 - F6 - 2014
+| ss ~ . ' ‘, t.
+r *
+, \
+. SECTION A (40 marks)
+Answer four (4} questions from this section.
+l. (a) (i) _~—— Distinguish random error from systematic error. (01 mark)
+Gi} Give a practical example of each term in 1 (a) (1) and briefly explain how they
+can be reduced or eliminated. (02 marks)
+(ob) (i) Define the terms error and mistake. (O01 mark)
+(ti} «An experiment was done to find the acceleration due to eravily by using the
+formula: 7 = 27 iE . Where all symbols carry their usual meaning.
+E
+If the clock losses 3 seconds in 5 minutes, delermine ihe error in measunng
+‘eg given that, 7 = 222sec, /= 12 )6cm, AY, =O.)sec and Af = H05.
+: (03 marks)
+(c} (1) Whai is ihe impartance of dimensional analvsis inspite of its drawbacks’?
+(1 mark)
+(ti) The tallowing iedaurements were taken by a student forthe lenvth ata piece
+ar rek 224K. TOY99, 20.92, 21.) 1 and 20.649, Basing on error analysis find the
+trie value at the lenath of a piece of rod and its associated cra. = (02 marks)
+2 fad Chutline the mations that idd up to make propectile motion. (O1 mark)
+tim | ln, |
+ib} ln the first secand uf its fieht a rocket eyects aa its mass With aw relative velocity of
+2400ms.
+fr) Find its acceleration. (02 marks)
+(i9} Whar is the final velocily if the ratio of inttial to final mass of the rocket is 4 at
+a dime of 60 seconds? (2.4 marks}
+(c} A ball is thrown upwards with an initial velocity of 33m/‘s from a point 65° on the side
+of a hill which slopes upward uniformly at an angte of 28”.
+(rt) At what distance up the slope does the ball strike’? (03 marks}
+tii})=©)—0 Calculate the ime of flight of the ball. (1.5 marks)
+3, (a) (1} State the principle of conservation of linear momentum. (01 mark)
+fii) Give two examples of the principle stated in 3 (a) (i). (01 mark)
+(b} A cannon of mass 1300kg fires a 72kp ball in «a horizontal direction with a nuzzle
+speed of S5m/s, If the cannon 1s mounted so that it can recoil freely caiculate the:
+(1) recoil velocity of the cannon relative to the earth. (03 marks)
+(1) honzontal velocity of the ball relative to the earth. (01 mark)
+(ch) = {i} Define the term ‘radial acceleration’. (01 mark)
+(ii) An insect is released from rest at the top of the smooth bowling bai] such that it
+slides over the ball. Prove that it will loose tts footing with the ball at an angle
+of about 48° with the vertical, (03 marks}
+Page 2 of &amp;
+Find more free educational resources at http://maktaba.tetea.org
+
+OL Ee a ee ee,
+“4. (a) é , . |
+ayo State hy tay 3 an ce
+Motion (Sis Sy maid of acceleration is greatest in a simple harmanic
+(ii) Sketch a graph of acceleiton acct. at. (01 mark)
+) ~—— eteph of acceleration against displacement for a simple harmonic |
+€1.5 marks)
+{b) A vertical spri
+ig fixed at one end has a mas }
+Determine the: S of 0.2kp and is attached at the other end.
+(i) Extensi OF
+(11) Energ stored i the an aula
+¥ In the spring, (1.5 marks)
+(ic) The dis l ‘ee : 7 F ~aeq toa :
+hnnonie acement of a particle rom the equilibrium position moving with slnple
+ue moeuon is given by x= 0.05sin 6r, where t is time in seconds measured from,
+an instant when x» = 0. Calculate the:
+(1) Amplinide ati
+J, phrade of oscillations. {VI mark)
+(1) Periad of oscillations. {1.5 marks)
+QE) Maximum acceleration of the particle. (E.5 marks)
+- . os |
+5. {ia} netine the unrversal gravitational constant, (01 mark)
+IL} ow 1S gravilational potential related to gravitational field strength?
+(1.5 marks)
+(b} {3} Write dkvwn an expression for the acceleration due to Brevity (gz) ol a body of 1
+- Mss which is ata distunce » from the centre of the earth. (0) mark) \
+. (11) It the earth Were made af lead of relative density of 11.3, what would he the ,
+value of acceleration due to eravity on the surface of the earth! (2,5 marks) ,
+(C} ctl Why Ihe value of acceleration cue to gravity (2) changes due to the chanee in \
+lantude? Give nwo reasons, (02 marks) \
+ted} A rovketis fired from the earth towards the sun. At whal POL on its path in the
+eravitationid force on the rocket zerc? (2 tarks) \
+6. (il) {1} Define targque andl give its S.1 unit, (QE mark)
+(11) A disc of moment of inertia 2.4x1LO7 Agar is rotating lreely about un ascis
+through its centre at 20rev/ min. If some wax of mass Otek as dropped
+verify on to the dise (05 trom its axis, what will be the nev reVOLULLOTL per
+minute of the disc? (03 marks)
+(b} Explain bneily why a:
+(t) high diver can turtt more somersaults before striking the water? (1.5 marks) :
+(i) dancer on skates can spin faster by tolding her arms? (1.5 marks) )
+(c} A heavy flywheel of moment of inertia Ot4ger” is mounted on u horizontel axle of
+radius U.0law, [fa force of 60.N' is applied tangentially to the axle:
+(1) Calculate the ungular velocity of the flywheel afler 5 seconds from rest.
+(U2 tmiarks)
+(11) List dowa two assumptions taken to arrive at your answer in 6 (¢) (i).
+(il mark}
+Pages 3 of 6
+Find more free educational resources at http://maktaba.tetea.org
+
+en, a ee a
+i i } 2
+eg _
+SECTION B (30 marks)
+Answer three (3) questions from this section.
+AQT, (a) @) Give two ways in which the intemal energy of the system can be changed.
+(1 mark)
+(ii) List down two simple applications of the First law of thermodynamics in our
+datly life. {1 mark)
+(b&gt; One mote of a gas expands from volume, V, to a volume V3. If the gas obeys the Van-
+der-Waal’s equation, p+4\(r-#) = RT, derive the formula for work done in this
+W
+process, (3 marks}
+{c] ‘A heat engine works al two temperatures of 27°C and 227°C. Calculate the:
+{1} Efficiency of the engine. (3 marks)
+{113 Temperature which will increase the efficiency by [0% if the roum
+temperature is kept at 27°C. (2 marks)
+VR. fay) Define thermal convection. (01 mark)
+| Gi} Prove that at a very small temperature difference, AT =7,—7, Newton's law
+of cooling obeys the Stefan’s law, whereby 7, is the temperature of the bady .
+and 7 is the temperature of the surrounding. (04 mark)
+th} (1) What is meant by temperature of inversion? (O1 mark)
+fii) A thermometer was wrongly calibrated as mt reads the melting point of ice as
+-10°C and reading a temperature of 60°C’ in place of 50°C What would be
+the temperature of boiling point of water on this scale? (04 marks)
+0. (al What is meant by the following terms:
+(1) Alternating current (2.¢). {01 mark)
+(ii) Effective value of A.C. (91 mark)
+(tr) A 60vol, [Gwar lamp 1s to be tun on 100voel, 60.42 A.C mains.
+(1) Calculate the inductance of a choke coil required. (02 murks)
+fii} If a resistor is used in (b) (i) above instead of choke, what wil be value of its
+resisiance!
+(Q1 mark)
+{c} An LCR circuit with &amp; = 70 in series with a parallel combination of £ = 13/7 and
+C =30uF ts driven by a 2350F supply with angular frequency of 300rad fs.
+(1) Find the power in put to the circint. (3.5 marks)
+, reui 2 (US marks)
+ii Atthe frequency @, = how does the circuit respond! {1.45 mar
+(ii) equency ®, = “Fa
+Page 4 of 6
+Find more free educational resources at http://maktaba.tetea.org
+. ane 7 aa
+
+F IEEOESSSSSSSSSSY ISSA oa
+L :
+0. (a) Define the folléfingterms:
+(i} Current density Sa
+L density. (01 mark)
+(1) Conductivity. (01 mark)
+(&gt;) ) — Under what condition is Ohm’s law true?“ (61 mark)
+(i1) Why does the voltage across the terminals of a cell or battery fall when it is
+delivering a current? (02 marks)
+(c) (i) Define temperature coefficient of resistance, (01 mark}
+Gi) A heating coil of Nichrome wire with cross sectional area of O.Inim” operate
+ona 12¥ supply, and has a power of 36/ when immersed in water at 373K.
+Calculate the length of the wire, (04 marks)
+SECTION C (30 marks) |
+Answer three (3) questions from this section. |
+1]. (a} What is meant by the following electronic circuits:
+(i) Logic gates (G1 mark)
+Gi) Integrated circuits. (01 mark} |
+(b) Draw a truth table for the circuit in Figure | including the states at C, D, E, F and G. |
+A |
+}-——E
+\y D {7 (3.5 marks) |
+0 |
+.
+B
+Figure I \
+(c) study the circuit in Figure 2 then answer the questions that follow:
+A
+E
+8 \
+.
+:
+Figure 2 .
+(i) | What type of a single gate would provide exactly the same function as a rhe)
+oe 4 marks
+in Figure 2. . Ge :
+(ii) | Draw the diagram of a symbol representing a single gate in 11 {¢) (i).€01 mark) \
+Page 5 of 6
+Find more free educational resources at http://maktaba.tetea.org oo
+
+= - oo : 7 ™ e’ , 4, \
+frat ° .
+12. (@) i) Whatis light emitting diode
+(What i light emitting diode (LED). (01 mark)
+: ive three advantages of LED's lamp in radio and other electronic system over
+lament lamps. (1.5 marks)
+(by fi ic di
+(1) What is the basic difference between good conductors and semiconductors.
+{(1t) Two silicon diade e ) nected
+wo ach of forward bias volta r
+circuit as shown beens ge of {}7V are connected in a
+i 33RD
+| (3.5 marks)
+20 ¥ 1 i
+5.649)
+i,
+Witiculate the vailte of fo and /,.
+(c) (1) ‘iention two types of transistors. (01 k
+ne ia : so ma
+(1) Vi hich among the transistors mentioned in (¢) {i) above responds wickly
+clectrical signal? Give reason for VOUT answer. (02 marks)
+3, {a} rive ihe meaning of the fol lowing terms:
+(1) Bandwidth
+(Hj 209 Amplitude modulated cartier wave. ‘on ark
+(Lr) ) What is the purpose of amplifiers in a phone link? (Ol mark)
+(lik Sketch the frequency spectrum for 1400) radia waves modulated hy; 4h Pf |
+audio steal, 02 . '
+OZ marks
+(c) (i Fist down Iwo advantages of digital signals over Anilowue signals. (2 marks)
+it} A carrier of frequency 8004Hz is amplinide modulated by frequencies rangine
+from laff: to 1LOkKAfs. What frequency range does each sidebitnd cover? ,
+(43 marks)
+I4. fa) Describe ihe sources and effects of the following pollutants on the environment:
+( I) Air pollution. (03 marks)
+(u) = Radiation pollution. (03 marks)
+(b) Briefly explain the influence of the following climatic conditions for plant growth
+and development:
+( i} Rain fall and water, (92 marks)
+(13) Wind. (02 marks)
+Page 6 of 6
+Find more free educational resources at http://maktaba.tetea.org :
+

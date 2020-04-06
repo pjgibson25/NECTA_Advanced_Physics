@@ -1,0 +1,125 @@
+Physics 2 - 1999
+| SECTION A - |
+| Attempt at least one question from this section. | |
+l. (a) Define "Young's Modulus" of a material and give its SI units.
+| | | [02 Marks}
+(b) With the aid of a sketch graph, explain what happens when a steel wire is stretched gradually by
+an increasing load until it breaks. : |
+| {06 Marks]
+(c) A force F is applied to a long steel wire of length L and cross-sectional area A.
+(i) Show that if the wire is considered to be a spring, the force constant k is given by: |
+k= AY, where Y is Young's Modulus of the wire. [02 Marks] :
+OL | So | | |
+(ti) Show that the energy stored in the wire is U = 4% F AL, where AL is the extension of the
+wire, ; [04 Marks}
+_ (d). The period T of vibrations of a tuning fork may be expected to depend on the density D, Young's
+| Modulus Y of the material of which it is made and the length. a of its prongs. Using dimensional
+“ analysis deduce an expression for T in terms of D, Y and a. [06 Marks]
+2. (a) Explain the meaning of the following terms:
+(i) Gravitational Potential of the Earth. [02 Marks]
+(ii) Gravitational Field Strength of the Earth. | [01 Mark]
+How are the above quantities in (i) and (ii) related? | [01 Mark]
+_(b) Show that the total energy of a satellite in a circular orbit equals half its potential energy.
+: | _ So [05 Marks}
+(c)} Calculate the height above the Earth's surface for a satellite in a parking orbit. {06 Marks]
+(d) What would be the length of a day if the rate of rotation of the Earth were such that the
+acceleration of gravity g = 0 at the equator? | | {05 Marks] ~
+3. (a) What do you understand by the term "moments of inertia" of a rigid body? [02 Marks]
+. (b) (i) State the perpendicular axes theorem of moments of inertia for a body in the form of a lamina
+| | | [02 Marks]
+(ii) Calculate the moments of inertia of a thin circular disc of radius 50cm and mass 2 kg-about an
+axis along a diameter of the disc. | Se {08 Marks}
+(c) A wheel mounted on an axle that is not frictionless is initially at rest. A constant external torque of
+50 Nm is applied to the wheel for 20 s. At the end of the 20 s, the wheel has an angular velocity of
+600 rev/min. The external torque is the removed, and the whee! comes to rest after 120 s more.
+(i) Determine the moments of inertia of the wheel. [06 Marks].
+| 2 :
+
+(ii) Calculate the frictional torque which is assumed to be constant. (02 Marks]
+4. (a) State the main assumptions of the “kinetic theory" of gases. | : {05 Marks}
+| (b) Derive an expression for the pressure exerted by an ideal gas on the walls of its container.
+, {¢) How does the average translational kinetic energy of a molecule of an ideal gas change i =
+(i) the pressure is doubled. while the volume is kept constant? [02 Marks]
+(ii) the volume is doubled while the pressure is kept constant? - [02 Marks]
+(d) Calculate the value of the root mean-square speed of molecules of helium at 0°C. [03 Marks]
+SECTION B a
+Attempt at least one question from this section. | .
+5. (a) (i) What is "capacitance"? - a [02 Marks]
+(ii) List three factors that govern the capacitance of a parallel plate capacitor. [03 Marks]
+(b) Show that the energy per unit volume stored in a parallel plate capacitor is given by:
+_ | U = %eE” and define all the symbols in this equation. {08 Marks]
+(c) Given that the distance of separation between the parallel plates of a capacitor is 5mm, and the
+plates have an area of Sm’. A potential difference of 10 kV is applied across the capacitor which is
+parallel in vacuum. | |
+Compute: | :
+(2) the capacitance | | [02 Mark]
+(ii) the electric intensity in the space between the plates (01 Mark]
+a (ill) the change in the stored energy if the separation of the plates is increased
+from 5mm to 5.5mm. | | [04 Marks]
+6. (a) With the help of illustrative diagrams explain the action of a choke in a circuit. 04 Marks}
+| (b) When an impedance consisting of an inductance L and aresistance R in series is connected
+across a 12V, 50Hz power supply, a current of 0.050A flows, which differs in phase from that of
+the applied potential difference by 60°. . : Se
+- (i) Find the value of R and L. os | | [07 Marks]
+: (ii) Find the capacitance of the capacitor which, when connected in series in the above circuit, has
+the effect of bringing the current into phase with the applied voltage. a [02 Marks}
+— (c) An inductance of 4 mH is connected in series with a resistance of 202 together with a battery: _
+Wi Determine how the current will vary with time in this circuit. " {04 Marks]
+(ti) Sketch the current of (i) above against time ; [0 Mark] oo
+| |
+
+(iii) Calculate the inductive time constant {02 Marks]
+7. (a) State the laws of electromagnetic induction and describe briefly experiments (one in each case)
+which can be used to demonstrate them. {08 Marks]
+(b) A flat coil of 100 turns and mean radius 5.0cm is tying on a horizontal surface and is turned over in
+0.20 sec. against the vertical component of the Earth's magnetic field. Calculate the average e.m.f.
+induced. — | | [04 Marks]
+(d) With the help of clear diagrams, explain briefly how you would convert a sensitive galvanometer
+() an ammeter [04 Marks}
+, (ii) a voltmeter | | {04 Marks]
+SECTION C
+| Attempt at least one question from this section. ’
+8. (a) State Bohr’s postulates of the atomic model. : ae [06 Marks]
+(b) Show that for an electron in a hydrogen atom, the possible radii of an electron orbit are given by:
+7 ptm M1230. oe [06 Marks]
+; (c) (i) Show that the possible energy levels (in Joules) for the hydrogen atom are given by the formula:
+E,=-meé to -
+Sh’e,”? ni? |
+where m = mass of the electron | |
+| e = electronic charge ) |
+h = Planck's constant | a
+ &amp; = permittivity constant of vacuum oo | [06 Marks}
+(ii) What does the negative sign signify in the formula for E, in(i) above? [02 Marks].
+9. (a) Define the term “binding energy” ofa nuclide. | . {02 Marks]
+(b) Distinguish between: | OS _ | i
+(i) B” decay and B* decay. | oe [03 Marks]
+(ii) nuclear fission and nuclear fusion ==  stti—itsts ‘(03 Marks]
+Gli) activity and half-life of aradioactive material. = [03 Marks]
+(iv) Taking the half-life of Radium - 226 to be 1600 years, what fraction of a given sample remains
+| after 4800 years? | s . : [02 Marks]
+
+(c) An experiment was conducted to investigate the absorption by aluminium of the radiation from a
+radioactive source by inserting aluminium plates of different thicknesses between the source and a
+| Geiger tube connected to a ratemeter (or scales). The observations are summarized in table 1.
+TABLE 1
+[-itnessofAtuminimcm | 23 | es | na | to
+[MeanCoutrts(nin’) | _iae | an | we | st
+Use these data to plot a graph and hence determine for this radiation in aluminium, the linear
+absorption coefficient 1, defined by p = - aly, "44, where I is the intensity of the incident
+: radiation and di is the part of the incident radiation absorbed in the thickness dz. [07 Marks}
+10. (a) Briefly describe the major factors that you would consider when designing a voltage amplifier.
+CO | | [05 Marks]
+(b) (i) Explain the term “thermal run away” as regards a transistor amplifier. [03 Marks}
+(ii) With the help of clear diagrams, explain how you would overcome thermal run away ina
+voltage amplifier. [0S Marks]
+| (c) Figure (1) shows a junction transistor voltage amplifier circuit. If R, = 100kQ, Rz = 1kQ,
+, V.-76.0V, Vez = 0.6 and hrs = 60; calculate: | |
+ @ The voltage across R, [02 Marks]
+(i) The value of Iz | (01 Mark]
+(iii) The value of I, | [01 Mark] —
+(iv) The voltage across R, | (02 Marks]
+(v) The collector - emitter voltage , (02 Marks]
+t
+no oa"
+Var | | |
+

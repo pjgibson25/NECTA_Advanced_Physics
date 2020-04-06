@@ -1,0 +1,258 @@
+Physics 2 - F6 - 2018
+i,
+SECTION A
+Answer at least one (1) question from this section.
+l
+I. (a) Given the Bernoulli’s equation: p+pgh + PV = constant where all the symbols
+carry their usual meaning.
+(i) What quantity does each expression on the left hand side of the equation
+represent? (2 marks)
+(11) Mention any three conditions which make the equation to be valid. (3 marks)
+
+(b) Water is supplied to a house at ground level through a pipe of inner diameter 1.5 cm at
+an absolute pressure of 6.5 x10°Pa and velocity of 5 m/s. The pipe line leading to the
+second floor bath room 8 m above has an inner diameter of 0.75 cm. Find the flow
+velocity and pressure at the pipe outlet in the second floor bathroom. (6 marks)
+
+(c) Define the following terms when applied to fluid flow:
+
+(i) Non-viscous fluid (1 mark)
+| (11) Steady flow (1 mark)
+Git) ~—_ Line of flow (1 mark)
+(iv) Turbulent flow. (1 mark)
+(d) A horizontal pipeline increases uniformly from 0.080 m diameter to 0.160 m diameter
+in the direction of flow of water. When 96 litres of water is flowing per second, a
+pressure gauge at the 0.080 m diameter section reads 3.5x10°Pa. What Should be the
+reading of the gauge at the 0.160 m diameter section neglecting any loss? (5 marks)
+2. (a) What do you understand by the terms:
+(i) Progressive wave (1 mark)
+(ii) Refraction of waves (1 mark)
+(il) Diffraction of waves (1 mark)
+(iv) Standing wave. (1 mark)
+
+(b) | Two progressive waves travelling in the opposite direction in the medium are
+represented by Y, =Ssin (« t+ = and Y, = 5sin (« t -), If the two progressive
+waves form a standing wave, determine the resultant amplitude and the phase angle
+formed. (6 marks)
+
+(C) The shortest length of the resonance tube closed at one end which resounds to fork of
+frequency 256 Hz is 31.6 cm, The corresponding length for a fork of frequency 384
+Hz is 20.5 cm. Determine the end correction for the tube and the velocity of sound in
+air. (§ marks)
+
+Page 2 of 7
+Find more free educational resources at http://maktaba.tetea.&amp;-anned by CamScanner
+
+SET EEE——————— ELL
+(d) = (i) What do you understand by the term interference of waves? (1 mark) —
+(i) A viewing screen is separated from a double-slit source by 1.2 m. The distance °.
+between the two slits is 0.030 mm. The second order bright fringe (m = 2) is 4
+4.5 cm from the centre line. Determine the wavelength of the light and the §
+distance between adjacent bright fringes. (4marks)
+3. (a) Define the term coherent sources of light. (2 marks) "
+g
+(b) (i) Interference patterns are formed when using Young’s double slit experiment.
+Mention other three methods that can be used to form interference patterns. *
+(3 marks) —
+
+(il) Giving reasons, explain whether either transverse or longitudinal waves could
+
+exist, if the vibratory motion causing them were not simple harmonic motion. |
+(2 marks)
+(c) A beam of monochromatic light of wavelength 680 nm in air passes into glass. -
+
+Calculate: s
+
+(1) The speed of light in glass (2 marks) i
+
+(i1) The frequency of light (2 marks) |
+
+(iil) The wavelength of light in glass. (2 marks)
+
+(d) Light of wavelength 644 nm is incident on a grating with a spacing of 2.00x10° m. |
+
+(i) What is the angle to the normal of a second order maximum? (2 marks)
+
+(ii) What is the largest number of orders that can be visible? (2 marks)
+
+(iii) | Find the angular separation between the third and fourth order image.
+
+(3marks) _
+SECTION B
+Answer at least one (1) question from this section.
+
+4. - (a) Mention any two factors which affect the surface tension of the liquid and in each case
+
+explain two typical examples. (3 marks)
+(b) | Why molecules on the surface of a liquid have more potential energy than those within
+
+the liquid? Briefly explain. (2 marks)
+(c) (1) Derive an expression for excess pressure inside a soap bubble of radius R and
+surface tension y when the pressures inside and outside the bubble are P» and
+
+P; respectively. (S marks)
+
+(11) A soap bubble has a diameter of 5 mm. Calculate the pressure inside it if the
+atmospheric pressure is 10° Pa and the surface tension of a soap solution is
+2.8x10? Nm’, (4 marks)
+
+Page 3 of 7
+a ne Find more free educational resources at http://maktaba.tetea.o§iea nned by CamScanner
+
+1
+
+(d) Water rises up in a glass capillary tube up to a height of 9.0 cm while mercury falls :
+down by 3.4 cm in the same capillary. Assume angles of contact for water-glass and .
+mercury-glass as 0° and 135° respectively. Determine the ratio of surface tensions of :
+mercury and water. (6 marks) |
+
+5. (a) _—_ Briefly explain the following observations as applied to strengths of materials:
+(i) Bridges are declared unsafe after long use. (2 marks) :
+(11) Iron is more elastic than rubber. (2 marks)
+
+(b) A composite wire of diameter 1 cm consists of copper and steel wires of lengths 2.2 m
+and 2 m respectively. Total extension of the wire when stretched by a force is 1.2 mm.
+Calculate the force, given that Young’s modulus for copper is 1.1x10'' Pa and for steel
+
+‘is 2x10!! Pa. (5 marks)
+
+(c) What do you understand by the following terms?
+
+(1) A perfectly plastic material (1 mark)
+(11) The ultimate tensile strength (1 mark)
+(ii) = Anelastic limit (1 mark)
+(iv) — Poisson’s ratio. (1 mark)
+
+(d) Two rods of different materials but of equal cross-sections and lengths 1.0 m each are
+joined to make a rod of length 2.0 m. The metal of one rod has coefficient of linear
+thermal expansion of 10°/ °C and Young’s Modulus 3x10!°N/m2. The other metal has
+the values 2x10°/ °C and 10'°N/ m’ respectively. How much pressure must be applied
+to the ends of the composite rod to prevent its expansion when the temperature is raised
+by 100°C? (7 marks)
+
+6. (a) Briefly explain the effect of the dielectric material on the capacitance of a capacitor
+when the capacitor Is:
+(1) Isolated. (2 marks)
+(ii) Connected to the battery. (2 marks)
+(b) How are the electrolytic capacitors made? (3 marks)
+(c) Two point charges of equal mass m and charge Q are suspended at a common point by
+two threads of negligible mass and length L. If the two point charges are at equilibrium, |
+show that;
+|
+Q*L__ |
+(i) The distance of separation x = ee (3 marks) ,
+2TE, Mg |
+Page 4 of 7 |
+Find more free educational resources at http://maktaba.tetea.&amp;-anned by CamScanner
+
+~,
+. Q? its
+(ii) The angle of inclination B = 3; —————_,, , (3 marks)
+l6xze,mgL
+(d) Two point charges, ga = +3 wC and q,p = -3 KC, are located 0.2 m apart in vacuum. Find; _
+(i) the electric field at the midpoint of the line joining two charges. (3 mar Ks) i
+(ii) the force experienced by the negative test charge of magnitude 1.5x1l0°C 5
+placed at this point. (4marks) @
+SECTION C a
+Answer at least one (1) question from this section. e
+7. (a) (a) What is meant by the term Ballistic galvanometer? (1 mark) q
+(ii) State two conditions to be fulfilled for a galvanometer to be used as a ballistic 4%
+galvanometer. (2 marks) 4
+(111) Consider a small flat coil which has N turns of area A and whose plane is :
+perpendicular to a magnetic field of flux density B. If the search coil is
+connected to the ballistic galvanometer and the total resistance of the circuit is
+R, use the laws of electromagnetic induction to show that the charge delivered
+| to the galvanometer does not depend on how long it takes to remove the search
+coil from the field. (3 marks)
+(b) A circular coil of 300 turns has a radius of 10 cm and carries a current of 7.5 A.
+Calculate the magnetic field at:
+(i) the centre of the coil. (2 marks)
+(ii) | a point which is at a distance of 5 cm from the centre of the coil. (2 marks)
+(c) (i) Mention the three magnetic materials and briefly explain each one. (3 marks)
+(ii) Give the differences between the magnetic materials mentioned in (c) (i) in
+terms of their magnetic susceptibility. (3 marks)
+(d) Define the following terms:
+(1) Ampere (1 mark)
+(ii) Hysteresis. (1 mark)
+(e) Two parallel conductors A and B are situated 0.16 m apart. Conductor A, carries a
+current of 4 A and conductor B, carries a current of 8 A. The directions of the currents
+are shown in Figure |. Find the distance from A to a point where the magnetic fields
+due to A and B cancel each other (Ignore the effects of earth’s magnetic field).
+(2 marks)
+Page 5 of 7
+| !
+i , , |
+Find more free educational resources at http://maktaba.tetea.&amp;y-anned by CamScanner
+
+oo A B
+Figure 1
+8. (a) (i) What do you understand by the term photon. (0.5 mark)
+(ii) List down any three properties of a photon. (1.5 marks)
+(ill) State any four laws of photoelectric emission. (2 marks)
+(b) = (i) Briefly explain what led de-Broglie to think that the material particles may also
+show wave nature and why the wave nature of matter not noticeable in our
+| daily observations? (3 marks)
+(11) Prove that de-Broglie wavelength / , of electrons of kinetic energy E is given
+h
+by 4 =————, where m is the mass of the electron, e is the charge of the
+4 V2meV .
+electron, h is the Planck’s constant and V is the accelerating potential
+difference. (2 marks)
+(111) Light of wavelength 488 nm is produced by an argon laser which is used in the
+photoelectric effect. When light from this spectral line is incident on the
+emitter, the stopping (cut-off) potential of photoelectrons is 0.38 V. Find the
+work function of the material from which the emitter is made. (2 marks)
+(c) Use the concept of radioactive decay and nuclear reactions to define the following
+terms:
+(1) Alpha decay
+(11) Beta decay
+(iii) | Gamma decay
+(iv) Fission
+(v) Fusion.
+For each of the terms in (c) (i-v), give one suitable reaction equation. (S marks)
+(d) A freshly prepared sample of a radioactive isotope Y contains 10'? atoms. The half-life
+of the isotope is 15 hours. Calculate;
+(i) the initial activity. (2 marks)
+(ii) the number of radioactive atoms of Y remaining after 2 hours, (2 marks)
+Page 6 of 7
+‘
+| Find more free educational resources at http://maktaba.tetea.&amp;p-anned by CamScanner
+
+a) | | | *
+(a) (i) Mention any four important features in the design of a nuclear reactor. a
+(2 marks};
+(uy Differentiate binding energy from mass defect. (1 mark) %
+(1) Calculate the binding energy per nucleon, in MeV and the packing fraction ofg
+an alpha particle. ‘3
+Given: Mass of proton = 1.0080u, Mass of neutron = 1.0087u and Mass off
+alpha particle = 4.0026u. (4 marks) j
+(b) (1) State any three limitations of Bohr’s model of the hydrogen atom. (3 marks) :
+(11) In a hydrogen atom model, an electron of mass m and charge e revolves around ¢ |
+the nucleus in a circular orbit of radius r. Develop an expression for the radius 3m
+r of the orbit in terms of m, e, x, the quantum number n, Planck constant h and -:
+the permittivity of free space €, and hence, use their values to find the Bohr’s 5
+radius. (4marks)
+44
+(c) @) Distinguish between ionization energy and excitation energy. (1 mark) 7 |
+(11) Why hydrogen spectrum contains a larger number of spectral lines although its |
+atom has only one electron? (1.5 marks)
+(d) Figure 2 shows the energy level diagram of the hydrogen atom.
+QO ——————  __ 1 Fo )
+——— Sr 5
+&gt; ee =
+&gt; {0.85 n=4
+£
+8 | 1.51 _——£ ———____ 3
+o
+S
+(1)
+339-— Sr
+J -13.6—[————-.°.— oo O00 i
+Figure 2
+(i) Calculate the frequency and wavelength of the radiation emitted as a result of
+an electron transition from n = 4 to when an electron is in its ground state.
+(2 marks)
+(ii) | What is the energy at the level where n = 5? (1.5 marks)
+Page 7 of 7 | a
+Find more free educational resources at http://maktaba.tetea.&amp;y-anned by CamScanner
+

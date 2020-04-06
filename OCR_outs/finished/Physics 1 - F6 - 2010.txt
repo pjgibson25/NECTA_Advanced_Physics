@@ -1,0 +1,225 @@
+Physics 1 - F6 - 2010
+SECTION A (40 marks)
+Answer four (4) questions from this section.
+
+l. (a) Mention two uses of dimensional analysis. (1 mark)
+
+(b) The critical velocity of a liquid flowing in a certain pipe IS 3ms",
+Assuming that the critical velocity v depends on the density p of the
+liquid. its viscosity 1, and the diameter d. of the pipe. | |
+(1) Use the method of dimensional analysis to derive the equation of
+
+the critical velocity of the liquid in a pipe of half the diameter.
+(2 marks)
+(11) Calculate the value of critical! velocity. (2 marks)
+(c) (i) Define an error. | (1 mark)
+(11) In an experiment to determine the acceleration due to gravity g, a
+small ball bearing is timed while falling freely from rest through a
+measured vertical height. The following data were obtained:
+vertical height h = (600 + 1) mm, time taken t = (350 + 1)ms.
+Calculate the numerical value of g from the experimental data,
+clearly specify the errors. (4 marks)
+2. (a) (1) Mention two examples of projectile motion. (2 marks)
+(11) Define the trajectory. (1 mark)
+(b) (1) Mention two uses of projectile motion. (2 marks)
+
+(11) Find the velocity and angle of projection of a particle which passes
+in a horizontal direction Just over the top of a wall which is 12m
+high and 32m away. (5 marks)
+
+3, (a) What is the origin of centripetal force for:
+(1) a satellite orbiting around the Earth. (1 mark)
+(11) an electron in the hydrogen atom? (1 mark)
+
+(b) A small mass of 0.15kg is suspended from a fixed point by a thread of a
+fixed length. The mass is given a push so that it moves along a circular
+path of radius 1.82m in a horizontal plane at a Steady speed, taking 18.0s
+to make 10 complete revolutions. Calculate:
+
+( i) the speed of the small mass. (2 marks)
+
+(11) the centripetal acceleration. (3 marks)
+
+(i) the tension in the thread. (3 marks)
+
+4. (a) (1) State surface tension In terms of energy. (1 mark)
+
+(1) = The Surface tension of water at 20°C is 7.28 x 10°Nm’!. The vapor
+
+pressure of water at this temperature is 2.33 x 10&gt;Pa Determine
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+the radius of smallest spherical water droplet which it can form without evaporating
+(3 marks)
+(b) A circular ring of thin wire 3cm in radius is suspended with its plane
+
+horizontal by a thread passing through the 10cm mark of a metre rule
+
+pivoted at its centre and is balanced by 8g weight suspended at the 80cm
+
+mark. When the ring is just brought in contact with the surface of a liquid,
+
+the 8¢ weight has to be moved to the 90cm mark to just detach the ring
+
+from the liquid. Find the surface tension of the liquid (assume zero angle
+
+of contact.) (6 marks)
+
+5. (a) (1) Define thermal convection. (1 mark)
+
+(11) In a special type thermometer a fixed mass of a gas has a volume
+of 100cm? at a pressure of 81.6cmHg at the ice point and volume
+of 124cm’* and pressure of 90cmHg at steam point. Determine the
+temperature if its volume is 120cm”’ and pressure of 85cmHg.
+
+(2.5 marks)
+
+(iii) | What value does the scale of this thermometer give for absolute
+zero? — (1.5 marks)
+
+(b) (1) State Stefan’s law of thermal radiation. (1 mark) | SK rl
+ii 3 f 2.8°C/min when its ;'
+
+(11) A solid copper sphere cools at the rate of 4 (
+temperature is 127°C. At what rate will a solid copper sphere of \
+twice the radius cool when its temperature is 227°C? In both cases
+the surroundings are kept at 27°C and conditions are such that nh
+Stefan’s law may be applied. (4 marks) (x
+
+6. (a) (1) State Newton’s law of cooling. | | (1 mark)
+
+(ii) | Explain the observation that a piece of wire when steadily heated /
+
+up appears reddish in color before turning bluish. (2 marks) we
+(b) (1) A glass disc of radius Scm and uniform thickness of 2mm had one
+
+of its sides maintained at 100°C while copper block in good
+
+thermal contact with this side was found to be 70°C. The copper
+
+block weighs 0.75kg. The cooling of copper was studied over a
+
+range of temperature and the rate of cooling at 70 C was found to
+
+be 16.5K/min. Determine the thermal conductivity of glass.
+
+(4 marks)
+
+(11) A cylindrical element of 1kW electric fire 1s 30cm long and noe
+‘a diameter. If the temperature of the surroundings is 20 ©,
+estimate the working temperature of the element. (3 marks)
+
+Find more free educational resources at:
+http://maktaba.tetea.org Scanne d by Cc amScanner
+
+SECTION B (30 marks)
+Answer three (3) questions from this section.
+7, (a) Distinguish between stationary waves and progressive waves.(2 marks)
+(b) A wave is represented by the equation y = |Osin 0.42 (60t-x), where the
+distance parameters are measured in metres and the time in seconds.
+(1) State whether the wave is stationary or progressive. (1 mark)
+(11) Determine the wavelength and frequency of the wave. (4 marks)
+(i) = What will be the phase difference between two points which are
+40cm apart? . (2 marks)
+(iv) Calculate the period and amplitude of the wave. (1 mark)
+8. (a) (1) Distinguish between magnetic flux density and magnetic induction.
+(1 mark)
+(11) Describe using a sketch graph how magnetic flux density varies
+y 0 a with the axis (both inside and at the ends) of a long solenoid
+~ J carrying current. , (3 marks)
+Se
+(b) A solenoid 80m long has a cross-sectional area of 16cm* and a total of
+R 3500 turns closely wound. If the coil is filled with air and carries a current
+7) of 3A, Calculate:
+AS (1) Magnetic field density B at the middle of the coil. (2 marks)
+(11) Magnetic flux inside the coil. (1 mark)
+Gil) Magnetic force H at the centre of the coil. (2 marks)
+(iv) Magnetic induction at the end of the coil. (0.Smark)
+(v) Magnetic field intensity at the middle of the coil. (0.5 mark) “tet
+9. (a) (1) Define the temperature coefficient of resistance. (1 mark) ya
+(11) Briefly describe an experiment to measure temperature coefficient
+of a wire. (4 marks)
+(b) A heating coil is made of a nichrome wire which will operate on a 12V
+supply and will have a power of 36W when immersed in water at 373K.
+The wire available has a cross-sectional area of 0.10mm*. What length of
+the wire will be required? (5 marks)
+10. = (a) Briefly explain why a P-N junction is referred as a junction diode.
+(2 marks)
+(b) Study carefully Figure | where x and y are identical junction diodes with s an
+Internal resistance of 2k Q each.
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+X
+. ¥ 2kQ
+— 80V
+“— dic
+Figure 1
+Determine the current drawn from the source when: |
+(1) Connections are as shown in Figure 1. (2 marks)
+(ji) | Terminals connected to junction diode x are reversed. (2 marks)
+(iii) | Terminals connected to junction diode x is restored but those to
+junction diode y are reversed. (2 marks)
+(iv) All connections are as shown in Figure 1, but the polarities of the
+source are reversed. (2 marks)
+SECTION C (30 marks)
+Answer three (3) questions from this section.
+11. (a) (1) State Coulomb’s law for charged particles. (1 mark)
+(11) Does the coulomb force that one charge exert on another charge
+change when a third charge is brought nearby? Explain.
+(2 marks)
+(b) (i) Describe the action of dielectric in a capacitor. (2 marks)
+(ii) The electric field intensity inside a capacitor is E. What is me work
+- dienlacing a charge q over a closed rectangular surlace :
+done in displacing g @ marks)
+i] A capacitor of 12uF is connected in series with a resistor of
+on) ly. Calculate the initial charging
+0.7MQ across a 250V d.c supply. Caicula Ks)
+current and p.d across the capacitor after 4.2 seconds. (3 marks
+following observation: .
+i @) Explain ressing table mirror becomes dusty when we vis) dry
+! m
+warm day. . d
+(ii) oo harwed metal ball comes into contact ma e uncharge
+ul “ ¢ - by using diagrams).
+‘dentical ball. (Illustrate your answer by using © marks)
+G So —
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
+(b) (1) Show that the unit of CR (time constant) is seconds and prove that
+for a discharging capacitor it i8 the time taken for the charge to fall
+by 37%. (0 marks)
+
+(11) The variable radio capacitor can be charged from 50pF to 950pF
+by turning the dial from 0° to 180°. With the dial at 180 , the
+capacitor is connected to a 400V battery. After charging the
+capacitor is disconnected from the battery and the dial is turned to
+0°. What is the charge on the capacitor? What is the p.d across the
+capacitor when the dial reads 0° and the work done required to turn
+the dial to 0°? (Neglect frictional effects). (3 marks)
+
+13. (a) (1) Without giving any experimental or theoretical detail explain how
+the results of Millikan’s experiment led to the idea that charge
+comes in ‘packets’, the size of the smallest packet being carried by
+an electron. | (I mark) hte
+
+(i1) In the form of Millikan’s experiment, an, oil drop was observe
+fall with a constant velocity of 2.5 x 10 ms in the absence of an
+electric field. When a p.d of 1000V was applied between the plates
+10mm apart, the drop remained stationary between them. i the
+density of oil is 9 x 10° kgm”, density of air is Ken ane
+viscosity of air is 1.8 x 10°Nsm™, Calculate the radius of the o1
+drop and the number of electric charges it carries. (4 marks)
+(b) Show that the path of an electron moving In an electric mee a
+; - Earthquake, Earthquake focus and
+14. (a) (1) Explain the following terms Eart poe
+Epicenr dt ascertain hot the _
+(11) Describe clearly how P and S waves are used to t
+| outer core of the Earth is in liquid form. (3 marks)
+here and give one basic use of it. (3 marks)
+°) i Why i he ‘onosphere sbystacle to radio astronomy? (1 mark)
+Find more free educational resources at:
+http://maktaba.tetea.org Scanned by CamScanner
+
