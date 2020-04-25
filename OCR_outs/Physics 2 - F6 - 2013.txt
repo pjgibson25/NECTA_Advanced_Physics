@@ -1,38 +1,38 @@
 Physics 2 - F6 - 2013
-SECTION A .
+
 \. (a) (i) Write down the Poiscuille’s equation for a viscous fluid Mowing through a tube
 defining all the symbols. (2 marks) =e
-(31) What assumptions ue used Co develop (he equation ay (a) 7) above. (4 marks)
-— QD Whatis meant by Newtoniun fluid? (i mark)
+(31) What assumptions ue used Co develop (he equation ay (a) 7) above. 
+— QD Whatis meant by Newtoniun fluid? 
 j " (b) A submmarin® mode) is situated in a part of a lube with diameter 5.4 em where water
 ros QVGS at 2.$afs') Determine the:
-\ (i) velacify of flow in the water supply pipe of diameter 25.4 cm. (3 marks)
-x | Gi presdure difference between the narrow and the wide tube. (3 marks)
+\ (i) velacify of flow in the water supply pipe of diameter 25.4 cm. 
+x | Gi presdure difference between the narrow and the wide tube. 
 eat
-(c) (i) Define compressibility of a gas in ternis of the elasticity of gases. (2 marks)
+(c) (i) Define compressibility of a gas in ternis of the elasticity of gases. 
 (ii) The bulk modulus of elasticity for lead is 8 x 10° N/m’. Find the density of
-| loud if the pressure applied is 2 x 10° Nm”. (5 marks)
-2. (w) (1) Define the terms: proportional limit, clastic Hint, yield point and elasticity.
-(4 marks)
+| loud if the pressure applied is 2 x 10° Nm”. 
+(w) (1) Define the terms: proportional limit, clastic Hint, yield point and elasticity.
+
 (ii) Use a sketch graph to show how the extension of the wire varies with the
 applied force and: mark the clastic limit and yield point on it. Explain how the
-magnitude of the Young's modulus is obtained from the graph. (5 marks)
+magnitude of the Young's modulus is obtained from the graph. 
 (b) A block of metal weighing 20 N with a volume of 8 x 10° m? is completely immersed
 in oil of density 700 kgin™ then attached to one end of a vertical wire of length 4.0 m
 and diameter of 0.6 mm whose other end is fixed. If the length of the wire is increased
 by 1.0 mm. find the;
-| (i) young’s modulus of the wire. (4 marks)
-(ii) energy stored in the wire. (2 marks)
+| (i) young’s modulus of the wire. 
+(ii) energy stored in the wire. 
 (c) A rubber cord of a Y - shaped object has a cross sectionat area of 4 x 10° m? and
 relaxation length of 100 mm. If the arms of the catapult are 70 num apart, calculate the:
-(i) tension in the rubber. (2 marks)
+(i) tension in the rubber. 
 : (ii) force required to stretch it when the rubber cord is pulled back until its length
-daubles. (3 marks)
+daubles. 
 . 3. (a) Briefly give comments on the following observations:
-7. (1) Polyatomic and diatomic gases have larger molar heat capacities than
-Ke monatomic gases. (2.5 marks)
+(1) Polyatomic and diatomic gases have larger molar heat capacities than
+Ke monatomic gases. 
 px (ii) | Cubical container is used for the derivation of pressure of an ideal gas.
-ae 7 (2.5 marks)
+ae 7 
 er
 - oe (bo) = (4) What is meant by a gas constant. (2 mark).
 OES (ii). Helium gas occupies a volume of 4 x 10? m’ al a pressure of 2 x 10° Pa and i
@@ -49,49 +49,49 @@ ere a - a ER
 are anil: «ee a 2 REE BA
 Semen OL.A en on | cece
 | 7 re
-Find more free educational resources at http://maktaba.tetea.org
+
 
 oe inane eee eee c eee eee es
 (c) (1) When a gas expand adiabatically it does work on its surroundings although
 ° there is no heat input to the gas. Explam where dus cnergy is comung from.
-(3 marks)
+
 
 . (ii) = An sdeal gas at 17 "C and 750 mmily is compressed jsothermally Until its
 volume is reached to % of its tnitial value Moat then allowed to capand
 adiabatically to a volume of 20% preater than is original value. calculate the
-final temperature and pressure of the gas. (7 marks)
+final temperature and pressure of the gas. 
 
-4. qi) How does the first law of thermodynamies change under asotherimal and adiabatic
-processes? (2 marks)
+qi) How does the first law of thermodynamies change under asotherimal and adiabatic
+processes? 
 (b) (1) Show that the specific heat capacities of an ideal gas are related by the relation
-Cha Cy +R. (@ marks)
+Cha Cy +R. 
 (it) Explain the meaning of all the symbols used in the equation (b¢ (i) above.
-(2 marks)
+
 (Cc) One mole of an ideal monatomic gas is heated at constant volume from the
 temperature of 300 K to 600 K. Calculate the:
-(i) amount of heat added (2 marks)
-(ii) | work done by the gas (1 mark)
-(iii) change in its infernal energy. (2 marks)
+(i) amount of heat added 
+(ii) | work done by the gas 
+(iii) change in its infernal energy. 
 (d) The piston of a bicycle pump at room temperature of 290 K is slowly moved in until
 the volume of air enclosed is one — fifth of the total volume of the pump. The outlet is
 then sealed and the piston suddenly drawn out to full extension. If no air passes the
 piston, find the temperature of the air in the pump immediately after withdrawing the
 piston, assuming that air ts an ideal gas with cryoscopic constant, y = 1.4. (5 marks) |
-SECTION B
-5. (a) (1) What is meant by crossed polaroids? (1.5 marks)
+
+(a) (1) What is meant by crossed polaroids? 
 (14) Briefly describe the #ppcarance of fringes produced by monochromatic fight.
-(2.5 marks)
+
 (b) (1) Give two difference between diffracting grating spectra and prism spectra.
-(4 marks)
+
 (i) A diffraction grating used at normal incidence gives a yellow line. 2 = 5750 A
 ma certain spectral orde: superimposed on 2 blue Hine, A = 4600 A of the next
 heghes order, If the angle of diffraction is 30°. what is the spacing between the
-grating lines? (S marks)
-(c) (1) State Huygens principle of wave construction. (2 marks)
+grating lines? 
+(c) (1) State Huygens principle of wave construction. 
 (11) A thin wedge of ait of small angle ts enclosed by two thin glass plates. When
 the plates are illuminated by a paralle! beam of monochromatic light of
 wavelength 589 nm, the distance apart of the fringes is 0.8 mm. Calculate the
-angle of the wedge. (5 marks)
+angle of the wedge. 
 a an me eHEDRss ~ £
 Ty AD: , Cs,
 ,. “0” . \@ 5. lp -&amp;
@@ -101,10 +101,10 @@ _ be ge’ |
 tee es . vie re Loe
 ~ mo ) . oo , ee | |
 oe ‘ ° 2 OR
-Find more free educational resources at http://maktaba.tetea.org
+
 
 . / ee na eee
-6. (a) (i) Explain why it ia better to use a smal) current for 2 Jong time to plate a moval
+(a) (i) Explain why it ia better to use a smal) current for 2 Jong time to plate a moval
 with a given thickness of silver than using a larger current for a short time? it
 (2 marks) 4
 (i) Give four difference between the passage of eleciricity through metals and |
@@ -113,72 +113,72 @@ with a given thickness of silver than using a larger current for a short time? i
 : (ii) A milliameter connected in Scrics with a hydrogen discharge tube indicates a
 current of 1.0x10°'A. If the number of electrons passing the cross section of
 the tube at a particular point is 4.010" per second, find the number of
-| protons thal pass the same cross section per second. (6 marks)
+| protons thal pass the same cross section per second. 
 | (c) A silver and copper voltammeier are connected in paralle] across a 6 V battery of
 | negligible internal resistance. In half an hour 1,0 g of copper and 2,0 g of silver are
-deposited, Catculate the rate at which the energy is supplied by the battery. (6 marks)
-7. (a) (i) State Lenz’s Jaw of electrom agnctic induction, (2 marks)
+deposited, Catculate the rate at which the energy is supplied by the battery. 
+(a) (i) State Lenz’s Jaw of electrom agnctic induction, 
 | (ti) An aircraft is flying horizontafly at 200 ms"! through the region where the
 | vertical component of the earth magnetic field is 4.0 x 10° T. If the air craft
 has a wing spar’ of 40 m, what will be the potential difference (p.d) produced
-| between the wing tips? (3 marks)
+| between the wing tips? 
 re (b) = A toroid of inner radius 25 ¢m and an outer radius of 28 cm has 4500 turns of wound
 * around it which passes a Current of 12 A. What will be the induction of the magnetic
 flux;
-ne (i) Outside the toroid. (1 mark)
-po (ij) inside the core of the toroid, (3 marks)
-oo (iii) —_ in an empty space surrounding the toroid. (1 mark)
-* eke (c) . i) Derive an expression for impedance of a series R -C circuit. (4 marks)
+ne (i) Outside the toroid. 
+po (ij) inside the core of the toroid, 
+oo (iii) —_ in an empty space surrounding the toroid. 
+* eke (c) . i) Derive an expression for impedance of a series R -C circuit. 
 ae ‘. ae moe Gi) An alternating cusrent (a.c) of 0.2 A r.m.s and frequency of ~ Hz flow in a
 ‘ . wee. Sd He &gt;. ; .. ,
 are Fo Se, circuit containing a series arrangement of a resistor R of resistance 20 Q, an
 Fa sae ey | inductor L of 0.15 H and a capacitor C of capacitance 500 pF. Calculate the
-e Bee sh iets Tesultant potential difference (p.d) and the impedence of the circuit, (6. marks)
+e Bee sh iets Tesultant potential difference (p.d) and the impedence of the circuit, 
 SS UR a ee 9 | _ S i.
 4 vy a i. ed vee Ben "2 ‘ ’ ° . | , me ote 7 ce
 | . ia a : Heat 5 &lt;P. *. . - . - - “4 so a+ nt : . we
-Cae ania, Ka ye . SECTION C: He ta bet Boe RS
+
 Oo Tg wiesnisoceetion? = ci eS ede
 Ee en age rprocllatine.at A thtsetpr ia inde widaeily re ae
 erie reeset, Saar! tra pect TE ee, SE NT
-Find more free educational resources at http://maktaba.tetea.org
+
 
 Fe ec caccc cee
 |
 (co) i) Mention one application of LED. What type of a semiconductor as 10?
-2 (2 marks)
+2 
 (i) = Write down two advantages of digital circuits over the analogue circuits
-| . (2 marks)
+| . 
 (i) == Create the truth table of the circuit below.
 A D
 Be
 r
-C (5 marks)
+C 
 E
-9. (a) (1) Distinguish between white spectrum and line spectrum. (2 marks)
+(a) (1) Distinguish between white spectrum and line spectrum. 
 (i) «If the energy necessary to cause the ejection of an electron by photoelectric
 effect from the N — shell and K ~ shell of an atom is 10 eV and 20 eV
 Tespectively, calculate the maximum wavelength of radiauon for each level.
-¢ (4 marks)
-(b) (1) What is the significance of the binding energy per nucleon? (1 mark)
+¢ 
+(b) (1) What is the significance of the binding energy per nucleon? 
 (ii) | The nucleus of iron, 3?Fe with a mass of 56.935 am.u emits a y-ray
-radiation of 14.4 x 10° eV. Calculate its recoil energy. (S marks)
+radiation of 14.4 x 10° eV. Calculate its recoil energy. 
 (c) Given that Rydberg’s constant is approximately 1.1 x 10’ nv!. Calculate the
 corresponding range of frequency for emitted radiation in the:
-(i) Lyman series. (4 marks)
-(ii) Baliner series. (4 marks)
+(i) Lyman series. 
+(ii) Baliner series. 
 10. (a) ~—A Fadioactive isotope of Thallium *4, Th, emits 8 - particles with average energy of
 1.5 MeV. If the half life of the isotope is 135 days and is brought to emit y - radiation:
 i) Descnibe a simple test which could confirm the emission of B - particles and
-y — radiation. (3 marks)
+y — radiation. 
 {ny What will happen to the nucteus of the new isotope after the emission of y-
-radiation? (i mark)
-(311) Find the decay constant of the isotope. (3 marks)
+radiation? 
+(311) Find the decay constant of the isotope. 
 (b) (1) Briefly explain why the B — particles emitted from a radioactive source differ
-from the electrons obtained by thernvionic emission? (03 marks)
+from the electrons obtained by thernvionic emission? 
 Gi) = The mass of a particular radioisotope in « sample is initially 6.4 x 10°kg, After
 42 days the isotope was separated from the sample and found to have a mass of
-1.0x 10“%kg. Calculate the half- life of the isotope, (03 marks)
+1.0x 10“%kg. Calculate the half- life of the isotope, 
 Qu 6
 § Ws
 0 8 LP, 0.0 im .
@@ -187,7 +187,7 @@ Page 5 of 6 ‘Werewr &gt;
 $ Ny ec .
 se ewe | . mor, se OL ete ve
 - ; ee: cy ptt PSB daz, : ace Fl a here tae sci - “ . 7" am i al
-Find more free educational resources at http://maktaba.tetea.org
+
 
 eee a ee - —
 Ww) Ky PY Heer TA EE ete ttyte tte cbanehs
@@ -210,5 +210,5 @@ Se catia
 6 , - . . - e- 4 - ~* &gt; —
 "s « e ° - ~ a _ as ; - - f
 ' ea. e? ve :
-Find more free educational resources at http://maktaba.tetea.org
+
 

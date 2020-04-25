@@ -1,34 +1,34 @@
 Physics 2 - F6 - 2007
-SECTION A
+
 Answer at least one (1) question from this section.
 / 3
 4.‘ (a) With the aid of a diagram describe a simple laboratory experiment to measure Young’s
 modulus of a wooden bar acting as a loaded cantilever from its period of vibration given that
 ae wu
-the depression S is given by S = le (06 marks)
+the depression S is given by S = le 
 (b) Two small spheres each of mass 10 g are attached to a light rod 50 cm long. The system Is set
 into oscillation and the period of torsional oscillation is found to be 770 seconds. To produce
 maximum torsion to the system two large spheres each of mass 10 kg are placed near each
 suspended sphere, if the angular deflection of the suspended rod Is 3.96 x 10° rad. and the
 distance between the centres of the large spheres and small spheres is 10 cm, determine the
-value of the universal constant of gravitation, G, from the givén information. (06 marks)
-(c) Write the Continuity and Bernoullis’ equations as applied to fluidy dynamics. (02 marks)
+value of the universal constant of gravitation, G, from the givén information. 
+(c) Write the Continuity and Bernoullis’ equations as applied to fluidy dynamics. 
 (d) (i) Under what conditions is the Bernoullis’ equation applicable?
-(ii) | Discuss two (2) applications of the Bernoullis equation. (03 marks)
+(ii) | Discuss two (2) applications of the Bernoullis equation. 
 (e) (it) Develop an equation to determine the velocity of a fluid in a venture meter pipe.
-(ii) What amount of fluid passes through a section at any given time? (03 marks)
-2./ (a) Differentiate betwcen tensile and shear stress. (02 marks)
+(ii) What amount of fluid passes through a section at any given time? 
+2./ (a) Differentiate betwcen tensile and shear stress. 
 (b) A lift is designed to hold a maximum of 12 people. The lift cage has a mass of 500 kg and the
 distance from the top floor of the building to the ground floor is 50 m.
 (1) What minimum cross-sectional area should the cable have in order to support the lift
 and the people in it’?
 (ii) | Why should the cable have to be thicker than the minimum cross-sectional
-area in 2.(b) (i) in practice? (03 marks)
+area in 2.(b) (i) in practice? 
 (iii) How much will the lift cable in 2.(b) (1) above stretch if 10 people get into the lift at the
-ground floor, assuming that the lift cable has a cross section of 1.36cm’? (03 marks)
+ground floor, assuming that the lift cable has a cross section of 1.36cm’? 
 Note: Mass of an average person = 70 kg.
 E see) = 2x 10'' Nm”, Tensile strength of steel = 4x 10° Nm*~.
-(c) State and define Newton’s 2" law of motion with respect to angular motion. (01 mark)
+(c) State and define Newton’s 2" law of motion with respect to angular motion. 
 (d) A pendulum is constructed from two identical uniform rods X and Y, each of length L and
 mass m connected at right angles to form a T by joining the centre of rod X to one end
 of rod Y WA
@@ -52,16 +52,16 @@ LC € \ Lye
 Ue
 \ 2 2
 Find more free educational resources at:
-http: , ,
-p://maktaba.tetea.org Scanned by CamScanner
+
+
 
 Town Suspended from the free end of rod Y and the pendulum swings in the plane of
 axis Of rotation.
-(11) Calculate the moment of inertia I of the T about the axis of rotation. (02 marks)
+(11) Calculate the moment of inertia I of the T about the axis of rotation. 
 (11) Obtain the expression for the k.e. and p.e. in terms of the angle 8 of inclination to the
-vertical oscillation of the pendulum. (02 marks)
+vertical oscillation of the pendulum. 
 ; . pigs TL
-(1v) Show that the period of oscillation is 2x 182 : (02 marks)
+(1v) Show that the period of oscillation is 2x 182 : 
 . . mL?
 Moment of inertia of a thin rod about its centre Ic =
 (ce) Q) On the basis of Newton’s universal law of gravitation, derive Kepler’s third law of
@@ -73,9 +73,9 @@ no atmosphere? (02 marks) ae
 [ Radius of earth Re = 6.4 X 10° km and gravitational potential energy ge = 9.81 Nkg (is rae
 ~ - Ly
 , . ; ~XS (Ol mark) \@ =
-3. (a) (i) Define an ideal gas. VS GX
+(a) (i) Define an ideal gas. VS GX
 (11) State the four (4) assumptions necessary for an ideal gas that are used to develop the
-expressionp = “pC a (0 2marks)
+expressionp = “pC a 
 (iii) How is pressure explained in terms of the kinetic theory? (01 mark) .
 . 7 8 Ni —
 (b) (i) Without a detailed mathematical analysis argue the steps to follow in deriving the
@@ -83,7 +83,7 @@ expressionp = “pC a (0 2marks)
 relation p = 7p re
 - 4
 f the kinetic theory.
-(ii) Define the temperature of an ideal gas as a consequence o (02 marks)
+(ii) Define the temperature of an ideal gas as a consequence o 
 arr ! whose inner surface is a small fF G
 ‘tain diatomic gas is contained in a vesse- , ace e
 absorber which retains any atoms or molecules of gas which strike it. SW ae it R
@@ -106,12 +106,12 @@ te ACT wm “Ey |
 —pf Cy “ i, |
 ~ \ “YS MACK \O SE js SS -
 Find more free educational resources at:
-http://maktaba.tetea.org Scanned by CamScanner
 
-(02 marks)
-4. (a) State the expression for the 1° law of thermodynamics.
+
+
+(a) State the expression for the 1° law of thermodynamics.
 (b) | What do you understand by the terms:
-(i) critical temperature? (02 marks)
+(i) critical temperature? 
 (ii) adiabatic change?
 (c) Anair bubble is observed in a pipe of the braking system of a car. ‘The pips iS oe with an
 incompressible liquid (figure 2 below). When the brakes are applied, the incre p
@@ -124,101 +124,101 @@ length of the bubble is 15 mm. When the brakes are applied quickly , the air bub
 compressed adiabatically and if the change in its length exceeds 12 mm the brakes fail.
 If the internal cross-sectional area of the pipe is 2 x 10° m’;
 (i) Explain briefly why the compression of the bubble is cons‘dered to be a
-diabatic. (01 mark)
+diabatic. 
 (11) What is the maximum safe pressure in the system during rapid braking if the
-bubble’s change in length does not exceed 12 mm? (Take y,;, = 1.4) (02 marks)
+bubble’s change in length does not exceed 12 mm? (Take y,;, = 1.4) 
 (ii1) Determine the temperature of the air in the bubble at the end of the adiabatic
-compression. (02 marks)
+compression. 
 (d) (i) Find the number of molecules and their mean kinetic energy for a cylinder
 of volume 5 x 10% m° containing oxygen at a pressure of 2 x 10° Pa anda
 temperature of 300 K. (06 marks) .
 (ii) When the gas is compressed adiabatically to a volume of 2 x 10 m’, the
 temperature rises to 434 K. Determine y, the ratio of the principal heat Capacities.
-[Molar gas constant R = 8.31 Jmol! K-1,N, = 6x 10% mol'] (05 marks)
-SECTION B
+[Molar gas constant R = 8.31 Jmol! K-1,N, = 6x 10% mol'] 
+
 Answer at least one (1) question from this section.
 §. (a) (i) Describe briefly the formation of Newton rings. How would you measure the
-, wavelength of yellow light by use of Newton’s rings? (06 marks)
+, wavelength of yellow light by use of Newton’s rings? 
 (ii) What would happen to the central spot when air rests between the lens and the plate
-of the apparatus for Newton’s rings? (01 mark)
+of the apparatus for Newton’s rings? 
 (b) = (i) What is meant by doppler effect? (01 mark) (
-(ii) Mention two (2) common applications of the doppler shift. (02 marks)
+(ii) Mention two (2) common applications of the doppler shift. 
 Cy
 TN, C- a
 Find more free educational resources at:
-http://maktaba.tetea.org Scanned by CamScanner
+
 
 (c) Ultra sound of frequency 5 x 10° Hz is incident at an angle of 30° to the blood vessel of a
 patient and a doppler shift of 4.5 KHz is observed. If the blood vessel has a diameter 10 ’m
 and the velocity of ultrasound is 1.5 x 10° ms"! . Calculate the:
 
-(1) blood flow velocity. (02 marks)
-(ii) volume rate of blood flow. (02 marks)
+(1) blood flow velocity. 
+(ii) volume rate of blood flow. 
 
-(d) State Rayleigh’s criterion for the resolution of two objects. (01 mark)
+(d) State Rayleigh’s criterion for the resolution of two objects. 
 
 (e) The diameter of the pupil of the human eye is 2mm in bright light.
 
-(i) What is its resolving power with light of wavelength A = 5x 10°’m? (02 marks)
+(i) What is its resolving power with light of wavelength A = 5x 10°’m? 
 (it) Would it be possible to resolve two large birds 30 cm apart sitting on a wire
 
-1.5 x 10° m away at daytime? (02 marks)
-(11) What would the situation be at night when the pupil dilates to 4 mm? (01 mark)
+1.5 x 10° m away at daytime? 
+(11) What would the situation be at night when the pupil dilates to 4 mm? 
 
-6. (a) (i) State Faraday’s two (2) laws of electrolysis and calculate the value of Faradays
+(a) (i) State Faraday’s two (2) laws of electrolysis and calculate the value of Faradays
 
 constant given that the e.c.e. of copper is 3.30 x 10°’ kg C™' and the copper is a
 
-divalent element. (CS marks)
-(ii) Discuss two (2) harmful effects of electrolysis. (02 marks)
+divalent element. 
+(ii) Discuss two (2) harmful effects of electrolysis. 
 
 (b) (i) What is meant by the back e.m.f. (polarization potential) in a water
 
-voltameter? (02 marks)
+voltameter? 
 (il) Develop an expression for electrical energy spent in the decomposition
 
-of water. (02 marks)
+of water. 
 
 (c) A piece of metal weighing 200 g Is to be electroplated with 5 % of its weight in gold. Ifthe
 strength of the available current is 2A, how long would it take to deposit the required amount
 of gold? (07 marks) .
 
-7. (a) State the main differences between. an
-(1) diamagnetism and paramagnetism. ~@ oe Loon (01 mark)
-(11) ferromagnetism and auntiferromagnetism. (01 mark)
-(111) ferromagnetism and ferrielectricity. (01 mark)
+(a) State the main differences between. an
+(1) diamagnetism and paramagnetism. ~@ oe Loon 
+(11) ferromagnetism and auntiferromagnetism. 
+(111) ferromagnetism and ferrielectricity. 
 (b) Draw hysteresis loops diagrams for soft iron and hard steel and use them to discuss
 (1) permanent magnets.
 (11) electromagnets.
-(111) transformer cores. (07 marks)
-(c) (i) State Far-day’s law of electromagnetic induction. (01 mark)
+(111) transformer cores. 
+(c) (i) State Far-day’s law of electromagnetic induction. 
 (11) A coil of cross section area A rotates with an angular velocity @ in a uniform.
-magnetic field, B. Derive the equation for induced e.m_f. of the system.(03 marks)
+magnetic field, B. Derive the equation for induced e.m_f. of the system.
 A coil having 475 turns and cross sectional area 20 cm’, rotates at 600 r.p.m. ina
 uniform magnetic field of 0.01T. Find:
-(iv) the peak e.m.f and the r.m.s. e.m.f induced in the coil. (04 marks)
-(v) show these values on a graph of E vs time. (02 marks)
+(iv) the peak e.m.f and the r.m.s. e.m.f induced in the coil. 
+(v) show these values on a graph of E vs time. 
 \ a
 Find more free educational resources at:
-http://maktaba.tetea.org Scanned by CamScanner
 
-SECTION C
+
+
 Answer at least one (1) question from this section.
-8. (a) (i) Explain the terms output saturation and negative feedback as applied to
-op-amplifiers. (02 marks)
+(a) (i) Explain the terms output saturation and negative feedback as applied to
+op-amplifiers. 
 (b) For an ideal operational amplifier, what are the values of the
-(i) current into both inputs of the op-amp? (01 mark)
-(ii) voltage between the inputs if the output is not saturated? (01 mark)
-(c) (i) What is a non-inverting amplifier? (01 mark)
+(i) current into both inputs of the op-amp? 
+(ii) voltage between the inputs if the output is not saturated? 
+(c) (i) What is a non-inverting amplifier? 
 (11) Determine the input and output impendance of the amplifier in figure 3 below
 if Z, = 2M 82and
-Zou = 75 Qand open loop gain A = 2x 10°. (06 marks)
+Zou = 75 Qand open loop gain A = 2x 10°. 
 R;
 LC
 i © V out
 R; : 10K | Vv.
 —y Fig. 3
-(111) Find the closed loop voltage gain. (02 marks)
+(111) Find the closed loop voltage gain. 
 (d) Figure 4 below shows a logic circuit to operate a LED.
 Ca
 +12V
@@ -231,32 +231,32 @@ Pt OY &gt; Polo
 Fig. 4
 USA 6
 Find more free educational resources at:
-http://maktaba.tetea.org Scanned by CamScanner
+
 
 (1) What is the voltage at ,
-Be at x when S, is Open and S, closed. (01 mark)
+Be at x when S, is Open and S, closed. 
 (11) Construct a truth tabl
 Outputs. Show that the LED X, Y and Z are inputs and P, R and Q are
-ights when the switches are closed. (05 marks)
-(iil) What is the effect of varying R,? (01 mark)
+ights when the switches are closed. 
+(iil) What is the effect of varying R,? 
 . a) (1) It is not . .
 9 ( chemical mean Eeparate the different isotopes of an element by
-AP Tain. (01 mark)
-(it) Define a mass spectrometer. (01 mark)
+AP Tain. 
+(it) Define a mass spectrometer. 
 (b) lon A of "rele 24 and charge + e and ion B of mass 22 and charge + 2e both enter the
 eee eld of a mass spectrometer with the same speed. If the radius of A
 is 2.5.x 10° m, calculate the radius of the circular path of B. °
-(05 marks)
+
 (c) 4 : paper manuacturing plant, a paper passes between a B — source and the detector.
 eter to figure 3 below.
 (1) How will the detector system respond to an increase in thickness of
-paper? (01 mark)
+paper? 
 Control
 Y )
 Fig. 5
 ; i h
 nk. j on, the control system will have to do in suc
-(ii) What do you think, in your Opin (02 marks)
+(ii) What do you think, in your Opin 
 an event:
 Le Give a concise explanation of how the B — source and the detector or oa ark)
 my) quality control in this manufacturing plant.
@@ -266,37 +266,37 @@ ym — 238 in a certain rock was foun
 (Cc) If the ratio of mass isi ally contained no lead — 206, estimate the age of the rk |
 be 0.45 and that the rock originally -&lt; 45 x 10° years (06 marks,
 en that the half life of uranium — 238 is 4.5 x years.
-a laser (03 marks)
+a laser 
 , ; fa helium — neon /aser.
 -yplain briefly the action ©
 10. (ay Explain
 - rms
 (b) Define the following le Cort ve
 (i) atomic mass unit. ~~)
-(ii) binding encrey: ouch re (03 marks)
+(ii) binding encrey: ouch re 
 (11) mass defect.
 7
 USA
 Find more free educational resources at:
-http://maktaba.tetea.org Scanned by CamScanner
+
 
 (c) Determine the binding energy per nucleon for re P given that
 tip = 30.97376 amu.
 on = 1.00865 amu,
 | =
-| H 1.00782 a.m.u. (03 marks)
+| H 1.00782 a.m.u. 
 (d) In a hydrogen atom model an electron of mass m and charge e rotates about a heavy
 nucleus of charge e ina circular orbit of radius r. Develop an expression for the angular
 momentum of the electron in terms of m, e, r, mand €,— the permittivity of free space.
-| | (03 marks)
-(e) What is a line spectrum? (01 marks)
+| | 
+(e) What is a line spectrum? 
 (f) The four lowest energy levels ina mercury atom are -10.4 eV, —5.5 eV, -3.7 eV
 and -1.6 eV.
-(1) Determine the ionisation energy of mercury in joules. (02 marks)
+(1) Determine the ionisation energy of mercury in joules. 
 (it) Calcuiate the wavelength of the radiation emitted when an electron jumps
-from -1.6 eV to -5.5 eV energy levels. (04 marks)
+from -1.6 eV to -5.5 eV energy levels. 
 (iil) What will happen if a mercury atom in its excited state is bombarded with
-electrons having an energy of 11 eV. (01 mark)
+electrons having an energy of 11 eV. 
 a !
 oN
 a
@@ -315,5 +315,5 @@ we¥
 8
 USA
 Find more free educational resources at:
-http://maktaba.tetea.org Scanned by CamScanner
+
 

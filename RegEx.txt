@@ -1,0 +1,17 @@
+# Remove all of the (02 marks) labels
+[\(\{\[].{0,5}ma.{0,5}[\)\}\]]$
+
+# Remove all lines containing section headers
+^(?=.*?\bSECTION\b)((?!al|of|cross).)*$
+
+# Remove all MAKTABA labels
+^.*\b(http|maktaba)\b.*$
+
+# Remove all "page 1 of 5" labels
+^(?=.*?\bpage\b)(?=.*?\bof\b).*$
+
+# Remove whitespace at beginning of new lines
+^[ ]{1,4} 
+
+# Remove number labels
+^\d\. 

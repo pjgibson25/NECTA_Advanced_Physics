@@ -1,25 +1,25 @@
 Physics 2 - F6 - 2019
 mz
-SECTION A
+
 Answer at least one (1) question from this section.
-1. (a) (i) ~— Give the meaning of the terms velocity gradient, tangential stress and coefficient
-of viscosity as used in fluid dynamics. _ (03 marks)
+(a) (i) ~— Give the meaning of the terms velocity gradient, tangential stress and coefficient
+of viscosity as used in fluid dynamics. _ 
 
 (ii) Write Stokes’ equation defining clearly the meaning of all symbols used.
 
-(02 marks)
 
-(ili) State two assumptions used to develop the equation in | (a) (ii). (02 marks)
+
+(ili) State two assumptions used to develop the equation in | (a) (ii). 
 
 (b) Calculate the terminal velocity of the rain drops falling in air assuming that the flow is
 laminar, the rain drops are spheres of diameter 1mm and the coefficient of viscosity,
 
-7 =1.8x107Ns/m?. (06 marks)
+7 =1.8x107Ns/m?. 
 
 (c) Water flows past a horizontal] plate of areal.2 m7’. If its velocity gradient and coefficient
 
 | of viscosity adjacent to the plate are 10s” and 1.3x10° Nsm” respectively, calculate the
-force acting on the plate. | (03 marks)
+force acting on the plate. | 
 
 (d) A horizontal pipe of cross - sectional area10 cm2 has one section of cross sectional area
 
@@ -27,79 +27,79 @@ Scm’. If water flows through the pipe, and the pressure difference between the
 
 Sections 1s 300 Pa , how many cubic meters of water will flow out of the pipe in 1 minute?
 
-(04 marks)
 
-2. (a) (i) Provide one evidence which proves that sound is a wave, (02 marks)
+
+(a) (i) Provide one evidence which proves that sound is a wave, 
 
 (i) Why thunder of li ghtning is heard some moments after seeing the flash?
 
-: ~ (02 marks)
-(b) (i) What is Doppler effect? (03 marks)
+: ~ 
+(b) (i) What is Doppler effect? 
 
 (ii) The cyclist moving at 10 m/s and the railway train at 20 m/s are approaching each
 other. If the engine driver sounds a warming siren at a frequency of 480 Hz:
 calculate the frequency of the note heard by the cyclist before and after the train
-has passed away. (06 marks)
+has passed away. 
 
 (c) Two sheets of a Polaroid are lined up so that their polarization directions are initially
 parallel. When one sheet is rotated:
 
 (i) How does the transmitted light intensity vary. with the angle between the
-polarization directions of the polaroid? (02 marks)
+polarization directions of the polaroid? 
 
 (ii) What angle must the polaroid be rotated to reduce the light Intensity by S062
 
-(O4 marks)
-3. (a) (i) Give the meaning of the terms wave function, longitudinal wave snd transverse
-. AVES | (03 marks)
+
+(a) (i) Give the meaning of the terms wave function, longitudinal wave snd transverse
+. AVES | 
 (i) The equation of a Progressive wave travelling in the +x - direction is given by
 ») ‘
-y-asin(mt kx), Show that the maximum Velocity, Vio = “a . (04 marks)
-(b) (i) What is meant by diffraction prating:? (02 marks)
+y-asin(mt kx), Show that the maximum Velocity, Vio = “a . 
+(b) (i) What is meant by diffraction prating:? 
 Pape 2 of 6
 Be . fomry la
 Be . —
 Ma: Find more free educational resources at:
-http://maktaba.tetea.org
+
 
 Gi) A diffraction grating has 500 lines per millimetre when used with monochromatic
 light of wavelength 6 x 10°’m at normal incidence. Determine the angle at which
-the bright diffraction images will be observed. (04 marks)
+the bright diffraction images will be observed. 
 
-(iii) Why other orders of image in 3 (b) (11) can not be observed? (01 mark)
+(iii) Why other orders of image in 3 (b) (11) can not be observed? 
 
-(c) (1) State Huygens’s principle of wave construction. _ (02 marks)
+(c) (1) State Huygens’s principle of wave construction. _ 
 
 (ii) | A lens was placed with a convex surface of radius of curvature 50.0 cm in contact
 with the plane surface such that Newton’s rings were observed when the lens was
 illuminated with monochromatic light. If the radius of the 15" ring was 2.13 mm;
-determine the wavelength. (04 marks)
+determine the wavelength. 
 
-~ SECTION B
+
 Answer at least one (1) question from this section.
-4. (a) (i) Define Young’s Modulus of a material. (01 mark)
-(ii) | Why work is said to be done in stretching a wire? (02 marks)
+(a) (i) Define Young’s Modulus of a material. 
+(ii) | Why work is said to be done in stretching a wire? 
 (b) A steel wire AB of the length 60 cmand cross sectional area 1.5x10~ m” is attached at
 B to copper wire BC of length 39cm and cross sectional area 3.0x10~° m’. If the
 combination of the two wires is suspended vertically from a fixed point at A, and
 supports a weight of 250 Nat C; find the extension (in millimeter) of the
-(1) steel wire. (04 marks)
-(i1) | Copper wire. (04 marks)
+(1) steel wire. 
+(i1) | Copper wire. 
 (c) Based on the kinetic theory of gases determine:
 (1) The average translational kinetic energy of air at a temperature of 290K.
-(04 marks)
+
 (11) The root mean square seed (r.m.s) of air at the same temperature as in 4 (c) (i).
-(05 marks)
-5. (a) (i) Define the terms electric potential and electric field-strength E at a point in the
-electrostatic field. — (04 marks)
-(1) How the two quantities in 5 (a) (i) are related? (02 marks)
+
+(a) (i) Define the terms electric potential and electric field-strength E at a point in the
+electrostatic field. — 
+(1) How the two quantities in 5 (a) (i) are related? 
 (b) Outside the sphere, a charged sphere behaves like its charges were concentrated at the
 centre. If the electric field strength inside the sphere is zero and one sphere of radius 5.0
 cm carries a positive charge of 6.7 nC, calculate; |
-4) — the potential at the surface of the sphere. (0-$ marks)
-(ii) the capacitance of the sphere. (0-4 marks)
+4) — the potential at the surface of the sphere. 
+(ii) the capacitance of the sphere. 
 Find more free educational resources at:
-http://Makeba 249 org
+
 
 - )
 . : ;in a vacuum.
@@ -110,94 +110,94 @@ OV
 Figure 1
 If a small particle of mass 4x107'? kg carries a positive charge of 3.0 x 10° ¢ j,
 released at point A close to the upper plate,
-(1) What is the total force on this particle? (03 marks)
+(1) What is the total force on this particle? 
 (1) Calculate the kinetic energy of the particle when it reaches the lower plate.
-: (03 marks)
-6. (a) (1) What is meant by dielectric constant? (02 marks)
-(11) State Coulomb’s law of force between two electrically charged bodies. (02 marks)
+: 
+(a) (1) What is meant by dielectric constant? 
+(11) State Coulomb’s law of force between two electrically charged bodies. 
 (b) (i) Can there be a potential difference between two adjacent conductors carrying the
-___ Same positive charge? Give a reason. (04 marks)
+___ Same positive charge? Give a reason. 
 Gi) A parallel plate capacitor with air as a dielectric has plates of area 4.0 x 107 m?
 which are 2.0 mm apart. The capacitor is charged to 100 V battery and connected
 in parallel with a similar unchanged capacitor with plates of half the area and twice
 the distance apart. If the edge effect is neglected, calculate the final charge on each
-plate. (04 marks)
+plate. 
 (c) () Derive an expression for the total capacitance of two capacitors C, and C;
-connected in Series. (04 marks)
+connected in Series. 
 (11) Two capacitor of 15 wF and 20 uF are connected in series with a 600 V supply.
-Calculate the charge and Potential difference across each capacitor. (04 marks)
-SECTION C
+Calculate the charge and Potential difference across each capacitor. 
+
 Answer at least one (1) question from this Section.
-7. (a) (i) Based on Balmer series of hydrogen spectra determine the wavelensth of the
-- series limit of Paschen series. (03 marks)
+(a) (i) Based on Balmer series of hydrogen spectra determine the wavelensth of the
+- series limit of Paschen series. 
 (11) Why electrons do not fall into the nucleus due to electrostatic force of
-attraction?. (03 marks)
-(b) (i) Why hydrogen atom is stable in the ground state? (01 mark)
+attraction?. 
+(b) (i) Why hydrogen atom is stable in the ground state? 
 (i) According to Bohr’s theory, the’ angular momentum of an electron is an
 integral multiple of fa . Express this statement. by using a mathematical
 £
 equation in which angular momentum ts represented by the letter Land orbit
-by the letter n, (02 marks)
+by the letter n, 
 Find more Pagzetdaiba resources at: - |
-http://maktaba.tetea.org .
+
 
 (iit) | Determine the angular momentum of the electron in the orbit of energy level
 . —13.6 .
 - 3.4 eV given that E,=——— eV, where E is the energy of an electron and n
 n
-is the principal quantum number of hydrogen atom. (03 marks)
+is the principal quantum number of hydrogen atom. 
 (c) Figure 2 represents a series of lines obtained when the excited electron of an atom of a
 certain element falls back. Read it carefully then answer the questions which follow:
 A B C D EF
 Figure 2
-(1) Account for the observed convergence of the lines from AtoF. (03 marks)
+(1) Account for the observed convergence of the lines from AtoF. 
 Gi) If the energy value of each line in the spectrum can be calculated using the
 , —13.6 . . .
 equation, E,,=—_,— eV; to which spectral series does the spectrum belongs if
 n°.
-the energy value of line A is -1.5leV? (05 marks)
-8. = (a) What is meant by the following terms as used in nuclear Physics?
+the energy value of line A is -1.5leV? 
+= (a) What is meant by the following terms as used in nuclear Physics?
 
-(1) Mass defect (02 marks)
-(11) Binding energy. (02 marks)
+(1) Mass defect 
+(11) Binding energy. 
 (b) Disintegration of 4;U to give alpha particles can be represented by the following
 
 equation: *223U—&gt;73/Th+&gt; He. Use this equation to calculate:
-(i) The total energy released in the disintegration reaction. (04 marks)
+(i) The total energy released in the disintegration reaction. 
 (11) The kinetic energy of alpha particles when the nucleus was at rest before
-disintegration. (04 marks)
+disintegration. 
 (c) (1) Elaborate two aspects on which fission reactions differs from fusion reactions.
-(04 marks)
-(11) Why is high temperature required to cause nuclear fusion? (04 marks)
-9. (a) (1) Identify four factors that affect the force experienced by a current-carrying
-conductor in a magnetic field. (0-4 marks)
+
+(11) Why is high temperature required to cause nuclear fusion? 
+(a) (1) Identify four factors that affect the force experienced by a current-carrying
+conductor in a magnetic field. 
 (11) Write the mathematical expression which define magnetic Mur density and use
-it to deduce its S.J units. (02 marks)
+it to deduce its S.J units. 
 Gi) Apply an expression obtained 11) 0 (i) (i) to develop the formula for the force
 ona conductor carrying current Eaif the conductor and the magnetic fields are
-not at night angles, (02 marks)
+not at night angles, 
 
 (b) (i) Distinguish the terms magnetically soft and magnetically hard materials.
-(02 marks)
+
 Find more free educational resources at:
 - Paee pth Gatcaore us
 
 Ss
 
 (1) | State the condition which makes the magnetic force on a moving charge in a
-magnetic field to be maximum. (Q2 marks)
+magnetic field to be maximum. 
 
 (11) | Determine the magnitude of force experienced by a stationary charge in a
-uniform magnetic field. (02 marks)
+uniform magnetic field. 
 
 (c) (1) At which position of the rotating coil in the magnetic field, the induced e.mf is
-zero? Give a reason. (03 marks)
+zero? Give a reason. 
 
 (11) | Use mathematical expression to Justify the statement that there will be no
 change in the kinetic energy of a charged particle which enters a uniform
 magnetic field when its initial velocity is directed parallel to the field.
 
-(03 marks)
+
 Find more free educational resources at:
-http://maktaba.tetea.org
+
 

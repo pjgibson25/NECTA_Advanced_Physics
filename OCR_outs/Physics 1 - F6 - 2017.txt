@@ -1,103 +1,103 @@
 Physics 1 - F6 - 2017
-SECTION A (40 Marks)
+
 Answer four (04) questions from this section.
 A I, (a) Give the meaning of the following terms as used in error analysis: | ¢
 {) Absolute error. (Ol mark) |
-: (il) Relative error. (01 mark)
+: (il) Relative error. 
 Ab) The force ‘F" acting on an object of mass ‘m’, travelling at velocity “V" in a circle of
 !
 radius ‘r’ is given by: F = mv If the measurements are recorded as: m =(3.5+0.1)
 r
 kg, V =(204 1) m/s, r= (12.5 + 0.5) m; find the maximum possible
-(i) Fractional error. (03 marks)
-(11) Percentage error in the measurement of force. {02 marks)
-A {ch show how you will record the reading of force, ‘F’ in part (b). {03 marks)
-2. (a) (i) Define the term dimensions of a physical quantity. (G1 mark)
+(i) Fractional error. 
+(11) Percentage error in the measurement of force. 
+A {ch show how you will record the reading of force, ‘F’ in part (b). 
+(a) (i) Define the term dimensions of a physical quantity. 
 * physical q
-(ii) [dentify two uses of dimensional equations. {02 marks)
-a ib) GQ)  Whatis the basic requirement for a physical relation to be correct? = (0.1 mark}
-Ci} List two quantities Whose dimension 1s MET |. {01 mark)
+(ii) [dentify two uses of dimensional equations. 
+a ib) GQ)  Whatis the basic requirement for a physical relation to be correct? = 
+Ci} List two quantities Whose dimension 1s MET |. 
 a fC) (i} The frequeney ‘f of vibration of a stretched string depends on the tenston "F’,
 the Jength ‘1° and the mass per urul length p of the string, Derive the formula
-relating the physical quanuties by the method of dimensions. (03 marks}
+relating the physical quanuties by the method of dimensions. 
 | | 4
 (i) Use dimensional analysis to prove the correctness of the relation, p= reve
 where by jo = density of the earth, ¢ = acceleration duc to gravity, R = radius of
-the carth and G = gravitational constant, (02 marks)
+the carth and G = gravitational constant, 
 fi. 3. fa (i) Why does the kinctic energy of an earth satellue change in the elliptical orbit?
-(02 marks)
+
 fii) Give two factors which determine whether a planet has un atmosphere or not.
-(02 marks)
+
 rf. ib) A space craft is launched from the earth to the moon, If the mass of the earth is 8]
 times that of the moon and the distance from the centre of the earth to that of the moon
 is about 4.0 10°km: | |
 (i) Draw a sketch showing how the gravitational force on the spacecraft varies
-during its journey. (OJ marks)
+during its journey. 
 Page 2 of 7 |
-. Find more free educational resources at http://maktaba.tetea.org
+
 
 1 EE EEE IE:;«~U:~- s7=~SCS I
 :
 | (it) Calculate the distance from the Centre of the earth where the resuitant
-gravitational force becomes zero. (03 marks}
+gravitational force becomes zero. 
 4, (a) (1) Justify the statement that ‘If no external torque acts on a body, its angular
-velocity will not conserved’. (02 marks}
+velocity will not conserved’. 
 (i) A car is moving with a speed of 30 ms” on a circular track of radius 500m. If its
 speed 1s increasing at the rate of 2ms”; find its resultant linear acceleration.
-(03 marks}
+
 (b) An object of mass Ikg is attached to the lower end of a string Im long whose upper
 end is fixed and made to rotate in a horizontal circle of radius 0.6m. If the circular
 speed of the mass is constant, find the:
-(i) Tension in the string. (63 marks)
-(11) Period of motion. (02 marks}
-5. (a) A 7/5kg hunter fires a bullet of mass 10g with a velocity of 400ms" from a eum of
+(i) Tension in the string. 
+(11) Period of motion. 
+(a) A 7/5kg hunter fires a bullet of mass 10g with a velocity of 400ms" from a eum of
 mass Ske. Calculate the:
-(i} Recoil] velocity of the gun. (02 marks)
-(11) Velocity acquired by the hunter during f inng, (03 marks}
+(i} Recoil] velocity of the gun. 
+(11) Velocity acquired by the hunter during f inng, 
 (J) (b) A jumbo jet travelling horizontally at SOs"! at a hei ght of 300m trom sea level drops
 a juggape of food to a disaster area,
 (i) At what horizontal distance from the target should the luggage be dropped?
-(O03 marks}
-(LL) Pind the velocity of the luggare as it hit the ground. (02 marks)
+
+(LL) Pind the velocity of the luggare as it hit the ground. 
 A. (a) The equation of simple harmonic motion is given as x =6sin 10.0 + &amp;cos lO. where
 x is in centimeter and f in second. Determine the,
-(i) Amplitude. (O3 marks}
-(ui) Inttial phase of motion. ((2 marks)
+(i) Amplitude. 
+(ui) Inttial phase of motion. 
 (b} (i) Show that the total energy of a body executing simple harmonic motion is
-independent of Lime. (2.5 marks)
+independent of Lime. 
 (ii) Find the periodic time of a cubical body of side 0.2m and mass U.004ke floating
-in water then pressed and released such that tt oscillates vertically. (2.5 marks)
+in water then pressed and released such that tt oscillates vertically. 
 Page 3 of ?
-Find more free educational resources at http://maktaba.tetea.org
+
 . ee _* ol
 
-SECTION 6B (30 Marks) :
+
 Answer three (03) questions from this section.
-AI 4, (a) (1) Give acommon example of adiabatic process. (01 mark)
+AI 4, (a) (1) Give acommon example of adiabatic process. 
 7 (ii) | What happens to the internal energy of a gas during adiabatic expansion:
 (02 marks} |
 (b} A mass of an ideal gas of volume 400cm* at 288K expands adiabatically, Lf its
 temperature falls to 273K;
-(1) Find the new volume of the pas. (03 marks)
+(1) Find the new volume of the pas. 
 (ii} Calculate the final volume of the gas if it is then compressed isothermally until
-the pressure returns to its origina] value. (04 marks)
+the pressure returns to its origina] value. 
 Pr &amp;. (a) state the following accordmg ta heat exchange:
-(i) = Prevost’s theory. (145 marks)
-(i) Wien's displacement luw. {1.5 marks)
+(i) = Prevost’s theory. 
+(i) Wien's displacement luw. 
 (ob) ~—s Briefly explain why:
-(i} Steam pipes are wrapped with insulating matenals? (145 marks}
+(i} Steam pipes are wrapped with insulating matenals? 
 (ii) Stainless steel cooking pans fitted wiih extra copper at the Bottom ure more
-preferred? (1.5 marks)
+preferred? 
 cy) The value of the property X of a certain substance Is given by;
 X,=X,, +05042x107°8", Where @ is the temperature in degree celsius. Whi
 would be the celsius temperature defined by the property *% which cartesponds to @
-temperature ol 50°C on this gas thermometer scale? (04 marks)
+temperature ol 50°C on this gas thermometer scale? 
 , (a) (i} What is the advantage of using a greater length of potentiometer wire?
-(02 marks}
+
 Gi} Why is Wheatstone bridge not suitable for measuring very high resistance?
-(02 marks)
+
 Page 4 of ?
-Find more free educational resources at http://maktaba.tetea.org
+
 len
 
 ~
@@ -111,43 +111,43 @@ Ry B
 Figure |
 If the value of R, = R2 =: =R, = 1.900, Rs. =22. Bo = Fy=4¥V_ EB =2.09V, calculate
 the:
-(1) Current flowing through the circuit. (04 marks)
-(i) Potential difference. Vj, . (02 marks}
-Lf). (a) (1) List two factors on which the resistivity of a material depends. (G2 mark)
+(1) Current flowing through the circuit. 
+(i) Potential difference. Vj, . 
+Lf). (a) (1) List two factors on which the resistivity of a material depends. 
 {11} A wire of resisuvily. 2 is stretched to double tis length. What will be its new
-resisivity? Give reason for your answer. (1.5 marks)
-(b} (1) Why a high voltage supply should have high internal resistance’ (02 marks)
+resisivity? Give reason for your answer. 
+(b} (1) Why a high voltage supply should have high internal resistance’ 
 (ii) Justify the statement that ‘itis not possible to verify Ohm's taw by using a
-filament lamp’. (02 marks)
+filament lamp’. 
 (c} A potential difference of 4V is connected to 4 uniform resistance wire of leneth 3.0m
 and cross- sectional area ¥xI0™'", when a current of 0.2A is owing in the wire. Find
 the:
-(i Resistivity of a wire. {2.5 marks)
-(11) Conductivity of a wire. (O01 mark)
-SECTION C (30 Marks)
+(i Resistivity of a wire. 
+(11) Conductivity of a wire. 
+
 Answer three (03) questions from this section.
 11. (a) Briefly explain the function of the following:
 (i) Oscilloscope. (Ol mark?
-(ii) Op-amps. (0% mark}
+(ii) Op-amps. 
 (6) Study Figure 2 then construct a truth table showing the output P, Q and R.
 Page 5 of 7
-Find more free educational resources at http://maktaba.tetea.org
+
 
 x
 P
 Y R
-(4.5 marks)
+
 7 Q
 Figure 2
-(Cc) Cr) List three basic elements of communication system. (15 marks}
+(Cc) Cr) List three basic elements of communication system. 
 (ii} Explain the advantage of using optical fibre systems than coaxial cable system |
-in telecommunication processes. (02 marks)
-12. (a) (i) Define the term semiconductor. (01 mark)
-(ij) Give three examples of semiconductor materials. (135 marks)
+in telecommunication processes. 
+12. (a) (i) Define the term semiconductor. 
+(ij) Give three examples of semiconductor materials. 
 (b) fy} Outline two factors on which electrical conductrvily of a pure semiconductor
-a depends. oe (02 marks}
+a depends. oe 
 (i1} How does the forbidden energy gap of an intrinsic semiconductor vary with
-Wicrease in temperature? (01 mark}
+Wicrease in temperature? 
 (c) Figure 3 is a circuit diagram containing an ideal diode.
 - 5
 A
@@ -156,29 +156,29 @@ Wrems To Y plates af
 B
 Figure 3
 Calculate:
-(1) The peak vollage. {24 marks}
-(ii) The period. (O02 marks}
+(1) The peak vollage. 
+(ii) The period. 
 13. (a) Explain the meaning of the following terms:
 (4) P-type semiconductor (01 mark) |
-(i) N-type semuconductor. (G1 mark)
-(b) = fi) List three types of transistor configurations. (03 marks)
-(ii) Why is collector of a transistor made wider than emutter and base? (2 marks)
+(i) N-type semuconductor. 
+(b) = fi) List three types of transistor configurations. 
+(ii) Why is collector of a transistor made wider than emutter and base? 
 Page 6 of 7
-Find more free educational resources at http://maktaba.tetea.org
+
 
 EE !EES OO ee a
 (c)} A change of 100 A in the base current produces a change of 3 mA in the collector
 current. Calculate:
 
-(1) The current amplification factor, i (145 marks}
-(il) The current gain, a (1.5 marks}
-14. (a) i) State three sources of heat energy within the interior of the earth. (03 marks)
-(i) = Discuss two advantages of windbreaks to Plant environment. (02 marks)
+(1) The current amplification factor, i 
+(il) The current gain, a 
+14. (a) i) State three sources of heat energy within the interior of the earth. 
+(i) = Discuss two advantages of windbreaks to Plant environment. 
 
 (b) Briefly explain the major causes of the following types of environmental pollution:
-fi) Water pollution. (2.5 marks)
-{i} = Air pollution. (2.5 marks)
+fi) Water pollution. 
+{i} = Air pollution. 
 
 Page 7 of 7
-Find more free educational resources at http://maktaba.tetea.org
+
 
