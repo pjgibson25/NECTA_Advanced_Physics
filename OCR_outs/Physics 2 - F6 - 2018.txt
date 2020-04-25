@@ -5,37 +5,37 @@ Answer at least one (1) question from this section.
 l
 I. (a) Given the Bernoulli’s equation: p+pgh + PV = constant where all the symbols
 carry their usual meaning.
- What quantity does each expression on the left hand side of the equation
+What quantity does each expression on the left hand side of the equation
 represent? 
- Mention any three conditions which make the equation to be valid. 
+Mention any three conditions which make the equation to be valid. 
 
- Water is supplied to a house at ground level through a pipe of inner diameter 1.5 cm at
+Water is supplied to a house at ground level through a pipe of inner diameter 1.5 cm at
 an absolute pressure of 6.5 x10°Pa and velocity of 5 m/s. The pipe line leading to the
 second floor bath room 8 m above has an inner diameter of 0.75 cm. Find the flow
 velocity and pressure at the pipe outlet in the second floor bathroom. 
 
- Define the following terms when applied to fluid flow:
+Define the following terms when applied to fluid flow:
 
- Non-viscous fluid 
- (11) Steady flow 
+Non-viscous fluid 
+(11) Steady flow 
 Git) ~—_ Line of flow 
- Turbulent flow. 
- A horizontal pipeline increases uniformly from 0.080 m diameter to 0.160 m diameter
+Turbulent flow. 
+A horizontal pipeline increases uniformly from 0.080 m diameter to 0.160 m diameter
 in the direction of flow of water. When 96 litres of water is flowing per second, a
 pressure gauge at the 0.080 m diameter section reads 3.5x10°Pa. What Should be the
 reading of the gauge at the 0.160 m diameter section neglecting any loss? 
- What do you understand by the terms:
- Progressive wave 
- Refraction of waves 
- Diffraction of waves 
- Standing wave. 
+What do you understand by the terms:
+Progressive wave 
+Refraction of waves 
+Diffraction of waves 
+Standing wave. 
 
-  Two progressive waves travelling in the opposite direction in the medium are
+Two progressive waves travelling in the opposite direction in the medium are
 represented by Y, =Ssin (« t+ = and Y, = 5sin (« t -), If the two progressive
 waves form a standing wave, determine the resultant amplitude and the phase angle
 formed. 
 
- The shortest length of the resonance tube closed at one end which resounds to fork of
+The shortest length of the resonance tube closed at one end which resounds to fork of
 frequency 256 Hz is 31.6 cm, The corresponding length for a fork of frequency 384
 Hz is 20.5 cm. Determine the end correction for the tube and the velocity of sound in
 air. 
@@ -44,38 +44,38 @@ air.
 
 
 SET EEE——————— ELL
- = (i) What do you understand by the term interference of waves? (1 mark) —
- A viewing screen is separated from a double-slit source by 1.2 m. The distance °.
+= (i) What do you understand by the term interference of waves? (1 mark) —
+A viewing screen is separated from a double-slit source by 1.2 m. The distance °.
 between the two slits is 0.030 mm. The second order bright fringe (m = 2) is 4
 4.5 cm from the centre line. Determine the wavelength of the light and the §
 distance between adjacent bright fringes. 
- Define the term coherent sources of light. (2 marks) "
+Define the term coherent sources of light. (2 marks) "
 g
- Interference patterns are formed when using Young’s double slit experiment.
+Interference patterns are formed when using Young’s double slit experiment.
 Mention other three methods that can be used to form interference patterns. *
 (3 marks) —
 
- Giving reasons, explain whether either transverse or longitudinal waves could
+Giving reasons, explain whether either transverse or longitudinal waves could
 
 exist, if the vibratory motion causing them were not simple harmonic motion. 
 
- A beam of monochromatic light of wavelength 680 nm in air passes into glass. -
+A beam of monochromatic light of wavelength 680 nm in air passes into glass. -
 
 Calculate: s
 
- The speed of light in glass (2 marks) i
+The speed of light in glass (2 marks) i
 
- The frequency of light (2 marks) 
+The frequency of light (2 marks) 
 
- The wavelength of light in glass. 
+The wavelength of light in glass. 
 
- Light of wavelength 644 nm is incident on a grating with a spacing of 2.00x10° m. 
+Light of wavelength 644 nm is incident on a grating with a spacing of 2.00x10° m. 
 
- What is the angle to the normal of a second order maximum? 
+What is the angle to the normal of a second order maximum? 
 
- What is the largest number of orders that can be visible? 
+What is the largest number of orders that can be visible? 
 
-  Find the angular separation between the third and fourth order image.
+Find the angular separation between the third and fourth order image.
 
 (3marks) _
 
@@ -84,15 +84,15 @@ Answer at least one (1) question from this section.
 - (a) Mention any two factors which affect the surface tension of the liquid and in each case
 
 explain two typical examples. 
-  Why molecules on the surface of a liquid have more potential energy than those within
+Why molecules on the surface of a liquid have more potential energy than those within
 
 the liquid? Briefly explain. 
- Derive an expression for excess pressure inside a soap bubble of radius R and
+Derive an expression for excess pressure inside a soap bubble of radius R and
 surface tension y when the pressures inside and outside the bubble are P» and
 
 P; respectively. 
 
- A soap bubble has a diameter of 5 mm. Calculate the pressure inside it if the
+A soap bubble has a diameter of 5 mm. Calculate the pressure inside it if the
 atmospheric pressure is 10° Pa and the surface tension of a soap solution is
 2.8x10? Nm’, 
 
@@ -101,142 +101,142 @@ atmospheric pressure is 10° Pa and the surface tension of a soap solution is
 
 1
 
- Water rises up in a glass capillary tube up to a height of 9.0 cm while mercury falls :
+Water rises up in a glass capillary tube up to a height of 9.0 cm while mercury falls :
 down by 3.4 cm in the same capillary. Assume angles of contact for water-glass and .
 mercury-glass as 0° and 135° respectively. Determine the ratio of surface tensions of :
 mercury and water. (6 marks) 
 
- _—_ Briefly explain the following observations as applied to strengths of materials:
- Bridges are declared unsafe after long use. (2 marks) :
- Iron is more elastic than rubber. 
+_—_ Briefly explain the following observations as applied to strengths of materials:
+Bridges are declared unsafe after long use. (2 marks) :
+Iron is more elastic than rubber. 
 
- A composite wire of diameter 1 cm consists of copper and steel wires of lengths 2.2 m
+A composite wire of diameter 1 cm consists of copper and steel wires of lengths 2.2 m
 and 2 m respectively. Total extension of the wire when stretched by a force is 1.2 mm.
 Calculate the force, given that Young’s modulus for copper is 1.1x10'' Pa and for steel
 
 ‘is 2x10!! Pa. 
 
- What do you understand by the following terms?
+What do you understand by the following terms?
 
- A perfectly plastic material 
- The ultimate tensile strength 
- = Anelastic limit 
- — Poisson’s ratio. 
+A perfectly plastic material 
+The ultimate tensile strength 
+= Anelastic limit 
+— Poisson’s ratio. 
 
- Two rods of different materials but of equal cross-sections and lengths 1.0 m each are
+Two rods of different materials but of equal cross-sections and lengths 1.0 m each are
 joined to make a rod of length 2.0 m. The metal of one rod has coefficient of linear
 thermal expansion of 10°/ °C and Young’s Modulus 3x10!°N/m2. The other metal has
 the values 2x10°/ °C and 10'°N/ m’ respectively. How much pressure must be applied
 to the ends of the composite rod to prevent its expansion when the temperature is raised
 by 100°C? 
 
- Briefly explain the effect of the dielectric material on the capacitance of a capacitor
+Briefly explain the effect of the dielectric material on the capacitance of a capacitor
 when the capacitor Is:
- Isolated. 
- Connected to the battery. 
- How are the electrolytic capacitors made? 
- Two point charges of equal mass m and charge Q are suspended at a common point by
+Isolated. 
+Connected to the battery. 
+How are the electrolytic capacitors made? 
+Two point charges of equal mass m and charge Q are suspended at a common point by
 two threads of negligible mass and length L. If the two point charges are at equilibrium, 
 show that;
 
 Q*L__ 
- The distance of separation x = ee (3 marks) ,
+The distance of separation x = ee (3 marks) ,
 2TE, Mg 
 
 
 
 ~,
 . Q? its
- The angle of inclination B = 3; —————_,, , 
+The angle of inclination B = 3; —————_,, , 
 l6xze,mgL
- Two point charges, ga = +3 wC and q,p = -3 KC, are located 0.2 m apart in vacuum. Find; _
- the electric field at the midpoint of the line joining two charges. (3 mar Ks) i
- the force experienced by the negative test charge of magnitude 1.5x1l0°C 5
+Two point charges, ga = +3 wC and q,p = -3 KC, are located 0.2 m apart in vacuum. Find; _
+the electric field at the midpoint of the line joining two charges. (3 mar Ks) i
+the force experienced by the negative test charge of magnitude 1.5x1l0°C 5
 placed at this point. (4marks) @
 
 Answer at least one (1) question from this section. e
- What is meant by the term Ballistic galvanometer? (1 mark) q
- State two conditions to be fulfilled for a galvanometer to be used as a ballistic 4%
+What is meant by the term Ballistic galvanometer? (1 mark) q
+State two conditions to be fulfilled for a galvanometer to be used as a ballistic 4%
 galvanometer. (2 marks) 4
- Consider a small flat coil which has N turns of area A and whose plane is :
+Consider a small flat coil which has N turns of area A and whose plane is :
 perpendicular to a magnetic field of flux density B. If the search coil is
 connected to the ballistic galvanometer and the total resistance of the circuit is
 R, use the laws of electromagnetic induction to show that the charge delivered
- to the galvanometer does not depend on how long it takes to remove the search
+to the galvanometer does not depend on how long it takes to remove the search
 coil from the field. 
- A circular coil of 300 turns has a radius of 10 cm and carries a current of 7.5 A.
+A circular coil of 300 turns has a radius of 10 cm and carries a current of 7.5 A.
 Calculate the magnetic field at:
- the centre of the coil. 
-  a point which is at a distance of 5 cm from the centre of the coil. 
- Mention the three magnetic materials and briefly explain each one. 
- Give the differences between the magnetic materials mentioned in (c) (i) in
+the centre of the coil. 
+a point which is at a distance of 5 cm from the centre of the coil. 
+Mention the three magnetic materials and briefly explain each one. 
+Give the differences between the magnetic materials mentioned in (c) (i) in
 terms of their magnetic susceptibility. 
- Define the following terms:
- Ampere 
- Hysteresis. 
- Two parallel conductors A and B are situated 0.16 m apart. Conductor A, carries a
+Define the following terms:
+Ampere 
+Hysteresis. 
+Two parallel conductors A and B are situated 0.16 m apart. Conductor A, carries a
 current of 4 A and conductor B, carries a current of 8 A. The directions of the currents
 are shown in Figure . Find the distance from A to a point where the magnetic fields
 due to A and B cancel each other (Ignore the effects of earth’s magnetic field).
 
 
- !
+!
 i , , 
 
 
 oo A B
 Figure 1
- What do you understand by the term photon. 
- List down any three properties of a photon. 
- State any four laws of photoelectric emission. 
- = (i) Briefly explain what led de-Broglie to think that the material particles may also
+What do you understand by the term photon. 
+List down any three properties of a photon. 
+State any four laws of photoelectric emission. 
+= (i) Briefly explain what led de-Broglie to think that the material particles may also
 show wave nature and why the wave nature of matter not noticeable in our
- daily observations? 
- Prove that de-Broglie wavelength / , of electrons of kinetic energy E is given
+daily observations? 
+Prove that de-Broglie wavelength / , of electrons of kinetic energy E is given
 h
 by 4 =————, where m is the mass of the electron, e is the charge of the
 4 V2meV .
 electron, h is the Planck’s constant and V is the accelerating potential
 difference. 
- Light of wavelength 488 nm is produced by an argon laser which is used in the
+Light of wavelength 488 nm is produced by an argon laser which is used in the
 photoelectric effect. When light from this spectral line is incident on the
 emitter, the stopping (cut-off) potential of photoelectrons is 0.38 V. Find the
 work function of the material from which the emitter is made. 
- Use the concept of radioactive decay and nuclear reactions to define the following
+Use the concept of radioactive decay and nuclear reactions to define the following
 terms:
- Alpha decay
- Beta decay
-  Gamma decay
- Fission
- Fusion.
+Alpha decay
+Beta decay
+Gamma decay
+Fission
+Fusion.
 For each of the terms in (c) (i-v), give one suitable reaction equation. 
- A freshly prepared sample of a radioactive isotope Y contains 10'? atoms. The half-life
+A freshly prepared sample of a radioactive isotope Y contains 10'? atoms. The half-life
 of the isotope is 15 hours. Calculate;
- the initial activity. 
- the number of radioactive atoms of Y remaining after 2 hours, 
+the initial activity. 
+the number of radioactive atoms of Y remaining after 2 hours, 
 
 ‘
 
 
 a)    *
- Mention any four important features in the design of a nuclear reactor. a
+Mention any four important features in the design of a nuclear reactor. a
 (2 marks};
 (uy Differentiate binding energy from mass defect. (1 mark) %
- Calculate the binding energy per nucleon, in MeV and the packing fraction ofg
+Calculate the binding energy per nucleon, in MeV and the packing fraction ofg
 an alpha particle. ‘3
 Given: Mass of proton = 1.0080u, Mass of neutron = 1.0087u and Mass off
 alpha particle = 4.0026u. (4 marks) j
- State any three limitations of Bohr’s model of the hydrogen atom. (3 marks) :
- In a hydrogen atom model, an electron of mass m and charge e revolves around ¢ 
+State any three limitations of Bohr’s model of the hydrogen atom. (3 marks) :
+In a hydrogen atom model, an electron of mass m and charge e revolves around ¢ 
 the nucleus in a circular orbit of radius r. Develop an expression for the radius 3m
 r of the orbit in terms of m, e, x, the quantum number n, Planck constant h and -:
 the permittivity of free space €, and hence, use their values to find the Bohr’s 5
 radius. 
 44
- @) Distinguish between ionization energy and excitation energy. (1 mark) 7 
- Why hydrogen spectrum contains a larger number of spectral lines although its 
+@) Distinguish between ionization energy and excitation energy. (1 mark) 7 
+Why hydrogen spectrum contains a larger number of spectral lines although its 
 atom has only one electron? 
- Figure 2 shows the energy level diagram of the hydrogen atom.
+Figure 2 shows the energy level diagram of the hydrogen atom.
 QO ——————  __ 1 Fo )
 ——— Sr 5
 &gt; ee =
@@ -249,10 +249,10 @@ S
 339-— Sr
 J -13.6—[————-.°.— oo O00 i
 Figure 2
- Calculate the frequency and wavelength of the radiation emitted as a result of
+Calculate the frequency and wavelength of the radiation emitted as a result of
 an electron transition from n = 4 to when an electron is in its ground state.
 
-  What is the energy at the level where n = 5? 
+What is the energy at the level where n = 5? 
 
 
 

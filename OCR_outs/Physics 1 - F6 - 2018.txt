@@ -1,67 +1,67 @@
 Physics 1 - F6 - 2018
 
 
- Howcan random and Systematic errors be minimized during an experiment?
+Howcan random and Systematic errors be minimized during an experiment?
 
- Estimate the precision to which the Young’s modulus, y of the wire can be
+Estimate the precision to which the Young’s modulus, y of the wire can be
 determined from the formula y= “= , given that the applied tension,
 e
 F =S00N, the length of the loaded wire,  =3m, the diameter of the wire,
 d =1mm, the extension of the wire, e =5mm and the error associated with these
 quantities are 0.5N, 2mm, 0.01mm and 0.1mm respectively. 
- W@W State the law of dimensional analysis. 
- If the speed V of the transverse wave along a wire of tension, J and mass, m is
+W@W State the law of dimensional analysis. 
+If the speed V of the transverse wave along a wire of tension, J and mass, m is
 ; T .
 given by, V= a . Apply dimensional analysis to check whether the given
 m
 expression is correct or not.  
- Under what condition a passenger in a lift feels weightless? 
-  Calculate the tension in the supporting cable of an elevator of mass 500kg which
+Under what condition a passenger in a lift feels weightless? 
+Calculate the tension in the supporting cable of an elevator of mass 500kg which
 was originally moving downwards at 4m/s and brought to rest with constant
 acceleration at a distance of 20m. 
- The rotating blades of a hovering helicopter swept out an area of radius 2m
+The rotating blades of a hovering helicopter swept out an area of radius 2m
 imparting a downward velocity of 8m/s of the air displaced. Find the mass of a
 helicopter. 
-  Compute the mass of water striking the wall per second when a jet of water with a
+Compute the mass of water striking the wall per second when a jet of water with a
 velocity of Sm/s and cross-sectional area of 3x10~m’* strikes the wall at right
 angle losing its velocity to zero. 
- How does projectile motion differ from uniform circular motion? 
- A rifle shoots a bullet with a muzzle velocity of 1000m/s at a small target 200m
+How does projectile motion differ from uniform circular motion? 
+A rifle shoots a bullet with a muzzle velocity of 1000m/s at a small target 200m
 away. How high above the target must the rifle be aimed so that the bullet will hit
 the target? 
- Where does the object strike the ground when thrown horizontally with a velocity
+Where does the object strike the ground when thrown horizontally with a velocity
 of 15m/s from the top of a 40m high building? 
-  Find the speed of travel when a man jumps a maximum horizontal distance of Im
+Find the speed of travel when a man jumps a maximum horizontal distance of Im
 spending a minimum time on the ground. (03 marks) _
 
 
 
- What is meant by the following terms as used in simple harmonic motion (S.H.M)?
- Periodic motion. 
-  Oscillatory motion. 
- List four important properties of a particle executing simple harmonic motion
+What is meant by the following terms as used in simple harmonic motion (S.H.M)?
+Periodic motion. 
+Oscillatory motion. 
+List four important properties of a particle executing simple harmonic motion
 (S.H.M). 
- Sketch a labeled graph that represents the total energy of a particle executing
+Sketch a labeled graph that represents the total energy of a particle executing
 simple harmonic motion (S.H.M). 
- The periodic time of a body executing S.H.M is 4 seconds. How much time interval
+The periodic time of a body executing S.H.M is 4 seconds. How much time interval
 from time, t = 0 will its displacement be half its amplitude? 
- A satellite of mass 600kg is in a circular orbit at a height 2x10°km above the
+A satellite of mass 600kg is in a circular orbit at a height 2x10°km above the
 earth’s surface. Determine the:
- Orbital speed. 
-  Gravitational potential energy. 
- What would happen if gravity suddenly disappears?  
- Two base of a mountain are at sea level where the gravitational field strength
+Orbital speed. 
+Gravitational potential energy. 
+What would happen if gravity suddenly disappears?  
+Two base of a mountain are at sea level where the gravitational field strength
 is 9.81N/kg . If the value of gravitational field at the top of the mountain is
 9.7N/kg, calculate the height of the mountain above the sea level. 
 (03 marks) ~
- Why is flywheel designed such that most of its mass is concentrated at the
+Why is flywheel designed such that most of its mass is concentrated at the
 rim? Briefly explain. 
- Estimate the couple that will bring the wheel to rest in 1O0seconds when a
+Estimate the couple that will bring the wheel to rest in 1O0seconds when a
 grinding wheel of radius 40cm and mass 3kg is rotating at 3600 revolutions
 per minute. 
- Why an ice skater rotates at relatively low speed when stretches her arms and
+Why an ice skater rotates at relatively low speed when stretches her arms and
 a leg outward? 
-  Calculate the moment of inertia of a sphere about an axis which is a tangent
+Calculate the moment of inertia of a sphere about an axis which is a tangent
 to its surface given that the mass and radius of the sphere are 10kg and 0.2m
 respectively. 
 
@@ -70,97 +70,97 @@ respectively.
 
 
 
- Which type of thermometer is most suitable for calibration of other
+Which type of thermometer is most suitable for calibration of other
 thermometers? 
- Why at least two fixed points are required to define a temperature scale?
+Why at least two fixed points are required to define a temperature scale?
 
- List two qualities which makes a particular property suitable for use in
+List two qualities which makes a particular property suitable for use in
 practical thermometers. 
- Describe how mercury in glass thermometer could be made sensitive.
+Describe how mercury in glass thermometer could be made sensitive.
 
- What is meant by triple point of water? 
- Evaluate the temperature in Kelvin if the pressure recorded by a constant
+What is meant by triple point of water? 
+Evaluate the temperature in Kelvin if the pressure recorded by a constant
 volume gas thermometer is 6.8x10*Nm* given that the pressure at triple
 point 273.16K is 4.6x10* Nm 7. 
- One gram of water becomes 1671 cm* of steam at a pressure of 1 atmosphere. If the
+One gram of water becomes 1671 cm* of steam at a pressure of 1 atmosphere. If the
 latent heat of vaporization at this pressure is 2256 J/g, determine the:
- external work done. 
- increase in internal energy 
- Why during emission of radiations from black body its temperature does not 
+external work done. 
+increase in internal energy 
+Why during emission of radiations from black body its temperature does not 
 reach zero Kelvin? 
- A black ball of radius Im is maintained at a temperature of 30°C . How much !
+A black ball of radius Im is maintained at a temperature of 30°C . How much !
 heat is radiated by the ball in 4 seconds? 
- What do you understand by the term node as applied to electric circuit?
+What do you understand by the term node as applied to electric circuit?
 (01 mark) :
- Outline three important points which are usually referred as sign convection in 
+Outline three important points which are usually referred as sign convection in 
 solving Kirchhoff’s second law problems. 
- How is ohmic conductor differ from non-ohmic conductor? Give one example 7
+How is ohmic conductor differ from non-ohmic conductor? Give one example 7
 in each case. 
 
 
 
- Study Figure 1 then find the reading on the high resistance voltmeter, V.
+Study Figure 1 then find the reading on the high resistance voltmeter, V.
 k
 D C 
 ISV 9V
 3.Q 62
 A B
 Figure 1
- Why the emf of a cell is sometimes called a special terminal potential
+Why the emf of a cell is sometimes called a special terminal potential
 difference? 
- Calculate the current flowing in the circuit when three similar cells each of
+Calculate the current flowing in the circuit when three similar cells each of
 emf 1.5 V and internal resistance 0.3 Q are connected in parallel across a 2 92
 resistor. 
 10. (a) (i)  Mention four types of energy losses suffered by a transformer. 
-  Why choke coil is preferred over resistance to control alternating current?
+Why choke coil is preferred over resistance to control alternating current?
 
- Identify two difficulties which would arise when two straight wires are used to
+Identify two difficulties which would arise when two straight wires are used to
 transmit electricity direct from the source to the city station. 
- Explain what could be done to light a 30 V bulb from a 220 volt A.C supply?
+Explain what could be done to light a 30 V bulb from a 220 volt A.C supply?
 
- A series LCR circuit with inductance, L=0.12H , capacitance, C =480nF and
+A series LCR circuit with inductance, L=0.12H , capacitance, C =480nF and
 resistance, R=23Q is connected to a 230 V variable frequency supply. Determine
 the:
- Maximum current flowing in the circuit. 
- Source frequency for which the current is maximum. 
+Maximum current flowing in the circuit. 
+Source frequency for which the current is maximum. 
 
 
 11. (a) (i) _ List two chief properties of semiconductors. 
- Why is it easier to establish the current in a semiconductor than in an insulator?
+Why is it easier to establish the current in a semiconductor than in an insulator?
 
 
 
 
- State a condition that could be employed to make an insulator conduct some
+State a condition that could be employed to make an insulator conduct some
 electricity. 
- Distinguish between conductors and semiconductors on the basis of their
+Distinguish between conductors and semiconductors on the basis of their
 energy band structures. 
- Whatis meant by depletion layer as used in pn -junction device? 
- Describe the effect of applying a reverse bias to the junction diode. 
+Whatis meant by depletion layer as used in pn -junction device? 
+Describe the effect of applying a reverse bias to the junction diode. 
 12. (a) (i) Sketch the graph of transfer characteristic of a transistor. 
- State the significance of the slope from the graph in (a) (i). (01 mark) .
-  What is the basic condition for a transistor to operate properly as an amplifier? :
+State the significance of the slope from the graph in (a) (i). (01 mark) .
+What is the basic condition for a transistor to operate properly as an amplifier? :
 (1.5 marks) :
- Briefly explain how a junction transistor can be connected to act as a current
+Briefly explain how a junction transistor can be connected to act as a current
 operated device. 
- Why the magnitude of output frequency of a full wave rectifier is twice the
+Why the magnitude of output frequency of a full wave rectifier is twice the
 input frequency? 
- Draw a simple basic transistor switching circuit diagram. 
+Draw a simple basic transistor switching circuit diagram. 
 13. (a) (i) What is meant by a logic gate? 
- List three basic logic gates that make up all digital circuits. 
- Study Figure 2 then answer the questions that follow.
+List three basic logic gates that make up all digital circuits. 
+Study Figure 2 then answer the questions that follow.
 ak &gt;
 ; S
 Q s 
 Figure 2 
- Identify the logic gates marked R and S. (02 marks) ;
- Write down the output at s, such that when P = , Q = 1 and when P = O, 
+Identify the logic gates marked R and S. (02 marks) ;
+Write down the output at s, such that when P = , Q = 1 and when P = O, 
 Q=0. 
 
 f ;
 
 
- Obtain the truth table for the circuit shown in Figure 3. 
+Obtain the truth table for the circuit shown in Figure 3. 
 C
 C
 E
@@ -169,11 +169,11 @@ D D
 D D
 Figure 3
 14. (a) (i) What is meant by solar constant? 
-  List two factors on which the solar constant depends. 
- Give two advantages of photovoltaic system. 
- Briefly explain how photovoltaic cells work. 
- Estimate the maximum power available from 10m’ of solar panels. 
- Calculate the volume of water per second which must pass through if the inlet
+List two factors on which the solar constant depends. 
+Give two advantages of photovoltaic system. 
+Briefly explain how photovoltaic cells work. 
+Estimate the maximum power available from 10m’ of solar panels. 
+Calculate the volume of water per second which must pass through if the inlet
 and outlet temperature of the panels are at 10°C and 60°C respectively.
 (Assume the wave carries away energy at the same rate as the maximum power
 available). 

@@ -1,27 +1,27 @@
 Physics 2 - F6 - 2009
 
 I, (a) Define the borhos qe terms:
-  esd SEPONS,
+esd SEPONS,
 QU) Penahe strana.
 "GY Youre — prcduhes
- Gd) Derive the eNpression for the work done in stretching a wire of length L
+Gd) Derive the eNpression for the work done in stretching a wire of length L
 ; bv dod W through an extension X. .
- NV vcrtreal wire made Of steel of length 2.0 m and 1.0 mm diameter has a
+NV vcrtreal wire made Of steel of length 2.0 m and 1.0 mm diameter has a
 load 01.0 ke applied to its lower end. What is the energy stored in the
 Whe.
- oN copper Wire Om Jong and 1.22. 1073 m diameter 1s fixed horizontally to
+oN copper Wire Om Jong and 1.22. 1073 m diameter 1s fixed horizontally to
 Wo rigid supports 2.0 apart. Find the mass in kg of the load. which when
 ' suspended at the mid point of the wire, produces a sav of 2.0 x 10 ~* m at the
 pot,
 » ‘ af r-: ) : . _* . . - °
 _. (@)) Define aneula Momentum and give its dimensions.
- A grinding wheel ina form of solid cylinder of 0.2 m diameter and 3 kg mass
+A grinding wheel ina form of solid cylinder of 0.2 m diameter and 3 kg mass
 Is rotated at 3000 rev/minute.
 GQ) Whatis its kinetic enerey?
- Find how lar it would have to fall to acquire the same kinetic energy as
+Find how lar it would have to fall to acquire the same kinetic energy as
 mM 2(b)0) above.
 1 eos . . . : ‘ .
- A uniorm solid cvlinder of mass M and radius R rotates about a vertical axis
+A uniorm solid cvlinder of mass M and radius R rotates about a vertical axis
 on a frictioniess bearing. “A mass less cord rapped with many turns round the
 cylinder passes aver a pulley of rotational inertia I and radius r and then
 attached to a small mass m that is otherwise free to fall under the influence of
@@ -48,35 +48,35 @@ speed of t e vyon In the pulley axle and the Cord does jy Wp. what is
 . OF the small mass after j fa teny a dt Co IP wWRat rs the
 ( SS affer it has fallen a distance h from roo
 “" .
- What is the differene: :
+What is the differene: :
 s Hference between isothermal an} t:
 between isothermal and adiahatis processes?
- Write down the equavion Of state Ohbeyed by CdCl rageee te 8
+Write down the equavion Of state Ohbeyed by CdCl rageee te 8
 above. poe Ses CA)
 i
 M1 Isino &gt; same or Jay ¢ .
- Using the same graph and under the same conditions. sketeh the
+Using the same graph and under the same conditions. sketeh the
 isotherms and the — adjabatics. : 
- Derive the expression for the work done by the gas when 1 expands from
+Derive the expression for the work done by the gas when 1 expands from
 volume V; to volume V&gt; during an
- Isothermal process.
- Adiabatic process. 
+Isothermal process.
+Adiabatic process. 
 ‘
- When water is boiled under a pressure of 2 atmospheres the boiling point is
+When water is boiled under a pressure of 2 atmospheres the boiling point is
 O : . , _ 4 : ~
 120°C. At this pressure one kg of water has a volume of 10‘ m’ and two kg
 of steam have avolume of 1.648 m’. Compute the
- work done when one kg of steam is formed at this temperature.
- increase in the internal energy. 
+work done when one kg of steam is formed at this temperature.
+increase in the internal energy. 
 4- (a) (1) State Kepler's laws of planetary motion.
 i
- Explain the variation of acceleration due to gravity, ¢. inside and outside
+Explain the variation of acceleration due to gravity, ¢. inside and outside
 the earth.
- Derive the formulae for mass and density of the earth.
+Derive the formulae for mass and density of the earth.
 . aay catallite?
- What do you understand by the term satellite’
- ; ; Carly; ~eadius 7000 km
- A satellite of mass 100 kg moves ina circular orbit o! radius _
+What do you understand by the term satellite’
+; ; Carly; ~eadius 7000 km
+A satellite of mass 100 kg moves ina circular orbit o! radius _
 . sear dirre uCutate
 around the earth. a ssumed to be a sphere of radius 0400 kin lt Se
 , test Ty) , Ve a ‘
@@ -97,24 +97,24 @@ cad lamps of a car overlap?
 Giles  ISCUSS WW hethet I 1s possible to observe an interference pattern when
 White lightis shone ona Young's double slit experiment.
 ) \ erating has § ines ner milli ar ; ;
- ON crating has 00 lines per millimetre and is illuminated normally with
+ON crating has 00 lines per millimetre and is illuminated normally with
 Monochromatic heht of waveleneth 5.89 x 1077 m. 
- TToww many diffraction maxima may be observed?
- aleulate the angular separation.
+TToww many diffraction maxima may be observed?
+aleulate the angular separation.
 ¥ VO ey 7 , Oy ; . °
- In livure 2 below. S; and S&gt; are two coherent light sources in a Young’s two
+In livure 2 below. S; and S&gt; are two coherent light sources in a Young’s two
 Si “Nperiment separated by a distance 0.5 mm and O is a point equidistant
 Hon ‘; and S2 at a distance 0.8 m from the slits. When a thin parallel sided
 piece of glass (G) of thickness 3.6 x 107° m is placed near S; as shown, the
 central fringe system moves from O to a point Ps Calculate OP. (The
 waveleneth of light used = 6.0x 107’ m). 
 P
- 
+
 
 ! .
 oh
 UTA 7
- .
+.
 NS —
 1
 7
@@ -129,7 +129,7 @@ S; Ye
 eo . screen
 . 0.8m
 Fig. 2 ,
- F aplan the mechanism of electric conduction 11.
+F aplan the mechanism of electric conduction 11.
 hy Maes,
 Gir electrolytes.
 ’
@@ -138,40 +138,40 @@ UK AC DEES
 Find more free educational resources at:
 
 
- Dev Juation ¢
+Dev Juation ¢
 velop an equatio -the torque eq
 dimensions (xb placed in - Ce My ng
 ST y  aee@ dW a Magnetic field.  tlaw ds this effect
 apphed in a moving coil galvanometer?
- A galvanometer col has 50 turns. each with an area io em. H the
+A galvanometer col has 50 turns. each with an area io em. H the
 coulis ina radial field of 10°° TY and suspended by a suspcnsion of
 Nae, . at ; ~V . .
 torsion constant 2.x 10°" Nm per deeree. what current. needed to cive
 a deflection of 30°
 
 . . ‘
- Explain the following terms:
- Forward bias.
- Reverse bias.
- Inverting and non-inverting amplifier. 
- Define the following:
+Explain the following terms:
+Forward bias.
+Reverse bias.
+Inverting and non-inverting amplifier. 
+Define the following:
 $
- Logic gate. :
- Integrated circuit.
- Modulation.
- An operational amplifier is to have a voltage gain 0! LOO. a the
+Logic gate. :
+Integrated circuit.
+Modulation.
+An operational amplifier is to have a voltage gain 0! LOO. a the
 : - +4 x 9 4 : . ~ L) Wing
 required values for the external resistances Ry and R» when the following
 gains are required:
 4
- non-inverting.
- inverting.
+non-inverting.
+inverting.
 Find more free educational resources at:
 
 
- ‘Sil .
+‘Sil .
 ue the laws of electromagnetic induction.
- Otithne four amplicon: .
+Otithne four amplicon: .
 Wine four applications of eddy currents. :
 CC) AN coil or fog :
 ; TOPCO turns is rotated ; :
@@ -181,9 +181,9 @@ field of uniform density 0.08 -T. Ifthe ay: Mons pe minute in a magnetic
 direction ef the (ux and the ares mor Is oF rotation 1s at right angles to the
 . area per turn is 4000 mm. calculate the: :
 ' (1) [ CUUCHEY,
- periad, }
- maximum induced ent. ;
- lmasimum value of the induce : tae
+periad, }
+maximum induced ent. ;
+lmasimum value of the induce : tae
 ‘oa luc of the induced e.m.f when the coil has rotated through
 , aon rom the position of zero e.m.f. 7
 a rw Adhaera &gt; "(flo 3) s : ; .
@@ -191,28 +191,28 @@ vcd. mM below (fig. 5) shows a wire of length ( carrying a current ] and
 pkiced in a magnetic lield B such that its length is perpendicular to B. Derive
 an expression for the force exerted on the wire.
 ' Pl ee eH
- \" \/ X x “ 4
- /\ a
+\" \/ X x “ 4
+/\ a
 xx {XXX XX
- \. / . " . ;
- ‘ ‘ ~ Xx Xx X *
+\. / . " . ;
+‘ ‘ ~ Xx Xx X *
 _—— %
 a /. A 7 VIN TN X xX x i
 PX XX X X XK XI
- A
+A
 x 7 X XBXX X X_ X X:!
 Fig. 3
 q
- falve a general form expressing the force exerted on the wire carrying
+falve a general form expressing the force exerted on the wire carrying
 current Lif its length (is inclined at an angle 6 to the magnetic field B.
- \ wsire carrying a current of 2A has a length 100 mm in a uniform
+\ wsire carrying a current of 2A has a length 100 mm in a uniform
 . . _? —s . .
 aenetic field of 0.8 Wom ~~. Find the force acting on the wire
 . ) :
 «shen the field is at 60° to the wire.
- A wire carrying a current of 25 A and § m long 1s placed in a magnetic field of
+A wire carrying a current of 25 A and § m long 1s placed in a magnetic field of
 Nux density 0.42 T. What is the force on the wire if it is placed:
- atripht angles to the field’?
+atripht angles to the field’?
 (iyp ah Po to the field’?
 Gi along the field’?
 !
@@ -220,7 +220,7 @@ a
 Find more free educational resources at:
 
 
- Given the circuit in figur - decors
+Given the circuit in figur - decors
 _ is raised sudd " Tomo. . YON. describe what happens to V o When i
 suddenly Irom U to 1V and remains at that Voltage,
 2uP
@@ -231,21 +231,21 @@ suddenly Irom U to 1V and remains at that Voltage,
 ro  
 we IV,
 
- 
+
 
 Y 0
 Fig. 4 OV
- Write down Bragg’s equation for the study of the atomic structure of cis stils
+Write down Bragg’s equation for the study of the atomic structure of cis stils
 by X-rays. ~
- The radiation from an X — ray tube which operates at 50 kV is diffracted by i 
+The radiation from an X — ray tube which operates at 50 kV is diffracted by i 
 cubic KCl crystal of molecular mass 74.6 and density 1.99 x 10° kg in 
 Calculate:
- The shortest wavelength limit of the spectrum from the tube.
+The shortest wavelength limit of the spectrum from the tube.
 
- The glancing angle for first order reflection from the planes of the
+The glancing angle for first order reflection from the planes of the
 
 crystal for that wavelength and angle of deviation of a diffracted beim.
- The radiation emitted by an X — ray tube consists of continuous spectrum with
+The radiation emitted by an X — ray tube consists of continuous spectrum with
 
 a line spectrum superimposed on it. Explain how the continuous spectium
 
@@ -254,12 +254,12 @@ and the line spectrum are produced.
 ) Draw the graph of the spectra stated. ‘
 10. (a) Explain the following observations:
 
- A radioactive souree is placed in front of a detector which can detec! all
+A radioactive souree is placed in front of a detector which can detec! all
 forms of radioactive emissions. It is found that the activity registered rs
 noticeably reduced when a thin sheet of paper is placed bebween the
 source and detector.
 
- =Whena brass plate with a narrow vertical shit is placed in front 0 the
+=Whena brass plate with a narrow vertical shit is placed in front 0 the
 
 : radioactive source in 10.(a)(i1) above and a horizontal: magnetic Hel
 normal to the line joining the source and the detector is applied. its
@@ -269,7 +269,7 @@ Find more free educational resources at:
 
 it) The magnetic field in 10.(a)(ii) is removed and a sheet of aluminium is
 placed in front of the source. The activity recorded is similarly reduced.
- ovis Define the terms laser and maser. 
+ovis Define the terms laser and maser. 
 cit Gave three applications of laser. 
 . . 9 ) ;
 (or 41) A laser beam has a power of 20 x 10° watts and a diameter of 2 mm.
