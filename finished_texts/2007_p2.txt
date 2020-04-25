@@ -1,0 +1,178 @@
+﻿Physics 2 - 2007
+
+
+With the aid of a diagram describe a simple laboratory experiment to measure Young’s modulus of a wooden bar acting as a loaded cantilever from its period of vibration given that the depression S is given by S = ( W L^3 ) / ( 3 I E ) . 
+
+Two small spheres each of mass 10 g are attached to a light rod 50 cm long. The system Is set into oscillation and the period of torsional oscillation is found to be 770 seconds. To produce maximum torsion to the system two large spheres each of mass 10 kg are placed near each suspended sphere, if the angular deflection of the suspended rod Is 3.96 x 10^{-3} rad. and the distance between the centres of the large spheres and small spheres is 10 cm, determine the value of the universal constant of gravitation, G, from the given information. 
+
+Write the Continuity and Bernoullis’ equations as applied to fluid dynamics. 
+
+Under what conditions is the Bernoullis’ equation applicable?
+
+Discuss two (2) applications of the Bernoullis equation. 
+
+Develop an equation to determine the velocity of a fluid in a venture meter pipe.
+What amount of fluid passes through a section at any given time? 
+
+Differentiate between tensile and shear stress. 
+
+A lift is designed to hold a maximum of 12 people. The lift cage has a mass of 500 kg and the distance from the top floor of the building to the ground floor is 50 m.
+(i) What minimum cross-sectional area should the cable have in order to support the lift and the people in it?
+(ii) Why should the cable have to be thicker than the minimum cross-sectional area above in practice? 
+(iii) How much will the lift cable above stretch if 10 people get into the lift at the ground floor, assuming that the lift cable has a cross section of 1.36cm? 
+Note: Mass of an average person = 70 kg . E_{steel} = 2x10^{11} N/m^2 , Tensile strength of steel = 4x10^{11} N/m^2 .
+
+State and define Newton’s 2" law of motion with respect to angular motion. 
+
+A pendulum is constructed from two identical uniform rods X and Y, each of length L and mass m connected at right angles to form a T by joining the centre of rod X to one end of rod Y WA
+### Insert Figure Here ###
+
+The T is then suspended from the free end of rod Y and the pendulum swings in the plane of T about the axis Of rotation.
+(i) Calculate the moment of inertia I of the T about the axis of rotation. 
+(ii) Obtain the expression for the k.e. and p.e. in terms of the angle theta of inclination to the vertical oscillation of the pendulum. 
+(iii) Show that the period of oscillation is 2 pi sqrt{ 17 L / 18 g } . 
+[ Moment of inertia of a thin rod about its centre I_C = m L^2 / 12 . ] 
+
+On the basis of Newton’s universal law of gravitation, derive Kepler’s third law of planetary motion. 
+
+A planet has half the density of earth but twice its radius. What will be the speed of a satellite moving fast past the surface of the planet which has on no atmosphere?
+[ Radius of earth R_E = 6.4x10^3 km and gravitational potential energy g_E = 9.81 N/kg ]
+
+Define an ideal gas.
+
+State the four (4) assumptions necessary for an ideal gas that are used to develop the expression p = ½ rho C^2 .
+
+How is pressure explained in terms of the kinetic theory? 
+
+Without a detailed mathematical analysis argue the steps to follow in deriving the relation p = ½ rho C^2 .
+
+Define the temperature of an ideal gas as a consequence of the kinetic theory.
+
+A certain diatomic gas is contained in a vessel whose inner surface is a small absorber which retains any atoms or molecules of gas which strike it.  Show that if doubling the absolute temperature causes one half of the molecules to dissociate into atoms then the rate at which the absorber is gaining mass increases by a factor 1 + 1 / sqrt{2}.
+
+A mole of an ideal gas at 300 K is subjected to a pressure of 10^5 N/m^2 and its volume is 2.5x10^-2 m^3.  Calculate the:
+(i) molar gas constant R
+(ii) Boltzmann constant k
+(iii) average transnational kinetic energy of a molecule of the gas.
+
+State the expression for the 1st law of thermodynamics.
+
+What do you understand by the terms:
+(i) critical temperature? 
+(ii) adiabatic change?
+
+A air bubble is observed in a pipe of the braking system of a car. The pips is filled with an in-compressible liquid (see figure below). When the brakes are applied, the increased pressure p in the pipe causes the bubble to become smaller.
+### Insert Figure Here ###
+Before the brakes are applied the pressure is 110x10^2 Nm^3, the temperature is 290 K and the length of the bubble is 15 mm. When the brakes are applied quickly , the air bubble is compressed adiabatically and if the change in its length exceeds 12 mm the brakes fail.
+If the internal cross-sectional area of the pipe is 2x10^{-5} m^2 ;
+(i) Explain briefly why the compression of the bubble is considered to be adiabatic. 
+(ii) What is the maximum safe pressure in the system during rapid braking if the bubble’s change in length does not exceed 12 mm? (Take gamma _{air} = 1.4) 
+(iii) Determine the temperature of the air in the bubble at the end of the adiabatic compression. 
+
+Find the number of molecules and their mean kinetic energy for a cylinder of volume 5x10^{-4} m^3 containing oxygen at a pressure of 2x10^5 Pa and a temperature of 300 K. 
+When the gas is compressed adiabatically to a volume of 2x10^{-4} m^3 , the temperature rises to 434 K. Determine gamma , the ratio of the principal heat capacities.
+[ Molar gas constant R = 8.31 J/mol/K ,N, = 6x10^{32} mol^{-1} ] 
+
+Describe briefly the formation of Newton rings. How would you measure the wavelength of yellow light by use of Newton’s rings? 
+
+What would happen to the central spot when air rests between the lens and the plate of the apparatus for Newton’s rings? 
+
+What is meant by Doppler effect? 
+
+Mention two (2) common applications of the Doppler shift. 
+
+Ultra sound of frequency 5x10^6 Hz is incident at an angle of 30 degrees to the blood vessel of a patient and a doppler shift of 4.5 KHz is observed. If the blood vessel has a diameter 10^{-3} m and the velocity of ultrasound is 1.5x10^3  m/s . Calculate the:
+(i) blood flow velocity. 
+(ii) volume rate of blood flow. 
+
+State Rayleigh’s criterion for the resolution of two objects. 
+
+The diameter of the pupil of the human eye is 2 mm in bright light.
+(i) What is its resolving power with light of wavelength lamda = 5x10^{-7} m? 
+(ii) Would it be possible to resolve two large birds 30 cm apart sitting on a wire1.5 x 10^3 m away at daytime? 
+(iii) What would the situation be at night when the pupil dilates to 4 mm? 
+
+State Faraday’s two (2) laws of electrolysis and calculate the value of Faradays constant given that the e.c.e. of copper is 3.30x10^{-7} kg/C and the copper is a divalent element. 
+
+Discuss two (2) harmful effects of electrolysis. 
+
+What is meant by the back e.m.f. (polarization potential) in a water voltameter? 
+
+Develop an expression for electrical energy spent in the decomposition of water. 
+
+A piece of metal weighing 200 g is to be electroplated with 5% of its weight in gold. If the strength of the available current is 2A, how long would it take to deposit the required amount of gold?
+
+State the main differences between.
+(i) diamagnetism and paramagnetism. 
+(ii) ferromagnetism and auntiferromagnetism. 
+(iii) ferromagnetism and ferrielectricity. 
+
+Draw hysteresis loops diagrams for soft iron and hard steel and use them to discuss:
+(i) permanent magnets.
+(ii) electromagnets.
+(iii) transformer cores. 
+
+State Faraday’s law of electromagnetic induction. 
+
+A coil of cross section area A rotates with an angular velocity omega in a uniform. magnetic field, B. Derive the equation for induced e.m.f. of the system.
+
+A coil having 475 turns and cross sectional area 20 cm^2 , rotates at 600 r.p.m. in a uniform magnetic field of 0.01T. Find:
+(i) the peak e.m.f and the r.m.s. e.m.f induced in the coil. 
+(ii) show these values on a graph of E vs time. 
+
+Explain the terms output saturation and negative feedback as applied to op-amplifiers. 
+
+For an ideal operational amplifier, what are the values of the:
+(i) current into both inputs of the op-amp? 
+(ii) voltage between the inputs if the output is not saturated? 
+
+What is a non-inverting amplifier? 
+
+Determine the input and output impedance of the amplifier in Figure below
+if Z_{in{ = 2 M ohms and
+Z_{out} = 75 ohms and open loop gain A = 2x10^5 .
+### Insert Figure Here ###
+Find the closed loop voltage gain. 
+
+The Figure below shows a logic circuit to operate a LED.
+### Insert Figure Here ###
+(i) What is the voltage at x when S_1 is open and S_1 closed
+(ii) Construct a truth table for which X, Y and Z are inputs and P, R, and Q are outputs.  Show that the LED lights when the switches are closed.
+(iii) What is the effect of varying R_{4}? 
+
+It is not possible to separate the different isotopes of an element by chemical means.  Explain.
+
+Define a mass spectrometer. 
+
+Ion A of mass 24 and charge + e and ion B of mass 22 and charge + 2 e both enter the magnetic field of a mass spectrometer with the same speed. If the radius of A is 2.5x10^{-1} m, calculate the radius of the circular path of B. 
+
+In a paper manufacturing plant, a paper passes between a beta - source and the detector.
+Refer to the Figure below.
+### Insert Figure here ###
+(i) How will the detector system respond to an increase in thickness of paper? 
+(ii) What do you think, in your opinion, the control system will have to do in such an event?
+(iii) Give a concise explanation of how the beta - source and the detector are used for quality control in this manufacturing plant.
+
+If the ratio of mass of lead – 206  to mass of uranium – 238 in a certain rock was found to be 0.45 and that the rock originally contained no lead – 206, estimate the age of the rock given that the half life of uranium – 238 is 4.5x10^9 years.
+
+Explain breifly the action of a helium-neon laser.
+
+Define the following terms:
+(i) Atomic mass unit
+(ii) Binding energy
+(iii) Mass defect.
+
+Determine the binding energy per nucleon for
+### Insert special characters for chemistry stuff ###
+
+In a hydrogen atom model an electron of mass m and charge e rotates about a heavy nucleus of charge e in a circular orbit of radius r. Develop an expression for the angular momentum of the electron in terms of m, e, r, pi and epsilon _0 - the permitting of free space.
+
+What is a line spectrum? 
+
+The four lowest energy levels in a mercury atom are -10.4 eV, -5.5 eV, -3.7 eV and -1.6 eV.
+(i) Determine the ionization energy of mercury in joules. 
+(ii) Calculate the wavelength of the radiation emitted when an electron jumps from -1.6 eV to -5.5 eV energy levels. 
+(iii) What will happen if a mercury atom in its excited state is bombarded with electrons having an energy of 11 eV. 
+
+
+
