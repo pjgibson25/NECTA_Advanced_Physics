@@ -2,88 +2,64 @@
 
 Mention two applications and two limitations of dimensional analysis.
 
-The frequency f of a note produced by a taut wire stretched between two supports depends on
-the distance ​ l ​ between the supports, the mass per unit length of the wire, μ, and the tension T.
-Use dimensional analysis to find how f is related to ​ l ​ , mu, and T.
+The frequency f of a note produced by a taut wire stretched between two supports depends on the distance ​ l ​ between the supports, the mass per unit length of the wire, mu , and the tension T. Use dimensional analysis to find how f is related to ​ l ​ , mu, and T.
 
 Define momentum
 
 Define impulse of a force
 
-A jet of water emerges from a hose pipe of a cross-sectional area 5.0 x 10E-3​ m​^2 with a velocity of
-3.0m/s and strikes a wall at right angle. Assuming the water to be brought to rest by the wall
-and does not rebound, calculate the force on the wall.
+A jet of water emerges from a hose pipe of a cross-sectional area 5.0 x 10E-3​ m​^2 with a velocity of 3.0m/s and strikes a wall at right angle. Assuming the water to be brought to rest by the wall and does not rebound, calculate the force on the wall.
 
 What do you understand by the term escape velocity?
 
-Calculate the escape velocity from the moon’s surface given that a man on the moon has 1/6 his
-weight on earth. The mean radius of the moon is 1.75 x 10​E6​ m.
+Calculate the escape velocity from the moon’s surface given that a man on the moon has 1/6 his weight on earth. The mean radius of the moon is 1.75 x 10​E6​ m.
 
 Give two similarities between simple harmonic motion and circular motion.
 
-On the same set of axes, sketch how energy exchange (kinetic to potential) takes place in an
-oscillator placed in a damping medium.
+On the same set of axes, sketch how energy exchange (kinetic to potential) takes place in an oscillator placed in a damping medium.
 
 State the parallel axis theorem.
 
-Show that the Kinetic energy (K.E.) of rotation of a rigid body about an axis with a constant
-angular velocity w is given by KE = 1/2 I w^2 where I is the moment of inertia of the rigid body
-about the given axis.
+Show that the Kinetic energy (K.E.) of rotation of a rigid body about an axis with a constant angular velocity w is given by KE = 1/2 I w^2 where I is the moment of inertia of the rigid body about the given axis.
 
 Distinguish between static and dynamic friction.
 
-With the help of a well labelled diagram briefly explain how you will determine the coefficient
-of viscosity of a liquid by a constant pressure head apparatus in the laboratory.
+With the help of a well labelled diagram briefly explain how you will determine the coefficient of viscosity of a liquid by a constant pressure head apparatus in the laboratory.
 
 Explain in terms of surface energy, what is meant by the surface tension, ​ gamma ​ of a liquid. 
 
-What energy is required to form a soap bubble of radius 1.00mm if the surface tension of the
-soap solution is 2.5 x 10​E-4​ N/m​^2​ ?
+What energy is required to form a soap bubble of radius 1.00mm if the surface tension of the soap solution is 2.5 x 10​E-4​ N/m​^2​ ?
 
 Write down the equation of continuity of a fluid defining all your symbols.
 
-The velocity at a certain point in a flow pipe is 1.0ms​ -1 and the gauge pressure there is 3 x 10​E5
-N/m​^2​ . The cross-sectional area at a point 10m above the first is half that at the first point. If the
-flowing fluid is pure water, calculate the gauge pressure at the second point.
+The velocity at a certain point in a flow pipe is 1.0ms​ -1 and the gauge pressure there is 3 x 10​E5 N/m​^2​ . The cross-sectional area at a point 10m above the first is half that at the first point. If the flowing fluid is pure water, calculate the gauge pressure at the second point.
 
 What do you understand by the term: Thermodynamic temperature scale
 
 What do you understand by the term:   Triple point of water
 
-The resistance of a platinum wire at a temperature T​ degrees C measured on a gas scale is given by
-R(T) = R​ o​ (1 + a T + b T​^2​ ).
-What temperature will the platinum thermometer indicate when the temperature on the gas
-scale is 200​ degrees C? (take a = 3.8 x 10​E-3​ and b = -5.6 x 10​E-7​ ).
+The resistance of a platinum wire at a temperature T​ degrees C measured on a gas scale is given by R(T) = R​_0​ (1 + a T + b T​^2​ ).
+What temperature will the platinum thermometer indicate when the temperature on the gas scale is 200​ degrees C? (take a = 3.8 x 10​E-3​ and b = -5.6 x 10​E-7​ ).
 
 What is the coefficient of thermal conductivity of a material?
 
-The temperature difference between the inside and outside of a room is 25​ degrees C. The rom has a
-window of an area 2 m​^2 and the thickness of the window material is 2mm. Calculate the heat
-flow through the window if the coefficient of thermal conductivity of the window material is
-0.5 SI units.
+The temperature difference between the inside and outside of a room is 25​ degrees C. The rom has a window of an area 2 m​^2 and the thickness of the window material is 2mm. Calculate the heat flow through the window if the coefficient of thermal conductivity of the window material is 0.5 SI units.
 
 Write down the equation of state of an ideal gas defining all the symbols used.
 
-If the root-mean-square velocity of a hydrogen molecule at 0​ ° ​ C is 1840m/s, find the
-root-mean-square velocity of the molecule at 100​ ° ​ C.
+If the root-mean-square velocity of a hydrogen molecule at 0​ ° ​ C is 1840m/s, find the root-mean-square velocity of the molecule at 100​ ° ​ C.
 
 What is the difference between refraction and diffraction as applied to waves?
 
-A parallel beam containing two wavelengths 600nm and 602nm is incident on a diffraction
-grating with 400 lines per mm. Calculate the angular separation of the first order spectrum of
-the two wavelengths. (1nm = 10​E-9​ m)
+A parallel beam containing two wavelengths 600nm and 602nm is incident on a diffraction grating with 400 lines per mm. Calculate the angular separation of the first order spectrum of the two wavelengths. (1nm = 10​E-9​ m)
 
 What is a “Doppler Effect”?
 
-A whistle sound of frequency 1200Hz was directed to an approaching train moving at 48km h​ -1​ .
-The whistleman then listened to the beats between the emitted sound and that reflected from the
-train. What is the beat frequency detected by the whistleman?
+A whistle sound of frequency 1200Hz was directed to an approaching train moving at 48km h​ -1​ . The whistleman then listened to the beats between the emitted sound and that reflected from the train. What is the beat frequency detected by the whistleman?
 
 Explain why an uncharged metal is attracted by a charged one?
 
-Charges Q​_1 = 1.2 x 10​E-12 C and Q​_2 = -4 x 10​ -12 C are placed 5.0m apart in air. A third charge
-Q​_3 = 1 x 10​E-14 C is introduced midway between them. Find the resultant force on the third
-charge.
+Charges Q​_1 = 1.2 x 10​E-12 C and Q​_2 = -4 x 10​ -12 C are placed 5.0m apart in air. A third charge Q​_3 = 1 x 10​E-14 C is introduced midway between them. Find the resultant force on the third charge.
 
 State Kirchhoff’s laws of circuit analysis
 
@@ -91,15 +67,16 @@ State Kirchhoff’s laws of circuit analysis
 Determine the magnitudes of I​_1​ and I​_3​ .
 
 Write down an expression for the forces on an electron when moving perpendicular to: an electric field
+
 Write down an expression for the forces on an electron when moving perpendicular to: a magnetic field.
 
 An electron is moving in a uniform electric field of intensity 1.2 x 10​E5​ Vm​ -1.  Find the acceleration of the electron.
+
 What is a resonant frequency of an oscillator?
 
 Consider the LRC series circuit. The r.m.s. voltages across each component are as shown.
-Calculate
-
 ### PICTURE 2 ###
+Calculate:
 The r.m.s. current passing through R.
 The resonant frequency for the values of L, C and R.
 
@@ -109,8 +86,7 @@ Distinguish between insulators, semi-conductors and metals as far as conduction 
 
 What is the “work function” of a metal?
 
-The work function of a metal is 2.0 eV. Calculate the stopping potential when the metal is
-illuminated by light of frequency of 6.0 x 10​E14​ Hz.
+The work function of a metal is 2.0 eV. Calculate the stopping potential when the metal is illuminated by light of frequency of 6.0 x 10​E14​ Hz.
 
 What is nuclear fusion 
 

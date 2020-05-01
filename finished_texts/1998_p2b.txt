@@ -2,127 +2,74 @@ Physics 2B - 1998
 
 Define simple harmonic motion.
 
-Prove that, the velocity v of a particle moving in simple
-harmonic motion is given by: v = w (A^2 - y^2)^0.5, where A is the amplitude of
-oscillation, w the angular frequency and y the displacement from the mean position.
+Prove that, the velocity v of a particle moving in simple harmonic motion is given by: v = w (A^2 - y^2)^0.5, where A is the amplitude of oscillation, w the angular frequency and y the displacement from the mean position.
 
-A simple pendulum has a period of 2.8 seconds. When its length
-is shortened by 1.0 metre, the period becomes 2.0 seconds.
-From this information, determine the acceleration g, of
-gravity and the original length of the pendulum.
+A simple pendulum has a period of 2.8 seconds. When its lengthis shortened by 1.0 metre, the period becomes 2.0 seconds. From this information, determine the acceleration g, of gravity and the original length of the pendulum.
 
-A particle rests on a horizontal platform which is moving
-vertically in simple harmonic motion with an amplitude of
-50 mm. Above a certain frequency the particle ceases to remain
-in contact with the platform throughout the motion. With a
-help of a diagram and illustrative equations, find;
+A particle rests on a horizontal platform which is moving vertically in simple harmonic motion with an amplitude of 50 mm. Above a certain frequency the particle ceases to remain in contact with the platform throughout the motion. With a help of a diagram and illustrative equations, find;
 (i) the lowest frequency at which this situation occurs.
 (ii) the position at which contact ceases.
 
 What is terminal velocity?
 
-Briefly explain an experiment designed to measure
-terminal velocity.
+Briefly explain an experiment designed to measure terminal velocity.
 
-A small sphere of radius r and density sigma is released from
-the bottom of a column of liquid of density rho which is
-slightly higher than sigma. Deduce expressions for;
+A small sphere of radius r and density sigma is released from the bottom of a column of liquid of density rho which is slightly higher than sigma. Deduce expressions for;
 (i) the initial acceleration of the sphere.
 (ii) the terminal velocity of the sphere.
 
-Two equal drops of water are falling through air with a
-steady velocity of 0.15 ms^-1, If the drops coaleasce, find,
-their new terminal velocity.
+Two equal drops of water are falling through air with a steady velocity of 0.15 ms^-1, If the drops coaleasce, find their new terminal velocity.
 
 State Newton's laws of motion.
 
-Explain why a length of horse pipe which is lying in
-a curve on a smooth horizontal surface, straightens out
-when a fast flowing stream of water passes through it.
+Explain why a length of horse pipe which is lying in a curve on a smooth horizontal surface, straightens out when a fast flowing stream of water passes through it.
 
 
-A ball of mass 0.4 kg is dropped vertically from a height of
-2.5 m on to a horizontal table and bounces to a height of 1.5 m.
+A ball of mass 0.4 kg is dropped vertically from a height of 2.5 m on to a horizontal table and bounces to a height of 1.5 m.
 (i) Find the kinetic energy of the ball just before striking the table.
 (ii) Find the kinetic energy just after impact.
-(iii) Suggest reasons for the difference between these two
-values of kinetic energy.
-(iv) What height would you expect the ball to reach after
-its next bounce from the table?
+(iii) Suggest reasons for the difference between these two values of kinetic energy.
+(iv) What height would you expect the ball to reach after its next bounce from the table?
 
-A jet of water flowing with a velocity of 20 ms^-1? from
-a pipe of cross-sectional area, 5.0 x 10^-3 m^2, strikes
-a wall at right angles and loses all its velocity.
+A jet of water flowing with a velocity of 20 ms^-1? from a pipe of cross-sectional area, 5.0x10^-3 m^2, strikes a wall at right angles and loses all its velocity.
 (i) What is the mass of water striking the wall per second?
-(ii) What is the change in momentum per second of the water
-hitting the wall?
+(ii) What is the change in momentum per second of the water hitting the wall?
 (iii) What is the force exerted on the wall?
 
 What is a diffraction grating?
 
-A diffraction grating has 5000 lines per centimetre. At what
-angles will bright diffraction images be observed, if it is
-used with monochromatic light of wavelength 6.0 x 10^-7 m at normal
-incidence?
+A diffraction grating has 5000 lines per centimetre. At what angles will bright diffraction images be observed, if it is used with monochromatic light of wavelength 6.0x10^-7 m at normal incidence?
 
-A lamp emits two wavelengths, 4.2 x 10^-7 m and 6.0 x 10^-7 m.
-Find the angular separation of these two waves in the third
-order diffraction pattern produced by a diffraction grating
-having 4000 lines per centimetre, when light is at normal
-incidence on the grating?
+A lamp emits two wavelengths, 4.2 x 10^-7 m and 6.0 x 10^-7 m. Find the angular separation of these two waves in the third order diffraction pattern produced by a diffraction grating having 4000 lines per centimetre, when light is at normal incidence on the grating?
 
+A girl is holding a metal rod in her hand and rubs its surface with fur. Explain what happens to the rod.
 
-A girl is holding a metal rod in her hand and rubs its surface
-with fur. Explain what happens toa the rod.
+Can charge be conserved? Give at least two examples to support your answer.
 
-Can charge be conserved? Give at least two examples
-to support your answer.
+The distance between the electron and proton in the hydrogen atom is about 5.3x10^11 m. Calculate the electrical and gravitational forces between these particles. How do they compare?
 
-The distance between the electron and proton in the hydrogen atom
-is about 5.3 x 10^11 m. Calculate the electrical and gravitational
-forces between these particles. How do they compare?
-
-A capacitor of capacitance 3 micro-F is charged until a potential
-difference of 200 V is developed across its plates. Another
-capacitor of capacitance 2 micro-F developed a p.d. of 100 V
-across its plates on being charged.
+A capacitor of capacitance 3 micro-F is charged until a potential difference of 200 V is developed across its plates. Another capacitor of capacitance 2 micro-F developed a p.d. of 100 V across its plates on being charged.
 (i) What is the energy stored in each capacitor?
-(ii) The capacitors are then connected by wires of negligible
-resistance, so that the plates carrying like charges are
-connected together. What is the total energy stored in
-the combined capacitors?
-(iii) What would the time constant of the circuit be, if the
-resistance of each wire connecting the plates was 10 ohms?
+(ii) The capacitors are then connected by wires of negligible resistance, so that the plates carrying like charges are connected together. What is the total energy stored in the combined capacitors?
+(iii) What would the time constant of the circuit be, if the resistance of each wire connecting the plates was 10 ohms?
 
 Define the term self inductance for a coil.
 
 Give the S.I units of self inductance.
 
-Derive an expression for the coeffictent of self induction of
-a uniformly wound solenoid; of length 1, cross-sectional area
-A having N turns in air.
+Derive an expression for the coeffictent of self induction of a uniformly wound solenoid; of length 1, cross-sectional area A having N turns in air.
 
-Two coils A and B have 200 and 800 turns respectively.
-A current of 2 amperes in A produces a magnetic flux of
-1.8 x 10^-4 Wb in each turn of B. Compute:
+Two coils A and B have 200 and 800 turns respectively. A current of 2 amperes in A produces a magnetic flux of 1.8 x 10^-4 Wb in each turn of B. Compute:
 (i) the mutual inductance.
-(ii) the magnetic flux through A when there is a current
-of 4.0 amperes in B and
-(iii) the emf induced in B when the current in A changes
-from 3 amperes to 1 ampere in 0.2 seconds.
+(ii) the magnetic flux through A when there is a current of 4.0 amperes in B and
+(iii) the emf induced in B when the current in A changes from 3 amperes to 1 ampere in 0.2 seconds.
 
-Describe and explain briefly a method for measuring the
-specific charge. Mension the errors expected in this method.
+Describe and explain briefly a method for measuring the specific charge. Mension the errors expected in this method.
 
-An electron is projected horizontally with a velocity of
-2.0 x 10^6 ms^-1 into a large evacuated enclosure. A magnetic
-field which has a flux density of 15 x 10^-4 tesla is directed
-vertically downwards throughout the enclosure. Find
+An electron is projected horizontally with a velocity of 2.0 x 10^6 ms^-1 into a large evacuated enclosure. A magnetic field which has a flux density of 15 x 10^-4 tesla is directed vertically downwards throughout the enclosure. Find
 (i) the radius of curvature of the electron's path.
-(ii) how many complete loops must the electron describe
-before it falls by 1.0 cm under the influence of gravity?
-(iii) What would be the effect of changing the direction of the
-magnetic field to upwards?
+(ii) how many complete loops must the electron describe before it falls by 1.0 cm under the influence of gravity?
+(iii) What would be the effect of changing the direction of the magnetic field to upwards?
 
 What is thermionic emission?
 
@@ -131,31 +78,21 @@ Describe the function of each of;
 (ii) the deflection system and
 (iii) the display system of the Cathode ray Oscilloscope.
 
-The figure drawn below shows a waveform displayed on the
-screen of a Cathode Ray Oscilloscope. The grid has squares of
-1.0 cm. If the Y amplification is 2 V cm^-1 and the time
-base is 30 ms cm^-1, what is
+The figure drawn below shows a waveform displayed on the screen of a Cathode Ray Oscilloscope. The grid has squares of 1.0 cm. If the Y amplification is 2 V cm^-1 and the time base is 30 ms cm^-1, what is
 (i) the peak voltage and
 (ii) the frequency?
 ### PICTURE 1 ###
 
-(d) Sketch the traces seen on the screen of a cathode ray oscilloscope
-when two sinusoidal potential differences of the same frequency —
-and amplitude are applied simultaneously to X and Y plates of 
-a cathode ray oscilloscope, when the phase difference between them is:
+Sketch the traces seen on the screen of a cathode ray oscilloscope when two sinusoidal potential differences of the same frequency — and amplitude are applied simultaneously to X and Y plates of  a cathode ray oscilloscope, when the phase difference between them is:
 (i) 0° (ii) 45° (iii) 90°.
 
-Explain the terms: atomic mass unit, mass defect, packing
-fraction and binding energy.
+Explain the terms: atomic mass unit, mass defect, packing fraction and binding energy.
 
 Discuss carbon dating.
 
-Find the age at death of an organism, if the ratio of amount of
-C14 at death to that of the present time is 10^8 and that the
-half life of Cl4 is 5600 years.
+Find the age at death of an organism, if the ratio of amount of C14 at death to that of the present time is 10^8 and that the half life of Cl4 is 5600 years.
 
-Explain the following terms: Earthquake,
-Earthquake focus, Epicentre and Body waves.
+Explain the following terms: Earthquake, Earthquake focus, Epicentre and Body waves.
 
 List down three (3) sources of earthquakes.
 
@@ -163,8 +100,6 @@ Define ionosphere.
 
 Mention the lonospheric layers that exist during the day time.
 
-Give the reason for better reception of radio waves for
-High Frequency signals at night than during the day time.
+Give the reason for better reception of radio waves for high Frequency signals at night than during the day time.
 
-Explain briefly three different types of radio waves
-travelling from a transmitting station to a receiving antenna.
+Explain briefly three different types of radio waves travelling from a transmitting station to a receiving antenna.
