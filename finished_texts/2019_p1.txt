@@ -1,6 +1,5 @@
 ﻿Physics 1 - 2019
 
-
 Identify two basic rules of dimensional analysis.
 
 The frequency n of vibration of a stretched string is a function of its tension F , the length, l and mass per unit length m . Use the method of dimensions to derive the formula relating the stated physical quantities.
@@ -78,8 +77,7 @@ Why does a room light turn on at once when the switch is closed? Give comment.
 
 A current of 3.0 mA flows in a Television resistor R when a potential difference of 6.0 V is connected across its terminals. Determine the value of conductance.
 
-The circuit diagram in the Figure below contains a capacitor, resistors and three cells of negligible
-internal resistance.
+The circuit diagram in the Figure below contains a capacitor, resistors and three cells of negligible internal resistance.
 ### Insert Figure here ###
 Compute;
 (i) The current passing through 3 ohms resistor. 

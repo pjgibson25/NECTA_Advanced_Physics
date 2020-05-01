@@ -1,4 +1,4 @@
-﻿Physics 2 - F6 - 2015
+﻿Physics 2 - 2015
 
 Write down the Bernoulli’s equation for fluid flow in a pipe and indicate the term which will disappear when the fluid is stopped.
 
@@ -119,4 +119,3 @@ State any two conclusions that can be drawn from the curve above.
 
 If the mass of deuterium nucleus is 2.015 a.m.u, that of one isotope of helium is 3.017 a.m.u. and that of neutron is 1.009 a.m.u., calculate the energy released by the fusion of 1kg of deuterium. 
 Suppose 50% of this energy was used to produce 1 MW of electricity, for how many days would be able to function.
-

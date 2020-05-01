@@ -4,7 +4,7 @@ Give the meaning of the following terms as used in error analysis:
 (i) Absolute error. 
 (ii) Relative error. 
 
-The force ‘F’ acting on an object of mass ‘m’, travelling at velocity ‘V’ in a circle of radius ‘r’ is given by: $F = \frac{m v^2}{r}$ If the measurements are recorded as: $m = (3.5 \pm 0.1)$ kg, $V = ( 20 plusminus 1)$ m/s, $r = (12.5 plusminus 0.5)$ m; find the maximum possible
+The force ‘F’ acting on an object of mass ‘m’, travelling at velocity ‘V’ in a circle of radius ‘r’ is given by: F = \frac{m v^2}{r} If the measurements are recorded as: m = (3.5 \pm 0.1) kg, V = ( 20 plusminus 1) m/s, r = (12.5 plusminus 0.5) m; find the maximum possible
 (i) Fractional error. 
 (ii) Percentage error in the measurement of force.
 (iii) Show how you will record the reading of force, ‘F’ in the question above. 
@@ -19,7 +19,7 @@ List two quantities whose dimension is [ M L^2 T^-1 ]
 
 The frequency ‘f’ of vibration of a stretched string depends on the tension ‘F’, the length ‘l’ and the mass per unit length mu of the string. Derive the formula relating the physical quantities by the method of dimensions. 
 
-Use dimensional analysis to prove the correctness of the relation, $rho = \frac{3 g}{4 \pi R G} where by rho = density of the earth, $g =$ acceleration due to gravity, $R =$ radius of the earth and $G =$ gravitational constant.
+Use dimensional analysis to prove the correctness of the relation, rho = \frac{3 g}{4 \pi R G} where by rho = density of the earth, g = acceleration due to gravity, R = radius of the earth and G = gravitational constant.
 
 Why does the kinetic energy of an earth satellite change in the elliptical orbit?
 
@@ -31,9 +31,9 @@ A space craft is launched from the earth to the moon, If the mass of the earth i
 
 Justify the statement that ‘If no external torque acts on a body, its angular velocity will not conserved.
 
-A car is moving with a speed of $30$ m/s on a circular track of radius $500$m. If its speed is increasing at the rate of $2$m/s, find its resultant linear acceleration.
+A car is moving with a speed of 30 m/s on a circular track of radius 500m. If its speed is increasing at the rate of 2m/s, find its resultant linear acceleration.
 
-An object of mass $1$kg is attached to the lower end of a string 1m long whose upper end is fixed and made to rotate in a horizontal circle of radius $0.6$m. If the circular speed of the mass is constant, find the:
+An object of mass 1kg is attached to the lower end of a string 1m long whose upper end is fixed and made to rotate in a horizontal circle of radius 0.6m. If the circular speed of the mass is constant, find the:
 (i) Tension in the string. 
 (ii) Period of motion. 
 

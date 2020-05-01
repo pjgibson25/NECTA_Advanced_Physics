@@ -42,8 +42,7 @@ Two base of a mountain are at sea level where the gravitational field strength i
 
 Why is flywheel designed such that most of its mass is concentrated at the rim? Briefly explain. 
 
-Estimate the couple that will bring the wheel to rest in 10 seconds when a grinding wheel of radius 40 cm and mass 3 kg is rotating at 3600 revolutions
-per minute. 
+Estimate the couple that will bring the wheel to rest in 10 seconds when a grinding wheel of radius 40 cm and mass 3 kg is rotating at 3600 revolutions per minute. 
 
 Why an ice skater rotates at relatively low speed when stretches her arms and a leg outward? 
 

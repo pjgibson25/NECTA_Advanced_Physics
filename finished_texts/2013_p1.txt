@@ -11,8 +11,7 @@ Given that the Young’s modulus Y is given by:
 Y = (4 / Gb)( l/t )^3
 Calculate the maximum percentage error in the value of Y.
 
-Using the method of dimensions, indicate which of the following equations are
-dimensionally correct and which are not, given that, f= frequency, gamma = surface tension, rho = density, r = radius and k= dimensionless constant.
+Using the method of dimensions, indicate which of the following equations are dimensionally correct and which are not, given that, f= frequency, gamma = surface tension, rho = density, r = radius and k= dimensionless constant.
 (i)  rho^2 = k sqrt{r^3 f / gamma}
 (ii)  f = ( k r^3 sqrt{gamma}) / (rho^{1/2})
 (iii)  f = ( k gamma^{1/2} ) / ( sqrt{rho} r^{3/2} )
@@ -56,10 +55,9 @@ Compare the law governing the conduction of heat and electricity pointing out th
 
 Write down three laws governing the black body radiation.
 
-A cup of tea kept in a room with temperature of 22 degrees C cools from 66 degrees C to 63 degrees C
-in 1 minute. How long will the same cup of tea take to cool from the temperature of 43 degrees C to 40 degrees C under the same condition?
+A cup of tea kept in a room with temperature of 22 degrees C cools from 66 degrees C to 63 degrees C in 1 minute. How long will the same cup of tea take to cool from the temperature of 43 degrees C to 40 degrees C under the same condition?
 
-A Lagged copper rod is uniformly heated by a passage of an electric current. Show by considering a small section dx that the temperature theta varies with distance x along a rod in a way that, k ({d^2 T}/{dx^2}) = -H, where k is a thermal conductivity and H is the rate of heat generation per unit volume.
+A Lagged copper rod is uniformly heated by a passage of an electric current. Show by considering a small section dx that the temperature theta varies with distance x along a rod in a way that, k ({d^2 T} {dx^2}) = -H, where k is a thermal conductivity and H is the rate of heat generation per unit volume.
 
 Define the term standing wave.
 

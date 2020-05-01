@@ -3,8 +3,7 @@
 What is meant by random errors?
 (i) Briefly explain two causes of random errors in measurements. 
 
-The period T of oscillation of a body is said to be 1.5 plusminus 0.002s while its amplitude A
-is 0.3 plusminus 0.005m and the radius of gyration k is 0.28 + 0.004m. If the acceleration due
+The period T of oscillation of a body is said to be 1.5 plusminus 0.002s while its amplitude A is 0.3 plusminus 0.005m and the radius of gyration k is 0.28 + 0.004m. If the acceleration due
 to gravity g was found to be related to T, A and k by the equation (gA) / (4 pi^2 ) = ( A^2 + k^2 ) / T^2 , find the:
 (i) Numerical value of g in four decimal places
 (ii) Percentage error in g.
@@ -80,8 +79,7 @@ Define coefficient of thermal conductivity.
 
 Write down two characteristics of a perfectly lagged bar.
 
-A thin copper wall of a hot water tank having a total surface area of 5.0m^2 contains
-0.8cm^3 of water at 350K and is lagged with a 50mm thick layer of a material of thermal conductivity 4.0x10E-2 W/{m K}. If the thickness of copper wall is neglected and the temperature of the outside surface is 290K,
+A thin copper wall of a hot water tank having a total surface area of 5.0m^2 contains 0.8cm^3 of water at 350K and is lagged with a 50mm thick layer of a material of thermal conductivity 4.0x10E-2 W/{m K}. If the thickness of copper wall is neglected and the temperature of the outside surface is 290K,
 (i) Calculate the electrical power supplied to an immersion heater.
 (ii) Ifthe heater were switched off, how long would it take for the temperature ofhot water to fall by 1K?
 
