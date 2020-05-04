@@ -1,0 +1,106 @@
+﻿Physics $2-2017$
+
+State Bernoulli's theorem for the horizontal flow. 
+
+On which principle does the Bernoulli's theorem based. 
+
+A pipe is running full of water. At a certain point A, it tapers from $30$ cm diameter to $10$cm diameter at $B$, the pressure difference between point A and $B$ is $100$ cm of water column. Find the rate of flow of water through the pipe. 
+
+What is the terminal velocity?
+
+Derive an expression for the terminal velocity of a spherical body falling  from rest through a viscous fluid. 
+
+Two capillaries of the same length and radii in the ratio of $1$: $2$ are connected in series and the liquid flow through the system under stream line conditions. If the pressure across the two extreme ends of the combination is  $1m$ of water, what is the pressure difference across the first capillary?
+
+A cyclist and a railway train are approaching each other with a speed of $10m/s$ and $20m/s$ respectively. If the engine driver sounds a warning siren at a frequency of  $480$ Hz, calculate the frequency of the noise heard by the cyclist:
+(i) Before the train has passed.
+(ii) After the tram has passed. 
+
+The equation $y=$ a $ \$g$<$1$> $\omega t$ – kx) represents a plane wave traveling in a medium along the $x-$ direction, $y$ being the displacement at the point $x$ at time $t$ . Deduce whether the wave is traveling in the positive $x$ – direction or in the negative $x$ – direction.
+(i) If $z=1.1 \times 10^{-7}m$ , $\omega =6.5 \times 10^{3}s^{-1}$ , $k$  $=19m^{-1}$ ; determine the speed of the wave.
+
+Briefly explain why diffraction is common in sound but not in light.
+
+A $40$cm long wire is in unison with a tuning fork of frequency $256$ Hz, when stretched by a load of density $9gm^{-3}$ hanging vertically. The load is then immersed in water. By how much the length of the wire should be reduced to bring it again in unison with the same tuning fork,
+
+In a Young's double - slit experiment a total of $23$ bright fringes occupying $4$ tolal distance of $3.9$ mm were visible in traveling microscope, which was focused on a plane being at a distance of $31$cm from the double slit. If the wavelength of light being used was $5.5 \times 10^{-7}m$; determine the separation of the double slit.
+
+When a grating with $300$ lines per millimeters is illuminated normally with parallel beam of monochromatic light a second order principal maximum is observed at $18.9^{\circ}$ to the straight through direction. Find the wavelength of the light.
+
+A white light fall on a slit of width ‘a’: for what value of 'a' will be the first minimum of light falling at the angle of $30^{\circ}$ when the wavelength of light is $6500$ nm? 
+
+A steel rod of length $0.60m$ and cross-sectional area $2.5 \times 10^{-5}m^{2}$ at a temperature of I$00^{\circ}$C is clamped so that when it cools was unable to contract. Find the tension in the rod when it has cooled to $20^{\circ}$C. 
+
+A spring $60$ cm long is stretched by $2$cm for the application of load of $200g$. What will be the length when a load of $500g$ is applied? 
+
+Calculate the percentage increase in length of a wire of diameter $2.2$ mm stretched by a load of $100$kg. ( Young's modulus of wire is$12.5 \times 10^{10}N/m^{2})$
+
+Define the terms capacitance and electric potential. 
+
+The capacitance $C$ of a capacitor ts full charged by a $200V$ battery. It is then discharged through a small coil of resistance wire embedded in a thermally insulated block of specific heat capacity $2.5 \times 10^{2}J/$kgK and of mass of $0.1$ kg.  If the temperature of the block rises by $0.4K$. what is the value of $C$?
+
+A parallel plate capacitor has plates each of area $0.24m^{2}$ separated by a small distance
+$0.50$ mm. If the capacitor is full charged by a battery of electromotive force of $24V$, calculate:
+(i) the capacitance of the capacitor. 
+(ii) the energy stared tn the capacitor. 
+
+Comment on the assertion that, the safest way of protecting yourself from lightning is to be inside a car. 
+
+Find the total potential energy of the system of point charges shown in the Figure below.
+### insert Figure here ###
+
+Define tensile stress and tensile strain. 
+
+Calculate the work done in a stretching copper wire of $100$cm long and $0.03 cm^{2}$ cross — sectional area when a load of $120N$ is applied. 
+
+Mention any two factors on which modulus of elasticity of a material depends.
+
+A traffic light is suspended with two steel wires of equal lengths and radii of $0.5$ cm. If the wires make an angle of $15^{\circ}$ with the horizontal, what is the fractional increase in their length due to the weight of the light? 
+
+Define free surface energy in relation to the quid surface.
+ 
+Explain what will happen if two bubbles of unequal radii are joined by a tube without bursting. 
+
+A spherical drop of mercury of radius $5$ mm falls on the ground and breaks into $1000$ droplets. Calculate the work done in breaking the drop. 
+
+What is meant by the following?
+(i) Atomic Mass Unit (a.m.u.)
+(ii) Binding energy. 
+(iii) Mass defect
+
+Calculate the binding energy per nucleon fur phosphorus ### insert chem stuff here ### given that,
+HERETOO $P=30.97376$ a.m.u. and HERETOO $H=1.00782$ a.m.u.
+
+It is observed that thorium nucleus ### insert chem stuff here ###TH originally at rest decays to form a radium nucleus HERETOO $R$, $\alpha -$ particle and $\gamma $ — rays.
+
+Write down the equation for the disintegration.
+
+Determine the energy of the $\gamma -$ ray, if the $\alpha $ —particle is emitted with energy of $2.38$ MeV. Given that rest mass of ### insert chem stuff here ### Th $=226.0249$ a.m.u. , HERETOO Ra $=222.0154$ a.m.u. and $\alpha -$ particle $=4.0026$ a.m.u. 
+
+When $6$ nucleus of deuterium (hydrogen$-2)$ fuses with a nucleus of tritium (hydrogen$-3)$ to helium nucleus and a neutron, $288 \times 10^{-12}J$ of energy is released. The equation for the reaction is represented as ### insert chem stuff here ###. Calculate the mass of helium nucleus produced. 
+
+State the law of force acting on a conductor of length $l$ carrying an electric current in a magnetic field. 
+
+Draw the diagram of the solenoid with certain number of tums placed in the magnetic field and indicate any suitable directions of the flow of current in it.
+
+Write down the formula for the magnetic field induced at the centre of solenoid. 
+
+It is desired to design a solenoid that produces a magnetic field of $0.1T$ at the centre. If the radius of solenoid is $5$ cm, its length is $50$ cm and carries a current of $10$ A; Calculate:
+(i) The number of turns per unit length of the solenoid. 
+(ii) The total length of a wire required. 
+
+State the Biot-Savart law. 
+
+In a hydrogen atom, an electron keeps moving around its nucleus with a constant speed of $2.18 \times 10^{6}m/s$. Assuming that the orbit is a circular of radius $5.3 \times 10^{-11}m$. determine the magnetic flux density produced at the site of the proton in the nucleus. 
+
+Use the Rydberg constant, $R_{H}=1.0974 \times 10^{7}m^{-1}$ to calculate the shortest wavelength of the Balmer series. 
+
+Use the Bohr's theory for hydrogen atom to determine the:
+(i) Radius of the first orbit of the hydrogen atom in A units. 
+(ii) Velocity of the electron in the first orbit. 
+
+What is ionization potential of an atom?
+
+Show that the ionization potential of hydrogen is $13.6$ eV. 
+
+How can you account for the chemical behavior of atoms on the basis of the atomic electrons and shells? 

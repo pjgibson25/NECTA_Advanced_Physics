@@ -1,0 +1,121 @@
+Physics $1-2010$
+
+Mention two uses of dimensional analysis.
+
+The critical velocity of a liquid flowing in a certain pipe is $3$m$/$s, assuming that the critical velocity v depends on the density $\rho $ of the liquid. its viscosity mu, and the diameter $d$. of the pipe. 
+Use the method of dimensional analysis to derive the equation of the critical velocity of the liquid in a pipe of half the diameter.
+Calculate the value of critical velocity.
+
+Define an error.
+
+In an experiment to determine the acceleration due to gravity $g$, a small ball bearing is timed while falling freely from rest through a measured vertical height. The following data were obtained: vertical height $h=(600\pm 1)$mm, time taken $t=(350\pm 1)$ms. Calculate the numerical value of $g$ from the experimental data, clearly specify the errors. 
+
+Mention two examples of projectile motion. 
+
+Define the trajectory. 
+
+Mention two uses of projectile motion.
+
+Find the velocity and angle of projection of a particle which passes in a horizontal direction Just over the top of a wall which is $12$m high and $32$m away. 
+
+What is the origin of centripetal force for:
+A satellite orbiting around the Earth. 
+An electron in the hydrogen atom?
+
+A small mass of $0.15$kg is suspended from a fixed point by a thread of a fixed length. The mass is given a push so that it moves along a circular path of radius $1.82$m in a horizontal plane at a Steady speed, taking $18.0$s to make $10$ complete revolutions. Calculate:
+The speed of the small mass.
+The centripetal acceleration. 
+The tension in the thread. 
+
+State surface tension In terms of energy. 
+
+The Surface tension of water at $20^{\circ}$C is $7.28 \times 10^{-2}N/m^{2}$. The vapor pressure of water at this temperature is $2.33 \times 10^{3}$ Pa Determine the radius of smallest spherical water droplet which it can form without evaporating
+
+A circular ring of thin wire $3$cm in radius is suspended with its plane horizontal by a thread passing through the $10$cm mark of a metre rule pivoted at its centre and is balanced by $8$g weight suspended at the $80$cm mark. When the ring is just brought in contact with the surface of a liquid, the $8$g weight has to be moved to the $90$cm mark to just detach the ring from the liquid. Find the surface tension of the liquid (assume zero angle of contact.)
+
+Define thermal convection.
+
+In a special type thermometer a fixed mass of a gas has a volume of $100$cm? at a pressure of $81.6$cmHg at the ice point and volume of $124$cm$^{3}$ and pressure of $90$cmHg at steam point. Determine the temperature if its volume is $120$cm$^{3}$ and pressure of $85$cmHg.
+What value does the scale of this thermometer give for absolute
+zero? 
+
+State Stefan’s law of thermal radiation.
+
+A solid copper sphere cools at the rate of $2.8^{\circ}$C$/$min when its temperature is $127^{\circ}$C. At what rate will a solid copper sphere of twice the radius cool when its temperature is $227^{\circ}$C? In both cases the surroundings are kept at $27^{\circ}$C and conditions are such that  Stefan’s law may be applied.
+
+State Newton’s law of cooling.
+
+Explain the observation that a piece of wire when steadily heated up appears reddish in color before turning bluish. 
+
+A glass disc of radius $5$cm and uniform thickness of $2$mm had one of its sides maintained at $100^{\circ}C$ while copper block in good thermal contact with this side was found to be $70^{\circ}C$. The copper block weighs $0.75$kg. The cooling of copper was studied over a range of temperature and the rate of cooling at $70^{\circ}C$ was found to be $16.5$K$/$min. Determine the thermal conductivity of glass.
+
+A cylindrical element of $1$kW electric fire $1$s $30$cm long and $1.0$cm in  diameter. If the temperature of the surroundings is $20^{\circ}C$, estimate the working temperature of the element.
+
+Distinguish between stationary waves and progressive waves.
+
+A wave is represented by the equation $y=10 \sin(0.42\pi(60$t-x)), where the distance parameters are measured in metres and the time in seconds.
+State whether the wave is stationary or progressive.
+Determine the wavelength and frequency of the wave.
+What will be the phase difference between two points which are $40$cm apart? 
+Calculate the period and amplitude of the wave. 
+
+Distinguish between magnetic flux density and magnetic induction.
+
+Describe using a sketch graph how magnetic flux density varies with the axis (both inside and at the ends) of a long solenoid carrying current. 
+
+A solenoid $80$m long has a cross-sectional area of $16$cm$^{2}$ and a total of $3500$ turns closely wound. If the coil is filled with air and carries a current of $3$A, Calculate:
+(i) Magnetic field density $B$ at the middle of the coil.
+(ii) Magnetic flux inside the coil. 
+(iii) Magnetic force $H$ at the centre of the coil. 
+(iv) Magnetic induction at the end of the coil.
+$(v$) Magnetic field intensity at the middle of the coil. 
+
+Define the temperature coefficient of resistance
+
+Briefly describe an experiment to measure temperature coefficient of a wire.
+
+A heating coil is made of a nichrome wire which will operate on a $12$V supply and will have a power of $36$W when immersed in water at $373$K. The wire available has a cross-sectional area of $0.10$mm$^{2}$. What length of the wire will be required? 
+
+Briefly explain why a $P-N$ junction is referred as a junction diode.
+
+(b) Study carefully Figure $1$ where $x$ and $y$ are identical junction diodes with s an
+Internal resistance of $2$k$\Omega $ each.
+### insert image here ###
+Figure $1$
+Determine the current drawn from the source when: 
+(i) Connections are as shown in Figure $1$.
+(ii) Terminals connected to junction diode $x$ are reversed. 
+(iii) Terminals connected to junction diode $x$ is restored but those to junction diode $y$ are reversed.
+(iv) All connections are as shown in Figure $1$, but the polarities of the source are reversed. 
+
+State Coulomb’s law for charged particles.
+
+Does the coulomb force that one charge exert on another charge change when a third charge is brought nearby? Explain.
+
+Describe the action of dielectric in a capacitor.
+
+The electric field intensity inside a capacitor is $E$. What is the work done in displacing a charge $q$ over a closed rectangular surface?
+
+A capacitor of $12\mu $F is connected in series with a resistor of $0.7$M$\Omega $ across a $250$V d.c supply. Calculate the current and p.d across the capacitor after $4.2$ seconds.
+
+Explain the following observations:
+A dressing table mirror becomes dusty when wiped with a dry cloth on a warm day.
+A charged metal ball comes into contact with an uncharged identical ball.  (Illustrate your answer by using diagrams).
+
+Show that the unit of CR (time constant) is seconds and prove that for a discharging capacitor it is the time taken for the charge to fall by $37\%$. 
+
+The variable radio capacitor can be charged from $50$pF to $950$pF by turning the dial from $0$ degrees to $180$ degrees. With the dial at $180$ degrees, the capacitor is connected to a $400$V battery. After charging the capacitor is disconnected from the battery and the dial is turned to $0$ degrees. What is the charge on the capacitor? What is the p.d across the capacitor when the dial reads $0$ degrees and the work done required to turn the dial to $0$ degrees? (Neglect frictional effects).
+
+Without giving any experimental or theoretical detail explain how the results of Millikan’s experiment led to the idea that charge comes in ‘packets’, the size of the smallest packet being carried by an electron. 
+
+In the form of Millikan’s experiment, an oil drop was observe fall with a constant velocity of $2.5	\times 10^{-4}m/s$ in the absence of an electric field. When a p.d of $1000$V was applied between the plates $10$mm apart, the drop remained stationary between them. i the density of oil is $9 \times 10^{2}$ kg$/$m$^{3}$, density of air is $1.2$ kg$/$m$^{3}$ and viscosity of air is $1.8\times 10^{-5}$ Ns$/$m$^{2}$, Calculate the radius of the oil drop and the number of electric charges it carries.
+
+Show that the path of an electron moving In an electric field is a parabola.
+
+Explain the following terms Earthquake, Earthquake focus and Epicenter.
+
+Describe clearly how $P$ and s waves are used to ascertain that the outer core of the Earth is in liquid form. 
+
+Define the ionosphere and give one basic use of it.
+
+Why is the ionosphere obstacle to radio astronomy?

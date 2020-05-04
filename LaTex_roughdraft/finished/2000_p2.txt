@@ -1,0 +1,134 @@
+Physics $2$ – $2000$
+
+Write down the Bernoulli's equations for fluid flow in a pipe and indicate the term which will disappear when the flow of fluid is stopped.
+
+Water flows into a tank of large cross-section area at a rate of $10^{-4}m^{3/}s$ but flows out from a  hole of area lcm^{2}$ which has been punched through the base. How high does the water rise in the tank?
+
+At two points on a horizontal tube of varying circular cross-section carrying water, the radii are lcm and $0.4$cm and the pressure difference between these points is $4.9$cm of water. How much liquid flows through the tube per second?
+
+Define the “bulk modulus” of a gas
+
+Find the ratio of the adiabatic bulk modulus of a gas to that of its isothermal bulk modulus in terms of the specific heat capacities of the gas.
+
+Determine the position of the centre of gravity of the $I-$ section below, from the line YY’
+### Figure ###
+
+Explain Young’s Modulus of rigidity
+
+Find the work done in stretching a steel wire of $1.0mm^{2}$ cross-sectional area and $2.0$m in length through $0.1$mm.
+
+Find the work done required to break up a drop of water of radius $0.5$cm into drops of water each having radius of $1.0$mm, assuming isothermal condition.
+
+What factors lead the real gas to obey the ideal gas equation PV $=$ RT?
+
+Define the root-mean-square (r.m.s.) speed of the gas molecules. Hence find the r.m.s. speed of oxygen gas molecules at $10^{5}$ Pa pressure when the density is $1.43kgm^{-3}$.
+
+Derive an expression for the work done per mole in an isothermal expansion of Vander Waal’s gas from volume $V_{1}$ to volume $V_{2.}$
+
+A number of $16$moles of an ideal gas which is kept at constant temperature of $320$K is compressed isothermally from its initial volume of $18$ litres to the final volume of $4$ litres.
+(i) Calculate the total work done in the whole process.
+(ii) Comment on the sign of numerical answer you've obtained.
+
+A cylinder fitted with a frictionless piston contains $1.0$g of oxygen at a pressure of $760$mmHg and at a temperature of $27^{\circ}C$. the following operations are performed in stages: $(1)$ The oxygen is heated at a constant pressure to $127^{\circ}C$ and then $(2)$ it is compressed isothermally to its original volume and finally $(3)$ it is cooled at a constant volume to its original temperature.
+(i) Illustrate these changes in a sketch $P-V$ diagram.
+(ii) What is the input of heat to the cylinder in stage $(1)$ above?
+(iii) How much work does the oxygen do in pushing back the piston during stage $(1)$?
+(iv) How much work is done on the oxygen in stage $(2)$?
+$(v$) How much heat must be extracted from the oxygen in stage $(3)$? 
+(For oxygen: density $=1.43kgm^{-3}(at stp), Cv $=670Jkg^{-1}K^{-1}$ and molecular mass $=32)$
+
+What is the difference between an “isothermal” process and an “adiabatic” process?
+
+How much work is required to compress $5$mol of air at $20^{\circ}C$ and $l$ atmosphere to $1/10$th of the original volume by
+(i) an isothermal process
+(ii) an adiabatic process?
+(iii) What are the final pressures for the cases (i) and (ii) above?
+
+Explain the fact that the temperature of the ocean at great depths is very nearly constant the year round, at a temperature of about $4^{\circ}C$.
+
+In a diesel engine, the cylinder compresses air from approximately standard temperature and pressure to about one-sixteenth the original volume and a pressure of about $50$ atmospheres. What is the temperature of the compressed air?
+
+Give one major similarity and one major difference between heat conduction and wave propagation.
+
+Deep bore holes into the earth show that the temperature increases about $1^{\circ}C$ for each $30$m depth. How much heat flows out from the core of the earth each second for each square metre of surface area.
+
+Write two uses of Doppler effect.
+
+An observer standing by a railway track notices that the pitch of an engine whistle changes in the ratio of $5$:$4$ on passing him. What is the speed of the engine?
+
+Explain briefiy the necessary conditions for the effects of interference in optics to be observed
+
+Interference patterns are formed when using Young’s double slit arrangement. Mention other three methods that can be used to form interference patterns.
+
+Explain, giving reasons, whether either transverse or longitudinal waves could exist, if the vibratory motion causing them were not simple harmonic motion.
+
+A beam of monochromatic light of wavelength $600$nm in air passes into glass. Calculate:
+(i) the speed of light in glass.
+(ii) the frequency of light.
+(iii) the wavelength of light in glass.
+
+What is meant by “diffraction grating”?
+
+A monochromatic light of wavelength $5.2 \times 10^{-7}m$ falls normally on a grating which has $4 \times 10^{3}$ lines per cm.
+(i) What is the largest order of spectrum that can be visible?
+(ii) Find the angular separation between the third and fourth order image.
+
+What do you understand by the term “drift velocity” as applied to any current carriers in a wire?
+
+Determine the drift velocity of electrons in a silver wire of a cross—sectional area $4.5 \times 10^{-6}m^{2}$ when a current of $15$A flows through it. Given: The density of silver $=1.05 \times 10^{4}$ kgm^{-3}$. The atomic weight of silver $=108$.
+
+An unknown wire of $1$mm diameter is found to carry and passes a total charge of $90$C in $1$ hour and $15$min. If the wire has $5.8 \times 10^{28}$ free electrons per m^{3}$, find
+(i)  the current in the wire.
+(ii) the drift velocity of the electrons in ms^{-1}$
+
+The current of $12$A is made to pass through an aluminium wire of radius $1.5$mm which is joined in series with a copper wire of radius $0.8$mm. Determine.
+(i) the current density in an aluminium wire.
+(ii) the drift velocity of the electron tn the copper wire, given that the number of free electrons per unit volume in a copper wire is $10^{29}$.
+
+Give the statement of Coulomb’s law.
+
+A proton of mass $1.673 \times 10^{-27}$kg falls through a distance of $1.5$cm in a uniform electric field of magnitude $2.0 \times 10^{4} NC^{-1}$. Determine the time of fall [Neglect $g$ and air resistance.]
+
+A $100$V battery terminals are connected to two large and parallel plates which are $2$cm apart. The field in the region between the plates is nearly uniform. 
+(i) If electric field intensity $E$ is $10^{6} NC^{-1}$ and points vertically upwards, determine the force of an electron in this field and compare it with the weight of an electron. An electron is released from rest from the upper plate inside the field above.
+(ii) At what velocity will it hit the lower plate?
+(iii) Determine its kinetic energy and the time it takes for the whole journey.
+
+Mention any three uses of a transistor
+
+A certain transistor has a current gain $\$\beta =55$. If it is used in a circuit with common-base configuration, how much change occurs in the collector current if an emitter current is changed by $100$ micro A? (Assume the collector potential to be constant and neglect the small collector — current due to the minority current carriers).
+
+What is an operational amplifier 
+
+List three desirable features of an operational amplifier.
+
+In almost all cases, where an operation amplifier is used as a linear voltage amplifier, negative feedback is employed. State the advantage of negative feedback.
+
+The figure shows a circuit which incorporates an operational amplifier
+(i) Explain why port $P$ is regarded as being at earth potential.
+(ii) Show that the ratio of output voltage, $V_{o,}$ to input voltage, $V_{i,}$ is given by $V_{o/V_i}=-R_{1/R_2}$
+(iii) Explain the significance of the negative sign in the expression above.
+### Figure $1$? ###
+
+Using an example of your own choice explain the mechanism behind the production of a laser beam.
+
+Describe two applications of a laser
+
+A proton is moving in a uniform magnetic field $B$. Draw the diagram representing $B$ and the path of the proton if its initial direction makes an oblique angle to the direction of the field $B$. 
+
+In the Bohr model of the hydrogen atom, an electron circles the nucleus in an orbit of radius $r$
+(i) Explain what keeps the electron in the orbit and why it does not spiral towards the nucleus.
+(ii) What are the assumptions put forward by Bohr about the orbits of the electron in the hydrogen atom?
+
+A sample of soil from Olduvai Gorge cave was examined. It was found to contain, among other things, pieces of charcoal. Further investigation on the charcoal revealed that $1kg of C14$ nuclei decayed each second. It is assumed that this charcoal has resulted from decomposition of the stone-age people who died there (i.e. at the cave) long time ago. Calculate the number of years that have elapsed since these people died.
+
+What is the de Broglie wave equation?
+
+An electron is accelerated through a potential of $400V$. Determine the de Broglie wavelength of this electron.
+
+Determine the de Broglie wavelength for the beam of electron whose total energy is
+$250$eV.
+
+What is a photoelectric cell?
+
+The emission of electrons from the surface of a cathode of a certain phototube when irradiated with a light of wavelength $3500 \times 10^{-10}m$ is found to stop when the plate potential is $1.2$volt with respect to the cathode. Determine the work function of the cathode.

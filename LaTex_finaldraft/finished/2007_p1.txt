@@ -1,0 +1,142 @@
+﻿Physics $1$ – $2007$
+
+What is systematic error?
+
+The smallest divisions for the voltmeter and ammeter are $0.1$V and $0.01$A respectively.  If $V=IR$, find the relative error in the resistance $R$, when $V=2$V and $I=0.1$A.
+
+Mention two$(2)$ uses of dimensional analysis.
+
+The frequency $f$ of a note given by an organ pipe depends on the length, $l$, the air pressure $P$ and the air density $D$.  Use the method of dimensions to find a formula for the frequency.
+What will be the new frequency of a pipe whos original frequency was $256$Hz if the air density falls by $2\%$ and the pressure increases by $1\%$?
+
+What is meant by the term "projectile" as applied to projectile motion?
+
+Give two $(2)$ practical applications of projectile motion at your locality.
+
+A ball is thrown towards a vertical wall from a point $2$m above the ground and $3$m from the wall.  The initial velocity of the ball is $20$ m$/$s at an angle of $30$ deg above the horizontal.  If the collision of the ball with the wall is perfectly elastic, how far behind the thrower does the ball hit the ground?
+
+The ceiling of a long hall is $25$m high.  Determine the maximum horizontal distance that a ball thrown with a speed of $40$ m$/$s can go without hitting the ceiling of the wall.
+
+Explain why when catching a fast moving ball, the hands are drawn back will the ball is being brought to rest.
+
+Rockets are propelled by the ejection of the products of the combustion of fuel.  Consider a rocket of total mass $M$ travelling at a speed v in a region of space where the gravitational forces are negligible.  
+
+Supposing the combustion products are ejected at a constant speed v, relative to the rocket, show that a fuel "burn" which reduces the total mass $M$ of the rocket to $m$ results in an increase in the speed of the rocket to v such that $v-V=V_{f} \ln (M/m)$.
+
+Supposing that $2.1\times10^{6}$kg of fuel are consumed during a "burn" lasting $1.5\times10^{2}$ seconds and given that there is a constant force on the rocket of $3.4x10^{7}$N during this burn, calculate v, and increase in speed resulting from the burn if $M=2.8\times10^{6}$kg.  
+
+What is the initial vertical acceleration that can be imparted to this rocket when it is launched from the Earth if the initital mass is $2.8x10^{6}$ kg?
+
+What is meant by centripetal force?
+
+Derive the expression $a =(v^{2}/r)$ where a, v, and $r$ stands for the centripetal acceleration, linear velocity and radius of a circular path respectively.  
+
+A ball of mass $0.5$kg attached to a light inextensible string rotates in a vertical circle of radius $0.75$m such that it has a speed of $5$ m$/$s when the string is horizontal.  Calculate:
+(i)  The speed of the ball and the tension in the string at the lowest point of its circular path.
+
+Evaluate the work done by the Earth's gravitational force and by the tension in the string as the ball moves from its highest to its lowest point.
+
+What is meant by a thermometric property of a substance?
+
+What qualities make a particular property suitable for use in practical thermometers?
+
+Explain why at least two $(2)$ fixed points are required to define a temperature scale.
+
+Mention the type of thermometer which is most suitable for calibration of thermometers.
+
+When a metal cylinder of mass $2.0x10^{-2}$kg and specific heat capacity $500$ J$/$kgK is heated at constant power, the initial rate of rise of temperature is $3.0$ K$/$min.  After a time the heater is switched off and the initial rate of fall of temperature is $0.3$ K$/$min.  What is the rate at which the cylinder gains heat energy immediately before the heater is switched off?
+
+What is blackbody radiation of a given body?
+
+Explain why heat may just mean infrared.
+
+State Prvost's theory of heat exchange.
+
+Explain why in cold climates, windows of modern buildings are double glazed, ie: There are two pieces of glass with a small air space between them.
+
+What is Wien's displacement law?
+
+The sun's surface temperature is about $6000$K.  The sun's radiation is maximum at wavelength of $0.5\times10^{-6}m$.  A certain light bulb filament emits radiation with maximum wavelength of $2\times10^{-6}m$.  If both the surface of the sun and of the filament have the same emissive characteristics, what is the temperature of the filament?
+
+State Newton’s law of cooling and give one limitation of the law.
+
+A body initially at $70^{\circ}C$ cools to a temperature of $55^{\circ}C$ in $5$ minutes. What will be its temperature after $10$ minutes given that the surrounding temperature is $31^{\circ}C$ ? (Assume Newton’s law of cooling holds true)
+
+Give two $(2)$ differences between progressive and standing waves.
+
+Two progressive waves travelling along the same line in a medium are represented by $Y_{1}=10 \sin(\omega t +\pi/2)$ and $Y_{2}=10 \sin(\omega t +\pi/6)$
+If the two progressive waves form a standing wave, determine the resultant amplitude and phase angle of the wave formed.
+
+State the modes of vibrations in closed and open pipes.  
+
+A metre-long tube at one end, with a movable piston at the other end, shows resonance with a fixed frequency source (a tuning fork) of frequency $340$Hz when the tube length is $25.5$cm or $79.3$cm.  Estimate the speed of sound in air at the temperature of the experiment (ignore edge effects).
+
+The shortest length of the resonance tube closed at one end which resounds to a fork of frequency $256$Hz is $32.0$cm.  The corresponding length for a fork of frequency $384$Hz is $20.8$cm.  Determine the end correction for the tube and the velocity of sound in air.
+
+Define the internal resistance (r) of a cell and the terminal potential difference.
+
+The e.m.f. of a cell is a special terminal potential difference.  Comment.
+
+Calculate the reading on the high resistance voltmenter v in figure $1.0$ below:
+### Insert Graph ###
+
+State Kirchhoff's laws of electrical network.
+
+Calculate the currents $I_{1,}I_{2,}$ and $I_{3}$ flowing in the following circuit (figure $2.0$ below).
+### Insert Graph ###
+
+List three $(3)$ classes of magnetic materials on the basis of magnetic susceptibility and give one example for each class.
+
+How are the magnetic susceptibility and relative permeability of a magnetic material related to each other?
+
+Define the magnetic field intensity.
+
+A long solenoid has $10$ turns per cm and carries a current of $2.0$A.  Calculate the magnetic field intensity at its centre.
+
+An a.c. generator consists of a coil of $50$ turns and an area of $2.5$m$^{2}$, rotates at an angular speed of $60$ rad$/$s in a uniform magnetic field of $0.30$T between two fixed pole pieces.  The resistance of the circuit including that of the coil is $500\Omega $.  
+(i)  What is the maximum current that can be drawn from the generator?
+(ii)  What is the magnetic flux through the coil if the current is maximum?
+
+How does the arrangement of the energy level in a semiconductor differ from that of an insulator?
+
+Using the notation of energy bands, explain the following optical properties of solids.
+(i)  All metals are opaque to light of all wavelengths.
+(ii)  Semi-conductors are transparent to infrared light although opaque to visible light.
+(iii)  Most insulators are transparent to visible light.
+
+In the circuit shown below (figure $3.0)$, LDR is a light-dependent resistor, whose resistance varies from $1$ Macro$\Omega $ in the dark to $5$ Marcro$\Omega $ in sunlight.  The transistor has a current amplification factor $\beta$  of about $80$.  The voltmeter takes a negligible current.
+### Insert image ###
+Over what range of resistance would the LDR take if the voltmeter reads $5$V or more?  What if it reads $1$V or less?
+At what light intensity measured in terms of the resistance of LDR, would the circuit be most sensitive to small changes of intensity (Assume that $V_{BE}=0$V).
+
+What is the potential at the centre of the square of side $1.0$m, due to charges:
+$q_{1}=+1.0\times10^{-8}$C , $q_{2}=-2.0\times10^{-8}$C , $q_{3}=+3.0\times10^{-8}$C , $q_{1}= +2.0\times10^{-8}$C
+situated at the corners of the square?
+
+What do you understand by an electrostatic generator?
+
+The belt of a Van de Graaf generator carries a charge of $100\mu$C per metre.  If the diameter of the lower pulley is $10$cm and its angular velocity is $5$ rad$/$s, what p.d. will the upper conductor attain in $5$ minutes if its capacitance to ground is $5x10^{-12}$F and if there is no leakage of charge?
+
+Two similar balls of mass $m$ are hung from silk thread of length "a" and carry a similar charge $q$.  Assume $\theta $ is small enough that $X = (\frac{q^2 a}{2 \pi \epsilon_0 m g})^{1/3}$
+where $X$ is the distance of separation.
+
+A charge $Q$ is distributed over the concentric hollow spheres of radii $r$ and $R$ $(R>r)$ such that the surface densities are the same.  Calculate the potential at the common centre of the two spheres.
+
+Make well labelled diagram of the cathode ray oscilloscope and explain briefly how a sinusoidal voltage signal is displayed on its screen.
+
+Mention three $(3)$ practical applications of the cathode ray oscilloscope.
+
+An electron having $450$ eV of energy enters at right angles to a uniform magnetic field of strength $1.50x10^{-3}$T.  Show that the path traced by the electron in a uniform magnetic field is circular and estimate its radius.
+
+A charged oil drop of mass $6.0x10^{-15}$kg falls vertically in air with a steady velocity between two long parallel vertical plates $5.0$mm apart.  When a potential difference of $3000$V is applied between the plates the drop falls with a steady velocity at an angle of $58^{\circ}$ to the vertical.
+Determine the charge $Q$, on the oil drop.
+
+What are the difference between $P$ and s waves?
+
+Explain how the two terms of waves ($P$ and $S$) can be used in studying the internal structure of the earth. 
+
+Write short notes on the following terms in relation to changes in the Earth's magnetic field:  long-term (secular) changes, short-period (regular) changes and short-term (irregular) changes.
+
+What is geomagnetic micropulsation.
+
+Give a summary of location, constitution and practical uses of the stratosphere, ionosphere, and mesosphere.

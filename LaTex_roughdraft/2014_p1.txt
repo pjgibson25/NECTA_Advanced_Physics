@@ -1,0 +1,157 @@
+﻿Physics $1-2014$
+
+Distinguish random error from systematic error.
+Give a practical example of random error and systematic error and briefly explain how they can be reduced or eliminated.
+
+Define the terms error and mistake.
+
+An experiment was done to find the acceleration due to gravity by using the formula: $T=2\pi\sqrt{l/g}$ , where all symbols carry their usual meaning.  If the clock losses $3$ seconds in $5$ minutes, determine the error in measuring ‘$g$’ given that, $T=2.22$ sec, $l=121.6$ cm, DELTA $T_{1}=0.1$ sec, and DELTA $l=\pm 0.05$ .
+
+What is the importance of dimensional analysis inspite of its drawbacks?
+
+The following measurements were taken by a student fort he length of a piece of rod: $21.02$, $20.99$, $20.92$, $21.11$ and $20.69$. Basing on error analysis find the true value at the length of a piece of rod and its associated error.
+
+Outline the motions that add up to make projectile motion. 
+
+In the first second of its flight, a rocket ejects $1/60$ of  its mass with a relative velocity of $2400m/s$.
+Find its acceleration.
+What is the final velocity if the ratio of initial to final mass of the rocket is $4$ at a time of $60$ seconds? 
+
+A ball is thrown upwards with an initial velocity of $33m/s$ from a point $65^{\circ}$ on the side of a hill which slopes upward uniformly at an angle of $28^{\circ}$.
+At what distance up the slope does the ball strike?
+Calculate the time of flight of the ball. 
+
+State the principle of conservation of linear momentum. 
+Give two examples of the principle of conservation of linear momentum. 
+
+A cannon of mass $1300$kg fires a $72$kg ball in a horizontal direction with a nuzzle speed of $55m/s$, If the cannon is mounted so that it can recoil freely calculate the:
+(i)  recoil velocity of the cannon relative to the earth. 
+(ii) horizontal velocity of the ball relative to the earth. 
+
+Define the term ‘radial acceleration’. 
+
+An insect is released from rest at the top of the smooth bowling ball such that it slides over the ball. Prove that it will loose its footing with the ball at an angle of about $48^{\circ}$ with the vertical.
+
+State where the magnitude of acceleration is greatest in simple harmonic motion.
+
+Sketch a graph of acceleration against displacement for a simple harmonic motion.
+
+A vertical spring fixed at one end has a mass of $0.2$kg and is attached at the other end.
+Determine the:
+(i) Extension of the spring.
+(ii) Energy stored in the spring.
+
+The displacement of a particle from the equilibrium position moving with simple harmonic motion is given by $x=0.05 \$g$<$1$>$6t)$, where $t$ is the time in seconds measured at an instant when $x=0$.  Calculate the:
+(i) Amplitude of oscillations.
+(ii) Period of oscillations. 
+(iii)  Maximum acceleration of the particle. 
+
+Define the universal gravitational constant.
+
+How is the gravitational potential related to gravitational field strength?
+
+Write down an expression for the acceleration due to gravity (g) of a body of mass (m) which is at a  distance (r) from the centre of the earth. 
+If the Earth were made of lead of relative density of $11.3$ kg/m^{3}$, what would he the value of acceleration due to gravity on the surface of the earth?
+
+Why the value of acceleration due to gravity (g) changes due to the change in latitude? Give two reasons.
+
+A rocket is fired from the earth towards the sun. At what point on its path is the gravitational force on the rocket zero?
+
+Define torque and give its S.I. unit.
+
+A disc of moment of inertia $2.5$x$10^{-4}$ kg/m^{2}$ is rotating freely about an axis through its centre at $20$ rev/min. If some wax of mass $0.04$kg is dropped gently on to the disc $0.05$m from its axis, what will be the new revolution per minute of the disc? 
+
+Explain briefly why a:
+(i) high diver can turn more somersaults before striking the water?
+(ii) dancer on skates can spin faster by folding her arms?
+
+A heavy flywheel of moment of inertia $0.4$ kg/m^{2}$ is mounted on a horizontal axle of radius $0.01$m. If a force of $60$N is applied tangentially to the axle:
+(i)  Calculate the angular velocity of the flywheel after $5$ seconds from rest.
+(ii) List down two assumptions taken to arrive at your answer in above.
+
+Give two ways in which the internal energy of the system can be changed.
+
+List down two simple applications of the First law of thermodynamics in our daily life.
+
+One mole of a gas expands from volume, $V_{1,}$ to a volume $V_{2.}$ If the gas obeys the Van- der-Waal’s equation, $(p+ a/v^{2})(v$ – b)=$ RT, derive the formula for work done in this process.
+
+A heat engine works at two temperatures of $27^{\circ}$C and $227^{\circ}$C. Calculate the:
+Efficiency of the engine. 
+Temperature which will increase the efficiency by $10\%$ if the room temperature is kept at $27^{\circ}$C. 
+
+Define thermal convection.
+
+Prove that at a very small temperature difference, DELTA $T=T_{b}$ – $T_{s,}$  Newton's law of cooling obeys the Stefan’s law, whereby $T_{b,}$ is the temperature of the body and $T_{s}$ is the temperature of the surrounding. 
+
+What is meant by temperature of inversion?
+
+A thermometer was wrongly calibrated as mt reads the melting point of ice as $-10^{\circ}$C and reading a temperature of $60^{\circ}$C in place of $50^{\circ}$C What would be the temperature of boiling point of water on this scale? 
+
+What is meant by the following terms:
+(i) Alternating current (a.c.)$
+(ii) Effective value of A.$C$. 
+
+A $60$V, $10$W lamp is to be run on $100$V, $60Hz A.C$ mains.
+(i) Calculate the inductance of a choke coil required.
+(ii}$ If a resistor is used in above instead of choke, what will be value of its resistance.
+
+An LCR circuit with $R=70$ omhs in series with a parallel combination of $L=1.5$H and
+$C=30\mu F$ is driven by a $230$V supply with angular frequency of $300$ rad$/s$.
+$(1)$ Find the power in put to the circuit. 
+(ii)  At the frequency $\omega _{o}=1/(\sqrt{LC})$ , how does the circuit respond?
+
+Define the following terms:
+(i) Current density
+(ii) Conductivity 
+
+Under what condition is $\Omega $’s law true?
+
+Why does the voltage across the terminals of a cell or battery fall when it is delivering a current? 
+
+Define temperature coefficient of resistance.
+A heating coil of Nichrome wire with cross sectional area of $0.1 mm^{2}$ operates on a $12$Vsupply, and has a power of $36$W when immersed in water at $373$K. Calculate the length of the wire.
+
+What is meant by the following electronic circuits:
+(i) Logic gates 
+(ii) Integrated circuits
+
+Draw a truth table for the circuit in Figure $1$ including the states at $C$, $D$, $E$, $F$ and $G$. 
+### Insert Image here ###
+
+Study the circuit in below, then answer the questions that follow:
+### Insert Image here ###
+(i) What type of a single gate would provide exactly the same function as a a circuit in the figure?
+(ii) Draw the diagram of a symbol representing a single gate as described above.
+
+What is light emitting diode (LED).
+
+Give three advantages of LED's lamp in radio and other electronic system over filament lamps.
+
+What is the basic difference between good conductors and semiconductors.
+
+Two silicon diode each of forward bias voltage of $0.7$V are connected in a circuit as shown below:
+### Insert image here ###
+Calculate the value of $I_{1}$ and $I_{2}$
+
+Mention two types of transistors.
+Which among the transistors mentioned above responds quickly to electrical signal? Give reason for your answer.
+
+Give the meaning of the following terms:
+(i) Bandwidth
+(ii)  Amplitude modulated carrier wave
+
+What is the purpose of amplifiers in a phone link? 
+
+Sketch the frequency spectrum for $1500$m radio waves modulated by $4$ kHz audio signal.
+
+List down two advantages of digital signals over analogue signals.
+
+A carrier of frequency $800$ kHz is amplitude modulated by frequencies ranging from $1$ kHz to $10$ kHz.  What frequency range does each sideband cover? ,
+
+Describe the sources and effects of the following pollutants on the environment:
+(i) Air pollution. 
+(ii) Radiation pollution.
+
+Briefly explain the influence of the following climatic conditions for plant growth and development:
+(i) Rain fall and water
+(ii) Wind

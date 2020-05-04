@@ -1,0 +1,121 @@
+﻿Physics $2-2015$
+
+Write down the Bernoulli’s equation for fluid flow in a pipe and indicate the term which will disappear when the fluid is stopped.
+
+Name the principle on which the continuity equation is based.
+
+Basing on the applications of Bernoulli’s principle, briefly explain why two ships which are moving parallel and close to each other experience an attractive force.
+
+A sphere is dropped under gravity through a fluid of viscosity,$\eta $.  Taking average acceleration as half of the iniital acceleration, show that the time taken to attain terminal velocity is independent of fluid density.
+
+Water is flowing through a horizontal pipe having different cross-sections at two points A and $B$.  The diameters of the ippe at A and $B$ are $0.6$m and $0.2$m respectively.   The pressure difference between points A and $B$ is $1$m column of water.  Calculate the volume of water flowing per second.
+
+The flow rate of water from a tap of diameter $1.25$cm is $3$ litres per minute.  The coefficient of viscosity of water is $10^{-3}$ Ns/m^{2}$.  Determine the Reynolds’ number and then state the type of flow of water.
+
+Air is moving fast horizontally past an air-plane.  The speed over the top surface is $60m/s$ and under the bottom surface is $45m/s$.  Calculate the difference in pressure.
+
+Define the following terms:
+(i) Damped oscillations
+(ii) Forced oscillations
+(iii) Resonance
+
+What is meant by Doppler effect?
+Write down three uses of Doppler effect.
+
+A source of sound emits waves of frequency, $f$, and is moving with a speed of $u_{s}$ towards the listener and away from the listener.  Derive an expression for apparent frequency $f_{A}$ of sound in each case if the velocity of sound wave in air is v.  
+
+A whistle emitting a sound of frequency $440$Hz is tied to a string of $1.5$m length and rotated with an angular velocity of $20$ rad$/s$ in the horizontal plane.  Calculate the range of frequencies heard by an observer stationed at a large distance.
+
+A police on duty detects a drop of a $10\%$ in the pitch of the horn of a motor car as it crosses him. Calculate the speed of the car.
+
+What is meant by the statement that light is plane polarized.
+
+State Brewster’s law.
+
+Sunlight is reflected from a calm lake.  The reflected sunlight is totally polarized.  What is the angle between the sun and the horizon.
+
+State four conditions for sustained interference of light.
+
+In a Young’s double slit experiment the interval between the slits is $0.2$mm.  For the light of wavelength $6.0$x$10^{-7}m$, Find the distance of the second dark fringe from the central fringe.
+
+Distinguish between diffraction and diffraction grating.
+
+A parallel beam of the monochromatic light is incident normally on a diffraction grating.  The angle between the two first-order spectra on either side of the normal is $30^{\circ}$.  Assume that the wavelength of the light is $5893$x$10^{14}m$; find the number of ruling per mm on the grating and the greatest number of bright images obtained. 
+
+Define the following materials as classified on the basis of elastic properties:
+(i)  Ductile materials 
+(ii) Brittle materials
+(iii) Elastomers
+
+Briefly explain why the stretching of a coil spring is determined by its shear modulus.
+
+A copper wire of negligible mass, $1$m long and cross-sectional area $10^{-5}m^{2}$ is kept on a smooth horizontal table with one end fixed.  A ball of $1$kg is attached to the other end.  The wire and the ball are rotating with an angular velocity of $35$ rad$/s$.  If the elongation of the wire is $10^{-3}m$, find Young’s modulus of wire.  If on increasing the angular velocity to $100$ rad$/s$, the wire breaks down, find the breaking stress.
+
+Differentiate bulk modulus from shear modulus.
+
+Two wires, one of steel and one of phosphor bronze each $1.5$m long and $2$mm diameter are joined end to end as a composite wire of length $3$cm.  What tension in the composite wire will produce total extension of $0.064$cm?
+
+Differentiate electric potential from electric potential difference.
+
+Sketch a graph of variation of electrical potential from the centre of a hollow charged conducting sphere of radius, $r$, up to infinity.  Explain the shape of the graph.
+
+Two bodies A and $B$ are $0.1$m apart.  A point charge of $3$x$10^{-3}\mu C$ is placed at A and a point charge of $1$x$10^{-9}\mu C$ is placed at $B$.  $C$ is the point on the straight line between A and $B$, where the electric potential is zero.  Calculate the distance between A and $C$.
+
+A square ABCD has each side of $100$cm.  Four points charges of $+0.04\mu C$, $-0.05\mu C$, $+0.06\mu C$, and $+0.05\mu C$ are placed at A, $B$, $C$, and $D$ respectively.  Calculate the electric potential at the centre of the square.
+
+What do you understand by dielectric constant?
+
+When are the capacitors said to be connected in parallel?
+
+The parallel plate capacitor consisting of two metal plates each of area $20cm^{2}$ placed at $1$cm apart are connected to the terminals of an electrostatic voltmeter.  The system is charged to give a reading of $120$V on the voltmeter scale.  When the space between the plates is filled with a glass of dielectric constant of $5$, the voltmeter reading falls to $50$V.  What is the capacitance of the voltmeter?  You may assume that volutage recorded by a voltmeter is directly proportional to the scale reading.
+
+A $4.0\mu F$ capacitor is charged by $12$V supply and is then discharged through $1.5M\Omega $ resistor.  
+(i) Obtain the time constant.
+(ii) Calculate the charge on the capacitor at the start of the discharge.
+(iii) What will the value of the charge on the capacitor, the potential difference across the capacitor and the current in the circuit be $2$ seconds after the discharge starts?
+
+Distinguish between self-inductance and mutual inductance.
+
+A horizontal straight wire $0.05$m long weighing $2.4$g$/m$ is placed perpendicular to a uniform horizontal magnetic field of flux density $0.8$T.  If the resistance of the wire is $7.6\Omega /m$, calculate the potential difference that has to be applied between the ends of the wire to make it just self-supporting.
+
+Two very long wires made of copper and of equal lengths are placed parallel to each other in such a way that they are $10$cm apart.  If the total power dissipated in the two wires is $75$W, find the force between them if the resistivity of the copper wire is $1.69$x$10^{-8}\Omega m$ and of diameter $2$mm.
+
+Explain the statement that, a sinusoidal current, of peak value $5$A passed through an a.$c$. ammeter reads $5/\sqrt{2}$ A.  
+
+Show that the average power transferred to an a.$c$. circuit is, in general, given by $EIR/Z$, where $R$ is the resistance in the circuit defined to be the real part of complex impedance and $Z$ is its impedance.
+
+A coil which has an inductance of $0.2$H and negligible resistance is in series in a resistor, whose resistance is $60\Omega $ . The pair is connected across a $50$V supply alternating at $100/\pi$ Hz.  Calculate the toal impedance of the circuit and its power factor.
+
+Show that the de Broglie hypothesis of matter wave are in agreement with Bohr’s theory.
+
+A $10$kg satellite circles the Earth once every $2$ hours in an orbit having a radius of $8000$km.  Assuming Bohr’s angular momentum postulate applies to the satellite just as it does to an electron in the hydrogen atom; find the quantum number of the orbit of the satellite.
+
+A muon is a particle which has the same change as an electron but its mass is $207$ times the mass of an electron.  An unusual atom similar to a hydrogen has been created consisting of a muon orbiting a single proton.  An energy level diagram for this atom is shown in the figure below.
+### Insert image below ###
+(i) Determine the ionization energy of this atom in joules.
+(ii) Calculate the maximum possible wavelength of a proton which when absorbed will be able to ionize this atom.
+(iii) Calculate the de-Broglie wavelength of muon traveling at $11\%$ of the speed of light.
+
+Why are the energy levels labelled with negative energies?
+
+Ultraviolet light of wavelength $3600$x$10^{-10}m$ is made to fall on a smooth surface of potassium. Determine:
+(i) The maximum energy of emitted photoelectrons
+(ii) The stopping potential.
+(iii) The velocity of the most energetic photoelectrons given that work function for potassium is $2$eV.
+
+Define activity and half-life.
+
+Give any four uses of LASER lgith.
+
+The isotope ### Insert special characters ### with a half-life of $1.37$x$10^{9}$ years decays to ### Insert special characters ###, which is stable.  Moon rocks from the sea of tranquility show that the ratio of these potassium atoms to argon atoms is $1/7$.  Determine the age of the moon rock.
+
+The half-life of radioactive substance is $1$ hour.  How long will it take for $60\%$ of the substance to decay?
+
+What is a nuclear reactor?
+Briefly explain any three main components in a nuclear reactor.
+
+Sketch the binding energy curve.
+State any two conclusions that can be drawn from the curve above.
+
+If the mass of deuterium nucleus is $2.015$ a.m.u, that of one isotope of helium is $3.017$ a.m.u. and that of neutron is $1.009$ a.m.u., calculate the energy released by the fusion of $1$kg of deuterium. 
+Suppose $50\%$ of this energy was used to produce $1$ MW of electricity, for how many days would be able to function.
