@@ -22,3 +22,31 @@
 # Remove all lines containing "answer x questions from this section
 ^(?=.*?\banswer\b)(?=.*?\bquestions\b)(?=.*?\bsection\b).*$
 
+
+
+##############################################
+on Latex final drafts
+##############################################
+
+# bigmatch, accounts for : and /
+Find:        (?<!\/)\$([^\s:\/])
+Replace:     $ \1
+
+# mu units
+Find:        \mu ?\$ ?(\w)
+Replace:     $ $\mu$\1
+
+# degree
+Find:        circ} ?\$ ?([CK])
+Replace:     circ}$\1
+
+# bigmatch, accounts for : and /
+Find:        \$ ?\\Omega ?\$ ?'s
+Replace:     Ohm's
+
+# secondcirc
+Find:        circ}C ?\$
+Replace:     circ}$C
+
+
+

@@ -1,0 +1,117 @@
+﻿Physics $ 2-2019$
+
+Give the meaning of the terms velocity gradient, tangential stress and coefficient of viscosity as used in fluid dynamics.
+
+Write Stokes’ equation defining clearly the meaning of all symbols used.
+State two assumptions used to develop the equation above
+
+Calculate the terminal velocity of the rain drops falling in air assuming that the flow is laminar, the rain drops are spheres of diameter $ 1$ mm and the coefficient of viscosity, $ \eta =1.8 \times 10^{-5}$ Ns$/$m$ ^{2}$ . 
+
+Water flows past a horizontal plate of area $ 1.2$ m$ ^{2}$ . If its velocity gradient and coefficient of viscosity adjacent to the plate are $ 10$ s$ ^{-1}$ and $ 1.3 \times 10^{-5}$ Ns$/$m$ ^{2}$ respectively, calculate the force acting on the plate.  
+
+A horizontal pipe of cross - sectional area $ 10 $ cm$ ^{2}$ has one section of cross sectional area $ 5 $ cm$ ^{2}$ . If water flows through the pipe, and the pressure difference between the two sections is $ 300$ Pa, how many cubic meters of water will flow out of the pipe in $ 1$ minute?
+
+Provide one evidence which proves that sound is a wave.
+
+Why thunder of lightning is heard some moments after seeing the flash?
+
+What is Doppler effect? 
+
+The cyclist moving at $ 10$ m$/$s and the railway train at $ 20$ m$/$s are approaching each other. If the engine driver sounds a warming siren at a frequency of $ 480$ Hz:
+calculate the frequency of the note heard by the cyclist before and after the train has passed away. 
+
+Two sheets of a Polaroid are lined up so that their polarization directions are initially parallel. When one sheet is rotated:
+How does the transmitted light intensity vary with the angle between the polarization directions of the polaroid? 
+What angle must the polaroid be rotated to reduce the light Intensity by $ 50\%$ ?
+
+Give the meaning of the terms wave function, longitudinal wave and transverse waves.
+
+The equation of a Progressive wave traveling in the $ +x$ direction is given by $ y= a \sin(\omega t-kx)$ .  Show that the maximum velocity, $ V_{max}=2\pi a /T$ . 
+
+What is meant by diffraction grating?
+
+A diffraction grating has $ 500$ lines per millimetre when used with monochromatic light of wavelength $ 6 \times 10^{-7}$ m at normal incidence. Determine the angle at which the bright diffraction images will be observed. 
+Why other orders of image above can not be observed? 
+
+State Huygens’s principle of wave construction.
+
+A lens was placed with a convex surface of radius of curvature $ 50.0$ cm in contact with the plane surface such that Newton’s rings were observed when the lens was illuminated with monochromatic light. If the radius of the $ 15$ th ring was $ 2.13$ mm; determine the wavelength. 
+
+Define Young’s Modulus of a material. 
+
+Why work is said to be done in stretching a wire? 
+
+A steel wire AB of the length $ 60$ cm and cross-sectional area $ 1.5 \times 10^{-6}$ m$ ^{2}$ is attached at $ B$ to copper wire BC of length $ 39$ cm and cross sectional area $ 3.0 \times 10^{-6}$ m$ ^{2}$ . If the combination of the two wires is suspended vertically from a fixed point at A, and supports a weight of $ 250$ N at $ C$ ; find the extension (in millimeter) of the:
+steel wire. 
+copper wire. 
+
+Based on the kinetic theory of gases determine:
+The average translational kinetic energy of air at a temperature of $ 290$ K.
+The root mean square seed (r.m.s) of air at the same temperature (above).
+
+Define the terms electric potential and electric field-strength $ E$ at a point in the electrostatic field.
+How the two quantities above related? 
+
+Outside the sphere, a charged sphere behaves like its charges were concentrated at the centre. If the electric field strength inside the sphere is zero and one sphere of radius $ 5.0$ cm carries a positive charge of $ 6.7$ nC, calculate; 
+the potential at the surface of the sphere. 
+the capacitance of the sphere. 
+
+The Figure below shows two horizontal parallel conducting plates in a vacuum.
+### Insert figure here ###
+If a small particle of mass $ 4 \times 10^{-12}$ kg carries a positive charge of $ 3.0 \times 10^{-14}$ C is released at point A close to the upper plate,
+What is the total force on this particle? 
+Calculate the kinetic energy of the particle when it reaches the lower plate.
+
+What is meant by dielectric constant? 
+
+State Coulomb’s law of force between two electrically charged bodies. 
+
+Can there be a potential difference between two adjacent conductors carrying the same positive charge? Give a reason. 
+
+A parallel plate capacitor with air as a dielectric has plates of area $ 4.0 \times 10^{-2}$ m$ ^{2}$ which are $ 2.0$ mm apart. The capacitor is charged to $ 100$ V battery and connected in parallel with a similar unchanged capacitor with plates of half the area and twice the distance apart. If the edge effect is neglected, calculate the final charge on each plate. 
+
+Derive an expression for the total capacitance of two capacitors $ C_{1}$ and $ C_{2}$ connected in series. 
+
+Two capacitor of $ 15\$ $mu$F and $ 20\$ $mu$F are connected in series with a $ 600$ V supply.  Calculate the charge and Potential difference across each capacitor. 
+
+Based on Balmer series of hydrogen spectra determine the wavelength of the series limit of Paschen series. 
+
+Why electrons do not fall into the nucleus due to electrostatic force of attraction?
+
+Why hydrogen atom is stable in the ground state? 
+
+According to Bohr’s theory, the angular momentum of an electron is an integral multiple of $ h/2\pi$ .  Express this statement. by using a mathematical equation in which angular momentum is represented by the letter Land orbit by the letter $ n$ , 
+
+Determine the angular momentum of the electron in the orbit of energy level $ -3.4$ eV given that $ E_{n}=-13.6/n^{2}$ eV, where $ E$ is the energy of an electron and $ n$ is the principal quantum number of hydrogen atom. 
+
+The Figure below represents a series of lines obtained when the excited electron of an atom of a certain element falls back. Read it carefully then answer the questions which follow:
+### Insert figure here ###
+Account for the observed convergence of the lines from $ A$ to $ F$ . 
+If the energy value of each line in the spectrum can be calculated using the equation, $ E_{n}=-13.6/n^{2}$ eV ; to which spectral series does the spectrum belongs if the energy value of line A is $ -1.51$ eV? 
+
+What is meant by the following terms as used in nuclear Physics?
+Mass defect 
+Binding energy. 
+
+### Insert complicated chemistry text here ###
+The total energy released in the disintegration reaction. 
+The kinetic energy of alpha particles when the nucleus was at rest before disintegration. 
+
+Elaborate two aspects on which fission reactions differs from fusion reactions.
+
+Why is high temperature required to cause nuclear fusion? 
+
+Identify four factors that affect the force experienced by a current-carrying conductor in a magnetic field. 
+
+Write the mathematical expression which define magnetic flux density and use it to deduce its S.I. units. 
+Apply an expression obtained above to develop the formula for the force on a conductor carrying current i if the conductor and the magnetic fields are not at night angles.
+
+Distinguish the terms magnetically soft and magnetically hard materials.
+
+State the condition which makes the magnetic force on a moving charge in a magnetic field to be maximum. 
+
+Determine the magnitude of force experienced by a stationary charge in a uniform magnetic field. 
+
+At which position of the rotating coil in the magnetic field, the induced e.m.f. is zero? Give a reason. 
+
+Use mathematical expression to justify the statement that there will be no change in the kinetic energy of a charged particle which enters a uniform magnetic field when its initial velocity is directed parallel to the field.

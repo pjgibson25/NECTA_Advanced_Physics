@@ -1,0 +1,115 @@
+Physics $ 2-1999$
+
+Define "Young's Modulus" of a material and give its SI units.
+
+With the aid of a sketch graph, explain what happens when a steel wire is stretched gradually by an increasing load until it breaks. 
+
+A force $ F$ is applied to a long steel wire of length $ L$ and cross-sectional area A.
+(i) Show that if the wire is considered to be a spring, the force constant $ k$ is given by: $ k= AY/L$ , where $ Y$ is Young's Modulus of the wire.
+(ii) Show that the energy stored in the wire is $ U=1/2F \Delta L$ where $ \Delta{L}$ is the extension of the wire
+
+The period $ T$ of vibrations of a tuning fork may be expected to depend on the density $ D$ , Young's Modulus $ Y$ of the material of which it is made and the length a of its prongs. Using dimensional analysis deduce an expression for $ T$ in terms of $ D$ , $ Y$ and a.
+
+Explain the meaning of the following terms:
+(i) Gravitational Potential of the Earth.
+(ii) Gravitational Field Strength of the Earth.
+How are the above quantities in (i) and (ii) related?
+
+Show that the total energy of a satellite in a circular orbit equals half its potential energy.
+
+Calculate the height above the Earth's surface for a satellite in a parking orbit.
+
+What would be the length of a day if the rate of rotation of the Earth were such that the acceleration of gravity $ g=0$ at the equator?
+
+What do you understand by the term "moments of inertia" of a rigid body?
+
+State the perpendicular axes theorem of moments of inertia for a body in the form of a lamina
+
+Calculate the moments of inertia of a thin circular disc of radius $ 50$ cm and mass $ 2$ kg about an axis along a diameter of the disc.
+
+A wheel mounted on an axle that is not frictionless is initially at rest. A constant external torque of $ 50$ Nm is applied to the wheel for $ 20$ s. At the end of the $ 20$ s, the wheel has an angular velocity of
+$ 600$ rev/min. The external torque is the removed, and the wheel comes to rest after $ 120$ s more.
+(i) Determine the moments of inertia of the wheel.
+(ii) Calculate the frictional torque which is assumed to be constant. 
+
+State the main assumptions of the “kinetic theory" of gases.
+
+Derive an expression for the pressure exerted by an ideal gas on the walls of its container.
+
+How does the average translational kinetic energy of a molecule of an ideal gas change if
+(i) the pressure is doubled while the volume is kept constant?
+(ii) the volume is doubled while the pressure is kept constant?
+
+Calculate the value of the root mean-square speed of molecules of helium at $ 0^{\circ}$C .
+
+What is "capacitance"?
+
+List three factors that govern the capacitance of a parallel plate capacitor.
+
+Show that the energy per unit volume stored in a parallel plate capacitor is given by: $ U=1/2\epsilon E^{2}$ and define all the symbols in this equation.
+
+Given that the distance of separation between the parallel plates of a capacitor is $ 5$ mm, and the plates have an area of $ 5$ m$ ^{2}$ . A potential difference of $ 10$ kV is applied across the capacitor which is
+parallel in vacuum. Compute:
+(i) the capacitance
+(ii) the electric intensity in the space between the plates
+(iii) the change in the stored energy if the separation of the plates is increased from $ 5$ mm to $ 5.5$ mm.
+
+With the help of illustrative diagrams explain the action of a choke in a circuit.
+
+When an impedance consisting of an inductance $ L$ and a resistance $ R$ in series is connected across a $ 12$ V, $ 50$ Hz power supply, a current of $ 0.050$ A flows, which differs in phase from that of the applied potential difference by $ 60^{\circ}$ .
+(i) Find the value of $ R$ and $ L$ .
+(ii) Find the capacitance of the capacitor which, when connected in series in the above circuit, has the effect of bringing the current into phase with the applied voltage.
+
+An inductance of $ 4$ mH is connected in series with a resistance of $ 20\Omega $ together with a battery:
+(i) Determine how the current will vary with time in this circuit.
+(ii) Sketch the current of (i) above against time
+(iii) Calculate the inductive time constant
+
+State the laws of electromagnetic induction and describe briefly experiments (one in each case) which can be used to demonstrate them.
+
+A flat coil of $ 100$ turns and mean radius $ 5.0$ cm is tying on a horizontal surface and is turned over in $ 0.20$ sec. against the vertical component of the Earth's magnetic field. Calculate the average e.m.f. induced.
+
+With the help of clear diagrams, explain briefly how you would convert a sensitive galvanometer into:
+(i) an ammeter
+(ii) a voltmeter
+
+State Bohr’s postulates of the atomic model.
+
+Show that for an electron in a hydrogen atom, the possible radii of an electron orbit are given by:
+$ r_{n}=a_{0}n^{2}$ , $ n=1$ , $ 2$ , $ 3$ , ...
+
+(i) Show that the possible energy levels (in Joules) for the hydrogen atom are given by the formula:
+$ E_{n}=-me^{4}/(8h^{2}\epsilon _{0}^{2}$ * $ 1/n^{2}$
+where $ m=$ mass of the electron
+$ e=$ electronic charge
+$ h=$ Planck's constant
+$ \epsilon _{0}=$ permittivity constant of vacuum
+(ii) What does the negative sign signify in the formula for $ E$ , in (i) above?
+
+Define the term “binding energy” of a nuclide.
+
+Distinguish between:
+(i) $ \beta -$ decay and $ \beta +$ decay.
+(ii) nuclear fission and nuclear fusion
+(iii) activity and half-life of a radioactive material.
+(iv) Taking the half-life of Radium $ -226$ to be $ 1600$ years, what fraction of a given sample remains after $ 4800$ years?
+
+An experiment was conducted to investigate the absorption by aluminium of the radiation from a radioactive source by inserting aluminium plates of different thicknesses between the source and a Geiger tube connected to a ratemeter (or scales). The observations are summarized in table $ 1$ .
+TABLE $ 1$
+[Thickness of Aluminium | $ 2.3$ | $ 6.9$ | $ 11.4$ | $ 16.0$ ]
+[Mean Count rate $ (min^{-1}$ | $ 1326$ | $ 802$ | $ 496$ | $ 300$ ]
+Use these data to plot a graph and hence determine for this radiation in aluminium, the linear absorption coefficient mu, defined by$ \mu = - dI/I  I/dx$ , where i is the intensity of the incident radiation and dI is the part of the incident radiation absorbed in the thickness dz.
+
+Briefly describe the major factors that you would consider when designing a voltage amplifier.
+
+Explain the term “thermal run away” as regards a transistor amplifier.
+
+With the help of clear diagrams, explain how you would overcome thermal run away in a voltage amplifier.
+
+Figure $ (1)$ shows a junction transistor voltage amplifier circuit. If $ R_{1}=100$ k$ \Omega $ , $ R_{2}=1$ k$ \Omega $ , $ V_{cc}=6.0$ V, $ V_{BE}=0.6$ and $ h_{FE}=60$ ; calculate:
+(i) The voltage across $ R_{1}$
+(ii) The value of $ I_{S}$
+(iii) The value of $ I_{C}$
+(iv) The voltage across $ R_{2}$
+$ (v$ ) The collector - emitter voltage
+### Figure $ 1$ ###

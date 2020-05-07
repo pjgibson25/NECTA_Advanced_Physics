@@ -1,0 +1,146 @@
+﻿Physics $ 1-2015$
+
+What is meant by random errors?
+(i) Briefly explain two causes of random errors in measurements. 
+
+The period $ T$ of oscillation of a body is said to be $ 1.5\pm 0.002$ s while its amplitude A is $ 0.3\pm 0.005$ m and the radius of gyration $ k$ is $ 0.28+0.004$ m. If the acceleration due
+to gravity $ g$ was found to be related to $ T$ , $ A$ and $ k$ by the equation $ (gA)/(4\pi^{2})=( A^{2}+k^{2})/T^{2}$ , find the:
+(i) Numerical value of $ g$ in four decimal places
+(ii) Percentage error in $ g$ .
+
+State the law of dimensional analysis.
+
+The largest mass, $ m$ of a stone that can be moved by the flowing river depends on the velocity of flow v, the density $ \rho $ of water, and the acceleration due to gravity $ g$ . Show that the mass, $ m$ varies to the sixth power of the velocity of flow.
+
+Define the term trajectory.
+
+Briefly explain why the horizontal component of the initial] velocity of a projectile always remains constant.
+
+List down two limitations of projectile motion. 
+
+A body projected from the ground at the angle of $ 60^{\circ}$ is required to pass just above the two vertical walls each of height $ 7$ m. If the velocity of projection is $ 100$ m$/$s, calculate the distance between the two walls. 
+
+A fireman standing at a horizontal distance of $ 34$ m from the edge of the burning story building aimed to raise streams of water at an angle of $ 60^{\circ}$ into the first floor through an open window which is at $ 20$ m high from the ground level. If water strikes on this floor $ 2$ m away from the outer edge, 
+(i)  Sketch a diagram of the trajectory.
+(ii) What speed will the water leave the nozzle of the fire hose?
+
+Mention three effects of looping the loop.
+Why there must be a force acting on a particle moving with uniform speed in a circular path? Write down an expression for its magnitude. 
+
+A driver negotiating a sharp bend usually tend to reduce the speed of the car.
+(i)  What provides the centripetal force on the car?
+(ii) Why is it necessary to reduce its speed?
+
+A ball of mass $ 0.5$ kg is attached to the end of a cord whose length is $ 1.5$ m then whirled in horizontal circle. If the cord can withstand a maximum tension of $ 50$ N calculate the:
+(i) Maximum speed the ball can have before the cord breaks. 
+(ii) Tension in the cord if the ball speed is $ 5$ m$/$s
+
+Briefly explain why the motion of a simple pendulum is not strictly simple harmonic? 
+Why is the velocity and acceleration of a body executing simple harmonic motion (S.H.M.) out of phase? 
+
+A body of mass $ 0.30$ kg executes simple harmonic motion with a period of $ 2.5$ s and amplitude of $ 4.0\times10^{-2}$ m. Determine the:
+(i) Maximum velocity of the body. 
+(ii) Maximum acceleration of the body. 
+(iii) Energy associated with the motion.
+
+A particle of mass $ 0.25$ kg vibrates with a period of $ 2.0$ s. If its greatest displacement is $ 0.4$ m what is its maximum kinetic energy?
+
+ Define moment of inertia of a body.
+(i) Briefly explain why there is no unique value for the moment of inertia of a given body?
+
+State the principle of conservation of angular momentum. 
+A horizontal disc rotating freely about a vertical axis makes $ 45$ revolutions per minute. A small piece of putty of mass $ 2.0\times10^{-2}$ kg falls vertically onto the disc and sticks to it at a distance of $ 5.0\times10^{-2}$ m from the axis. If the number of revolutions per minute is thereby reduced to $ 36$ , calculate the moment of inertia of the disc. 
+
+Define the term tangential velocity.
+
+Explain why the astronaut appears to be weightless when traveling in the space vehicle.
+
+State Newton's law of gravitation. 
+Use Newton’s law of gravitation to derive Kepler’s third law.
+
+Briefly explain why Newton’s equation of universal gravitation does not hold for bodies falling near the surface of the earth? 
+
+Show that the total energy of a satellite in a circular orbit equals half its potential energy.
+
+What would be the length of a day if the rate of rotation of the Earth were such that the acceleration due to gravity $ g=0$ at the equator?
+
+Calculate the height above the Earth’s surface for a satellite in a parking orbit.
+
+What is meant by a thermometric property?
+
+Mention three qualities that make a particular property suitable for use in a practical thermometer.
+
+Study the values in Table $ 1$ which represent the observations of a particular room temperature obtained by using two types of thermometers and then answer the questions that follow:
+### Insert table here ###
+(i) Calculate the value of unknown room temperature on the scales of resistance thermometer and constant volume gas thermometer. 
+(ii) Why do the answers above differ sightly?
+
+Define coefficient of thermal conductivity.
+
+Write down two characteristics of a perfectly lagged bar.
+
+A thin copper wall of a hot water tank having a total surface area of $ 5.0$ m$ ^{2}$ contains $ 0.8$ cm$ ^{3}$ of water at $ 350$ K and is lagged with a $ 50$ mm thick layer of a material of thermal conductivity $ 4.0\times10^{-2}$ W$/$mK. If the thickness of copper wall is neglected and the temperature of the outside surface is $ 290$ K,
+(i) Calculate the electrical power supplied to an immersion heater.
+(ii) If the heater were switched off, how long would it take for the temperature of hot water to fall by $ 1$ K?
+
+The element of an electric fire with an output of $ 1000$ W is a cylinder of $ 250$ mm long and $ 15$ mm in diameter. If it behaves as a black body, estimate its temperature.
+
+What is meant by the following terms:
+(i)  Internal resistance of a cell. 
+(ii)  Drift velocity. 
+
+What is a potentiometer. 
+Mention two advantages and two disadvantages of potentiometer.
+
+State Kirchhoff's laws of electric network.
+Find the value of the current i in the circuit shown in Figure $ 1$ .
+### Insert Figure below ###
+
+Distinguish between ohmic and non-ohmic conductor. Give one example in each
+
+Sketch the diagram showing the variation of current with potential difference across the following:
+(i)  Filament electric bulb. 
+(ii) Gas-filled diode. 
+
+A wire of diameter $ 0.1$ mm and resistivity $ 1.69\times10^{-8}\Omega$ m with temperature coefficient
+of resistance of $ 4.3\times10^{-3}$ K$ ^{-1}$ was required to make a resistance,
+(i)  What length of the wire is required to make a coil with a resistance of $ 0.5\Omega $ ?
+(ii) If on passing a Current of $ 2$ A the temperature of the coil above rises  by $ 10^{\circ}$C, what error would arise in taking the potential drop as $ 1.0$ V 
+
+Mention four important properties of a semiconductor.
+
+Applying the concept of doping, explain how a free electron and a positive charge can be created in a semiconductor crystal. 
+
+Why a $ p-n$ junction diode when connected in a circuit and then reversed gives a very small leakage current across the junction? 
+How is the size of the current stated in above dependent on the temperature of the diode?
+
+List three properties of operational amplifiers.
+
+What is meant by the term negative feedback? Give four advantages of using it in an op-amp or any type of voltage amplifier.
+
+Define closed loop gain. 
+
+Derive an expression of the closed loop gain for an inverting op-amp voltage amplifier with an input resistor $ R$ , and a feedback resistor.
+
+Calculate the value of output potential $ V_{o}$ , in Figure $ 2$ if the input potential $ V_{i}$ , is $ +2.0$ V .
+### Insert circuit below ###
+
+Give one advantage of frequency modulation (FM) as compared to amplitude modulation ( AMT).
+
+Briefly explain the importance of bandwidth of an amplitude modulation (AM) signal.
+
+State the function of a modulator in radios.
+
+Sketch a block diagram to show the general plan of any communication system.
+
+The amplitude modulated (AM) broadcast band ranges from $ 450$ to $ 1200$ kHz. If each station modulates with audio frequencies up to $ 5.5$ kHz, determine the
+(i)  Bandwidth needed for each station.
+(i)  Total bandwidth available. 
+
+What is the origin of earthquake?
+
+List down three sources of earth's magnetism. 
+
+A large explosion at the earth's surface creates compressional (P) and shear (S) waves moving with a speed of $ 6.0$ km$/$s and $ 3.5$ km$/$s respectively. If both waves arrive at seismological station with $ 30$ s interval, calculate the distance measured between seismological station and the site of explosion. 
+
+Explain three techniques applicable for improving soil environment for the best plant growth.
