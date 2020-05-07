@@ -9,7 +9,7 @@ State Newton’s law of viscosity and hence deduce the dimensions of the coeffic
 In an experiment to determine the coefficient of viscosity of motor oil, the following measurements are made:
 Mass of glass sphere $=1.2 \times 10^{-4}$ kg.
 Diameter of sphere $=4.0 \times 10^{-3}m$.
-Terminal velocity of sphere $=5.4 \times 10^{-5}m/s$.
+Terminal velocity of sphere $=5.4 \times 10^{-5}$ m$/$s.
 Density of oil $=860$ kg/m^{3}$
 Calculate the coefficient of viscosity of the oil.
 
@@ -119,13 +119,13 @@ The diameter of a $40$ turn circular coil is $16$ cm and it has a current of $5$
 (ii) The magnetic moment of the coil.
 (iii) The torque action on the coil if it is suspended in a uniform magnetic field of $0.76T$ such that its plane is parallel to the field.
 
-Briefly explain the production of $X-$rays.
+Briefly explain the production of X-rays.
 
-List down any three uses of $X-$rays.
+List down any three uses of X-rays.
 
-How are the intensity and penetrating power of an $X-$ray beam controlled?
+How are the intensity and penetrating power of an X-ray beam controlled?
 
-An $X-$ray tube, operated at a d.c. potential difference of $60$ kV , produces heat at the target at the rate of $840W$ .  Assuming $0.65\%$ of the energy of the incident electrons is converted into $X-$radiation, calculate:
+An X-ray tube, operated at a d.c. potential difference of $60$ kV , produces heat at the target at the rate of $840W$ .  Assuming $0.65\%$ of the energy of the incident electrons is converted into $X-$radiation, calculate:
 (i) The number of electrons per second striking the target.
 (ii) The velocity of the incident electrons.
 (iii) The energy of incident electrons

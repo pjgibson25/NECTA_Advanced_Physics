@@ -10,15 +10,15 @@ If the speed v of the transverse wave along a wire of tension, $T$ and mass, $m$
 
 Under what condition a passenger in a lift feels weightless? 
 
-Calculate the tension in the supporting cable of an elevator of mass $500$ kg which was originally moving downwards at $4m/s$ and brought to rest with constant acceleration at a distance of $20$m. 
+Calculate the tension in the supporting cable of an elevator of mass $500$ kg which was originally moving downwards at $4$ m$/$s and brought to rest with constant acceleration at a distance of $20$m. 
 
-The rotating blades of a hovering helicopter swept out an area of radius $2m$ imparting a downward velocity of $8m/s$ of the air displaced. Find the mass of a helicopter. 
+The rotating blades of a hovering helicopter swept out an area of radius $2m$ imparting a downward velocity of $8$ m$/$s of the air displaced. Find the mass of a helicopter. 
 
-Compute the mass of water striking the wall per second when a jet of water with a velocity of $5m/s$ and cross-sectional area of $3 \times 10^{-2}m^{2}$ strikes the wall at right angle losing its velocity to zero. 
+Compute the mass of water striking the wall per second when a jet of water with a velocity of $5$ m$/$s and cross-sectional area of $3 \times 10^{-2}m^{2}$ strikes the wall at right angle losing its velocity to zero. 
 
 How does projectile motion differ from uniform circular motion? 
 
-A rifle shoots a bullet with a muzzle velocity of $1000m/s$ at a small target $200m$ away. How high above the target must the rifle be aimed so that the bullet will hit the target? 
+A rifle shoots a bullet with a muzzle velocity of $1000$ m$/$s at a small target $200m$ away. How high above the target must the rifle be aimed so that the bullet will hit the target? 
 (i) Where does the object strike the ground when thrown horizontally with a velocity of $15$m$/s$ from the top of a $40$m high building? 
 (ii) Find the speed of travel when a man jumps a maximum horizontal distance of $1m$ spending a minimum time on the ground.
 

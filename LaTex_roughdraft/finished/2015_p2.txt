@@ -12,7 +12,7 @@ Water is flowing through a horizontal pipe having different cross-sections at tw
 
 The flow rate of water from a tap of diameter $1.25$cm is $3$ litres per minute.  The coefficient of viscosity of water is $10^{-3}$ Ns/m^{2}$.  Determine the Reynolds’ number and then state the type of flow of water.
 
-Air is moving fast horizontally past an air-plane.  The speed over the top surface is $60m/s$ and under the bottom surface is $45m/s$.  Calculate the difference in pressure.
+Air is moving fast horizontally past an air-plane.  The speed over the top surface is $60$ m$/$s and under the bottom surface is $45$ m$/$s.  Calculate the difference in pressure.
 
 Define the following terms:
 (i) Damped oscillations
@@ -36,11 +36,11 @@ Sunlight is reflected from a calm lake.  The reflected sunlight is totally polar
 
 State four conditions for sustained interference of light.
 
-In a Young’s double slit experiment the interval between the slits is $0.2$mm.  For the light of wavelength $6.0$x$10^{-7}m$, Find the distance of the second dark fringe from the central fringe.
+In a Young’s double slit experiment the interval between the slits is $0.2$mm.  For the light of wavelength $6.0	imes 10^{-7}m$, Find the distance of the second dark fringe from the central fringe.
 
 Distinguish between diffraction and diffraction grating.
 
-A parallel beam of the monochromatic light is incident normally on a diffraction grating.  The angle between the two first-order spectra on either side of the normal is $30^{\circ}$.  Assume that the wavelength of the light is $5893$x$10^{14}m$; find the number of ruling per mm on the grating and the greatest number of bright images obtained. 
+A parallel beam of the monochromatic light is incident normally on a diffraction grating.  The angle between the two first-order spectra on either side of the normal is $30^{\circ}$.  Assume that the wavelength of the light is $5893	imes 10^{14}m$; find the number of ruling per mm on the grating and the greatest number of bright images obtained. 
 
 Define the following materials as classified on the basis of elastic properties:
 (i)  Ductile materials 
@@ -59,7 +59,7 @@ Differentiate electric potential from electric potential difference.
 
 Sketch a graph of variation of electrical potential from the centre of a hollow charged conducting sphere of radius, $r$, up to infinity.  Explain the shape of the graph.
 
-Two bodies A and $B$ are $0.1$m apart.  A point charge of $3$x$10^{-3}\mu C$ is placed at A and a point charge of $1$x$10^{-9}\mu C$ is placed at $B$.  $C$ is the point on the straight line between A and $B$, where the electric potential is zero.  Calculate the distance between A and $C$.
+Two bodies A and $B$ are $0.1$m apart.  A point charge of $3	imes 10^{-3}\mu C$ is placed at A and a point charge of $1	imes 10^{-9}\mu C$ is placed at $B$.  $C$ is the point on the straight line between A and $B$, where the electric potential is zero.  Calculate the distance between A and $C$.
 
 A square ABCD has each side of $100$cm.  Four points charges of $+0.04\mu C$, $-0.05\mu C$, $+0.06\mu C$, and $+0.05\mu C$ are placed at A, $B$, $C$, and $D$ respectively.  Calculate the electric potential at the centre of the square.
 
@@ -78,7 +78,7 @@ Distinguish between self-inductance and mutual inductance.
 
 A horizontal straight wire $0.05$m long weighing $2.4$g$/m$ is placed perpendicular to a uniform horizontal magnetic field of flux density $0.8$T.  If the resistance of the wire is $7.6\Omega /m$, calculate the potential difference that has to be applied between the ends of the wire to make it just self-supporting.
 
-Two very long wires made of copper and of equal lengths are placed parallel to each other in such a way that they are $10$cm apart.  If the total power dissipated in the two wires is $75$W, find the force between them if the resistivity of the copper wire is $1.69$x$10^{-8}\Omega m$ and of diameter $2$mm.
+Two very long wires made of copper and of equal lengths are placed parallel to each other in such a way that they are $10$cm apart.  If the total power dissipated in the two wires is $75$W, find the force between them if the resistivity of the copper wire is $1.69	imes 10^{-8}\Omega m$ and of diameter $2$mm.
 
 Explain the statement that, a sinusoidal current, of peak value $5$A passed through an a.$c$. ammeter reads $5/\sqrt{2}$ A.  
 
@@ -98,7 +98,7 @@ A muon is a particle which has the same change as an electron but its mass is $2
 
 Why are the energy levels labelled with negative energies?
 
-Ultraviolet light of wavelength $3600$x$10^{-10}m$ is made to fall on a smooth surface of potassium. Determine:
+Ultraviolet light of wavelength $3600	imes 10^{-10}m$ is made to fall on a smooth surface of potassium. Determine:
 (i) The maximum energy of emitted photoelectrons
 (ii) The stopping potential.
 (iii) The velocity of the most energetic photoelectrons given that work function for potassium is $2$eV.
@@ -107,7 +107,7 @@ Define activity and half-life.
 
 Give any four uses of LASER lgith.
 
-The isotope ### Insert special characters ### with a half-life of $1.37$x$10^{9}$ years decays to ### Insert special characters ###, which is stable.  Moon rocks from the sea of tranquility show that the ratio of these potassium atoms to argon atoms is $1/7$.  Determine the age of the moon rock.
+The isotope ### Insert special characters ### with a half-life of $1.37	imes 10^{9}$ years decays to ### Insert special characters ###, which is stable.  Moon rocks from the sea of tranquility show that the ratio of these potassium atoms to argon atoms is $1/7$.  Determine the age of the moon rock.
 
 The half-life of radioactive substance is $1$ hour.  How long will it take for $60\%$ of the substance to decay?
 

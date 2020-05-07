@@ -4,7 +4,7 @@ Give the meaning of the following terms as used in error analysis:
 (i) Absolute error. 
 (ii) Relative error. 
 
-The force ‘$F$’ acting on an object of mass ‘$m$’, travelling at velocity ‘v’ in a circle of radius ‘$r$’ is given by: $F=$ \frac{mv^{2}{r}$ If the measurements are recorded as: $m=(3.5$ \pm $0.1)$ kg, $V=(20\pm 1)m/s$, $r=(12.5\pm 0.5)m$; find the maximum possible
+The force ‘$F$’ acting on an object of mass ‘$m$’, travelling at velocity ‘v’ in a circle of radius ‘$r$’ is given by: $F=$ \frac{mv^{2}{r}$ If the measurements are recorded as: $m=(3.5$ \pm $0.1)$ kg, $V=(20\pm 1)$ m$/$s, $r=(12.5\pm 0.5)m$; find the maximum possible
 (i) Fractional error. 
 (ii) Percentage error in the measurement of force.
 (iii) Show how you will record the reading of force, ‘$F$’ in the question above. 
@@ -31,7 +31,7 @@ A space craft is launched from the earth to the moon, If the mass of the earth i
 
 Justify the statement that ‘If no external torque acts on a body, its angular velocity will not conserved.
 
-A car is moving with a speed of $30m/s$ on a circular track of radius $500$m. If its speed is increasing at the rate of $2$m$/s$, find its resultant linear acceleration.
+A car is moving with a speed of $30$ m$/$s on a circular track of radius $500$m. If its speed is increasing at the rate of $2$m$/s$, find its resultant linear acceleration.
 
 An object of mass $1$kg is attached to the lower end of a string $1$m long whose upper end is fixed and made to rotate in a horizontal circle of radius $0.6$m. If the circular speed of the mass is constant, find the:
 (i) Tension in the string. 
@@ -69,7 +69,7 @@ Briefly explain why:
 (i) Steam pipes are wrapped with insulating materials?
 (ii) Stainless steel cooking pans fitted with extra copper at the bottom are more preferred?
 
-The value of the property $X$ of a certain substance Is given by $X_{\theta}}=X_{0}+0.5\theta +2$x$10^{-4}\theta ^{2}$  , Where $\theta $ is the temperature in degree Celsius. What would be the Celsius temperature defined by the property $X$ which corresponds to a temperature of $50^{\circ}$C on this gas thermometer scale? 
+The value of the property $X$ of a certain substance Is given by $X_{\theta}}=X_{0}+0.5\theta +2	imes 10^{-4}\theta ^{2}$  , Where $\theta $ is the temperature in degree Celsius. What would be the Celsius temperature defined by the property $X$ which corresponds to a temperature of $50^{\circ}$C on this gas thermometer scale? 
 
 What is the advantage of using a greater length of potentiometer wire?
 
@@ -89,7 +89,7 @@ Why a high voltage supply should have high internal resistance?
 
 Justify the statement that ‘it is not possible to verify $\Omega $'s law by using a filament lamp’.
 
-A potential difference of $4$V is connected to $4$ uniform resistance wire of length $3.0$m and cross-sectional area $9$x$10^{-9}$ , when a current of $0.2$A is flowing in the wire. Find the:
+A potential difference of $4$V is connected to $4$ uniform resistance wire of length $3.0$m and cross-sectional area $9	imes 10^{-9}$ , when a current of $0.2$A is flowing in the wire. Find the:
 (i) Resistivity of the wire.
 (ii) Conductivity of the wire. 
 

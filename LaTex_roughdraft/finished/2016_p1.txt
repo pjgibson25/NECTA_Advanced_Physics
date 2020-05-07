@@ -1,0 +1,167 @@
+﻿Physics $1-2016$
+
+Define the term dimension of a physical quantity.
+
+The number of particles $n$ crossing a unit area perpendicular to $x=$axis in a unit time is given as $n=-D(n_{2-n_1}/(x_{2-x_1}$ where $n_{1}$ and $n_{2}$ are the number of particles per unit volume for the values of $x_{1}$ and $x_{2}$ respectively.  What are the dimensions of diffusion constant $D$?
+
+Give two basic rules of dimensional analysis. 
+
+The frequency, $f$ of a vibrating string depends upon the force applied, $F$, the length, $l$, of the string and the mass per unit length,$\mu $. Using dimension show how $f$ is related to $F$, $l$ and$\mu $.
+
+What is meant by least count of a measurement?
+
+The period of oscillation of a simple pendulum is given by $T=2\pi\sqrt{l/g}$ where by $100$ vibrations were taken to measure $200$ seconds. If the least count for the time and length of a pendulum of $1$m are $0.1$ sec and $1$mm respectively, calculate the maximum percentage error in the measurement of $g$.
+
+Mention two characteristics of projectile motion.
+
+If the range of the projectile is $120$m and its time of flight is $4$sec , determine the angle of projection and its initial velocity of projection assuming that the acceleration due to gravity $g=10$m$/s$. 
+
+State the principles on which the rocket propulsion is based. 
+
+A jet engine on a test bed takes in $40$kg of air per second at a velocity of $100$m$/s$  and burns $0.80$kg of fuel per second. After compression and heating the exhaust gases are ejected at $600$m$/s$ relative to the air craft. Calculate the thrust of the engine.
+
+An object of mass $2$kg is attached to the hook of a spring balance which is suspended vertically to the roof of a lift.  What is the reading on the spring balance when the lift is:
+(i) going up with the rate of $0.2m/s^{2}$
+(ii) going down with an acceleration of $0.1m/s^{2}$
+(iii) ascending with uniform velocity of $0.15$ m$/$s
+
+Define the term inertia.
+
+Why is Newton’s first law of motion called the law of inertia?
+
+ A jet of of water from a fire hose is capable of reaching a height of $20$m.  If the cross sectional area of the hose outlet is $4.0	imes 10^{-4}m^{2}$ , calculate the:
+(i) Minimum speed of water from the hose.
+(ii) Mass of water leaving the hose each second.
+(iii) Force on the hose due to the water jet.
+
+A boy ties a string around a stone of mass $0.15$kg and then whirls it in a horizontal circle at constant speed. If the period of rotation of the stone is $0.4$sec and the length between the stone and boy’s hand is $0.50$m ;
+(i) Calculate the tension in the string. 
+(ii) State one assumption taken to reach the answer above.
+
+What do you understand by the following terms: 
+(i) Damped oscillations. 
+(ii) Undamped oscillations.
+
+Sketch the waveform diagrams to represent the terms: damped oscillations & undamped oscillations
+
+Show that the total energy of a body executing S.H.M. is independent of time.
+
+A mass of $05$kg connected to a light spring of force constant $20N/m$ oscillates on a  horizontal frictionless surface. If the amplitude of the motion $1$s $3.0$cm , calculate the;
+(i) Maximum speed of the mass.
+(ii)  Kinetic energy of the system when the displacement is $2.0$cm.
+
+What is meant by moment of inertia of a body?
+
+List two factors on which the moment of inertia of a body depends. 
+
+A thin sheet of aluminum of mass $0.032$kg has the length of $0.25$m and width of $0.1$m. Find its moment of inertia on the plane about an axis parallel to the:
+(i) Length and passing through its centre of mass, $m$.
+(ii) Width and passing through the centre of mass, $m$, in its own plane.
+
+Define the term angular momentum.
+
+A thin circular ring of mass, $M$, and radius, $r$, is rotating about its axis with constant angular velocity, $w_{1.}$  If two objects each of mass, $m$, are attached gently at the ring, what will be the angular velocity of the rotating wheel?
+
+Mention one application of parking orbit.
+
+Briefly explain how parking orbit of a satellite is achieved.
+
+The earth satellite revolves in a circular orbit at a height of $300$km above the earth’s surface.  Find the; 
+(i) Velocity of the satellite
+(ii) Period of the satellite.
+
+Why are space rockets usually launched from west to east?
+
+A spaceship is launched into a circular orbit close to the earth’s surface.  What additional velocity has to be imparted on the spaceship if order to overcome the gravitational pull?
+
+Briefly explain why: 
+(i) A body with large reflectivity is a poor emitter. 
+(ii) The earth without its atmosphere would be too cold to live.
+
+Identify two factors on which the coefficient of thermal conductivity of a material depend.
+
+A brass boiler of base area $1.50	imes 10^{-1}$ and thickness $1.0$cm boils water at a rate of $6.0$kg/min when placed on a gas Stove. Estimate the temperature of the part of the flame in contact with the boiler.
+
+Briefly describe the working principle of a thermocouple. 
+
+In a certain thermocouple thermometer the e.m.f. is given by $E=$ a $\theta + ½ $b\theta ^{2}$ where $\theta $ is the temperature of hot junction. If a$=10 mV^{\circ}C^{-2}$ , $b=-1/20 mV^{\circ}C^{-2}$ and the cold junction is at $0^{\circ}$C, calculate the neutral temperature. 
+
+What is meant by thermal radiation?
+
+Briefly explain why forced convection is necessary for excess temperate less than $20$K? 
+
+Why is the energy of thermal radiation less than that of visible light? 
+
+A body with a surface area of $5.0 cm^{2}$ and a temperature of $727^{\circ}$C radiates $300$ joules of energy in one minute. Calculate its emissivity.
+
+State Newton’s law of cooling. 
+
+A body cools from $70^{\circ}$C to $40^{\circ}$C in $5$ minutes. If the temperature of the surroundings is $10^{\circ}$C , Calculate the time it takes to cool from $50^{\circ}$C to $20^{\circ}$C.  
+
+Define the term junction as applied in electrical network.
+
+What ts the physical significance of Kirchhoff’s first law.
+
+Why is Kirchhoff’s second law sometimes referred to as the voltage law?
+
+List down five points to be considered when applying Kirchhoff’s second law in formulating analytical problems or equations.
+
+Study the circuit diagram in Figure $1$ then answer the questions that follow:
+### insert diagram here ###
+(i)  How many loops are there in the circuit
+(ii)  Find the current flowing through $2\Omega $ , $4\Omega $ , and $8\Omega $ resistors.
+
+What is meant by the following terms:
+(i)  Phase of alternating e.m.f.
+(ii)  Root mean square (r.m.s.) value of alternating e.m.f.
+
+An a.$c$. circuit consits of a pure resistance of $10\Omega $ is connected across an a.$c$. supply of $230$V , $50$Hz.  Calculate the;
+(i) Current flowing in the circuit.
+(ii) Power dissipated
+
+A $25\mu F$ capacitor, a $0.10$H inductor and a $25\Omega $ resistor are connected in series with an a.$c$. source whose e.m.f. is given by $E=310 \$g$<$1$>$314t)$.  Determine the;
+(i) Frequency of the e.m.f.
+(ii) Net reactance of the circuit.
+
+What is the importance of doping as applied to semiconductors?
+
+Distinguish between $n-$type and $p-$type semiconductors.  Give three points.
+
+Why are transistors mostly used in common emitter arrangement?
+
+When does a transistor amplifier work as an oscillator?
+
+Explain the use of an op-amp as a summing amplifier.
+
+The figure below is an operational amplifier circuit where $R_{1}=39k\Omega $ , $R_{2}=4.7k\Omega $ , $R_{3}=10k\Omega $ , $R_{4}=2.7k\Omega $ 
+### Insert circuit here ###
+Calculate the output potential $V_{0,}$ given that the input voltage $V_{1,}=4.0$V, $V_{2,}=-2.5$V, and $V_{3}=1.5$V
+
+Name three electronic circuits in which multivibrators can be constructed.
+List down three types of multivibrators.
+Briefly explain the applications of multivibrators listed above.
+
+Mention two characteristics of op-amps.
+
+Briefly explain why op-amps are sometimes called differential amplifiers?
+
+Discuss the mode of action of each of the following sensors:
+(i) Thermistor (TH).
+(ii) Light Dependent Resistor (LDR).
+
+Give symbols, expressions and truth tables for each of the following logic gates: 
+(i) NAND gate .
+(ii) Exclusive NOR gate.
+
+Why is NAND gate considered as basic building block for a variety of logic circuits?
+
+Produce a truth table for the gate shown below, hence show that it behaves as AND gate.
+### Insert image here ###
+
+What is meant by aerial environment?  Give two examples.
+
+Describe three ways at which the aerial environment is threatened.
+
+Briefly explain three major concepts on solar wind.
+
+How do soil environmental components influence plant growth? Give four points.

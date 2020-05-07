@@ -2,11 +2,11 @@
 
 Define the term dimension of a physical quantity.
 
-The number of particles $n$ crossing a unit area perpendicular to $x=$axis in a unit time is given as $n=-D(n_{2-n_1}/(x_{2-x_1}$ where $n_{1}$ and $n_{2}$ are the number of particles per unit volume for the values of $x_{1}$ and $x_{2}$ respectively.  What are the dimensions of diffusion constant $D$?
+The number of particles $n$ crossing a unit area perpendicular to $x-$axis in a unit time is given as $n=-D(n_{2}-n_{1})/(x_{2}-x_{1})$ where $n_{1}$ and $n_{2}$ are the number of particles per unit volume for the values of $x_{1}$ and $x_{2}$ respectively.  What are the dimensions of diffusion constant $D$?
 
 Give two basic rules of dimensional analysis. 
 
-The frequency, $f$ of a vibrating string depends upon the force applied, $F$, the length, $l$, of the string and the mass per unit length,$\mu $. Using dimension show how $f$ is related to $F$, $l$ and$\mu $.
+The frequency, $f$ of a vibrating string depends upon the force applied, $F$, the length, $l$, of the string and the mass per unit length,$\mu $. Using dimension show how $f$ is related to $F$, $l$ and $\mu $.
 
 What is meant by least count of a measurement?
 
@@ -14,22 +14,22 @@ The period of oscillation of a simple pendulum is given by $T=2\pi\sqrt{l/g}$ wh
 
 Mention two characteristics of projectile motion.
 
-If the range of the projectile is $120$m and its time of flight is $4$sec , determine the angle of projection and its initial velocity of projection assuming that the acceleration due to gravity $g=10$m$/s$. 
+If the range of the projectile is $120$m and its time of flight is $4$ sec , determine the angle of projection and its initial velocity of projection assuming that the acceleration due to gravity $g=10$ m$/$s. 
 
 State the principles on which the rocket propulsion is based. 
 
-A jet engine on a test bed takes in $40$kg of air per second at a velocity of $100$m$/s$  and burns $0.80$kg of fuel per second. After compression and heating the exhaust gases are ejected at $600$m$/s$ relative to the air craft. Calculate the thrust of the engine.
+A jet engine on a test bed takes in $40$kg of air per second at a velocity of $100$ m$/$s  and burns $0.80$kg of fuel per second. After compression and heating the exhaust gases are ejected at $600$m$/$s relative to the air craft. Calculate the thrust of the engine.
 
 An object of mass $2$kg is attached to the hook of a spring balance which is suspended vertically to the roof of a lift.  What is the reading on the spring balance when the lift is:
-(i) going up with the rate of $0.2m/s^{2}$
-(ii) going down with an acceleration of $0.1m/s^{2}$
-(iii) ascending with uniform velocity of $0.15m/s$
+(i) going up with the rate of $0.2$ m$/$s$^{2}$
+(ii) going down with an acceleration of $0.1$ m$/$s$^{2}$
+(iii) ascending with uniform velocity of $0.15$ m$/$s
 
 Define the term inertia.
 
 Why is Newton’s first law of motion called the law of inertia?
 
- A jet of of water from a fire hose is capable of reaching a height of $20$m.  If the cross sectional area of the hose outlet is $4.0$x$10^{-4}m^{2}$ , calculate the:
+ A jet of of water from a fire hose is capable of reaching a height of $20$m.  If the cross sectional area of the hose outlet is $4.0	\times 10^{-4}$m$^{2}$ , calculate the:
 (i) Minimum speed of water from the hose.
 (ii) Mass of water leaving the hose each second.
 (iii) Force on the hose due to the water jet.
@@ -46,7 +46,7 @@ Sketch the waveform diagrams to represent the terms: damped oscillations & undam
 
 Show that the total energy of a body executing S.H.M. is independent of time.
 
-A mass of $05$kg connected to a light spring of force constant $20N/m$ oscillates on a  horizontal frictionless surface. If the amplitude of the motion $1$s $3.0$cm , calculate the;
+A mass of $05$kg connected to a light spring of force constant $20$N$/$m oscillates on a  horizontal frictionless surface. If the amplitude of the motion $1$s $3.0$cm , calculate the;
 (i) Maximum speed of the mass.
 (ii)  Kinetic energy of the system when the displacement is $2.0$cm.
 
@@ -60,7 +60,7 @@ A thin sheet of aluminum of mass $0.032$kg has the length of $0.25$m and width o
 
 Define the term angular momentum.
 
-A thin circular ring of mass, $M$, and radius, $r$, is rotating about its axis with constant angular velocity, $w_{1.}$  If two objects each of mass, $m$, are attached gently at the ring, what will be the angular velocity of the rotating wheel?
+A thin circular ring of mass, $M$, and radius, $r$, is rotating about its axis with constant angular velocity, $w_{1}$.  If two objects each of mass, $m$, are attached gently at the ring, what will be the angular velocity of the rotating wheel?
 
 Mention one application of parking orbit.
 
@@ -80,11 +80,11 @@ Briefly explain why:
 
 Identify two factors on which the coefficient of thermal conductivity of a material depend.
 
-A brass boiler of base area $1.50$x$10^{-1}$ and thickness $1.0$cm boils water at a rate of $6.0$kg/min when placed on a gas Stove. Estimate the temperature of the part of the flame in contact with the boiler.
+A brass boiler of base area $1.50\times 10^{-1}$ and thickness $1.0$cm boils water at a rate of $6.0$ kg$/$min when placed on a gas Stove. Estimate the temperature of the part of the flame in contact with the boiler.
 
 Briefly describe the working principle of a thermocouple. 
 
-In a certain thermocouple thermometer the e.m.f. is given by $E=$ a $\theta + ½ $b\theta ^{2}$ where $\theta $ is the temperature of hot junction. If a$=10 mV^{\circ}C^{-2}$ , $b=-1/20 mV^{\circ}C^{-2}$ and the cold junction is at $0^{\circ}$C, calculate the neutral temperature. 
+In a certain thermocouple thermometer the e.m.f. is given by $E= a \theta + 1/2 b\theta^{2}$ where $\theta $ is the temperature of hot junction. If a$=10 $mV$^{\circ}C^{-2}$ , $b=-1/20 $mV$^{\circ}C^{-2}$ and the cold junction is at $0^{\circ}$C, calculate the neutral temperature. 
 
 What is meant by thermal radiation?
 
@@ -92,7 +92,7 @@ Briefly explain why forced convection is necessary for excess temperate less tha
 
 Why is the energy of thermal radiation less than that of visible light? 
 
-A body with a surface area of $5.0 cm^{2}$ and a temperature of $727^{\circ}$C radiates $300$ joules of energy in one minute. Calculate its emissivity.
+A body with a surface area of $5.0 $cm$^{2}$ and a temperature of $727^{\circ}$C radiates $300$ joules of energy in one minute. Calculate its emissivity.
 
 State Newton’s law of cooling. 
 
@@ -115,11 +115,11 @@ What is meant by the following terms:
 (i)  Phase of alternating e.m.f.
 (ii)  Root mean square (r.m.s.) value of alternating e.m.f.
 
-An a.$c$. circuit consits of a pure resistance of $10\Omega $ is connected across an a.$c$. supply of $230$V , $50$Hz.  Calculate the;
+An a.c. circuit consists of a pure resistance of $10\Omega $ is connected across an a.c. supply of $230$V , $50$Hz.  Calculate the;
 (i) Current flowing in the circuit.
 (ii) Power dissipated
 
-A $25\mu F$ capacitor, a $0.10$H inductor and a $25\Omega $ resistor are connected in series with an a.$c$. source whose e.m.f. is given by $E=310 \$g$<$1$>$314t)$.  Determine the;
+A $25\mu$F capacitor, a $0.10$H inductor and a $25\Omega $ resistor are connected in series with an a.c. source whose e.m.f. is given by $E=310 \sin(314t)$.  Determine the;
 (i) Frequency of the e.m.f.
 (ii) Net reactance of the circuit.
 
@@ -133,9 +133,9 @@ When does a transistor amplifier work as an oscillator?
 
 Explain the use of an op-amp as a summing amplifier.
 
-The figure below is an operational amplifier circuit where $R_{1}=39k\Omega $ , $R_{2}=4.7k\Omega $ , $R_{3}=10k\Omega $ , $R_{4}=2.7k\Omega $ 
+The figure below is an operational amplifier circuit where $R_{1}=39$k$\Omega $ , $R_{2}=4.7$k$\Omega $ , $R_{3}=10$k$\Omega $ , $R_{4}=2.7$k$\Omega $ 
 ### Insert circuit here ###
-Calculate the output potential $V_{0,}$ given that the input voltage $V_{1,}=4.0$V, $V_{2,}=-2.5$V, and $V_{3}=1.5$V
+Calculate the output potential $V_{0}$, given that the input voltage $V_{1,}=4.0$V, $V_{2}=-2.5$V, and $V_{3}=1.5$V
 
 Name three electronic circuits in which multivibrators can be constructed.
 List down three types of multivibrators.

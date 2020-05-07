@@ -6,7 +6,7 @@ The frequency $n$ of vibration of a stretched string is a function of its tensio
 
 What causes systematic errors in an experiment? Give four points. 
 
-Estimate the numerical value of drag force $D=$ ½ $C\rho $ A V^{2}$ with its associated error given that the measurements of the quantities $C$ , A , $\rho $ and v were recorded as $(10\pm 0.00)$ unit less $(5\pm 0.2) cm^{2}$ , $(15\pm 0.15)g/cm^{3}$ and $(3\pm 0.5)$ cm/sec^{2}$ respectively. 
+Estimate the numerical value of drag force $D= 1/2 C \rho  A V^{2}$ with its associated error given that the measurements of the quantities $C$ , $A$ , $\rho $ and $v$ were recorded as $(10\pm 0.00)$ unit less $(5\pm 0.2) $cm$^{2}$ , $(15\pm 0.15)$g$/$cm$^{3}$ and $(3\pm 0.5)$ cm$/$sec$^{2}$ respectively. 
 
 A rocket of mass $20$ kg has $180$ kg of fuel. If the exhaust velocity of the fuel is $1.6$ km/sec, calculate;
 (i) The minimum rate of fuel consumption that enable the rocket to rise from the ground. 
@@ -14,13 +14,13 @@ A rocket of mass $20$ kg has $180$ kg of fuel. If the exhaust velocity of the fu
 
 Determine the least number of pieces required to stop the bullet if a rifle bullet loses $1/20$ of its velocity when passing through them.
 
-A man of $100$ kg jumps into a swimming pool from a height of $5m$. If it takes O.4 seconds for the water in a pool to reduce its velocity to zero, what average force did  the water exert on the man? 
+A man of $100$ kg jumps into a swimming pool from a height of $5$m. If it takes $O.4$ seconds for the water in a pool to reduce its velocity to zero, what average force did  the water exert on the man? 
 
 Justify the statement that projectile motion is two dimensional motion.
 
-A rocket was launched with a velocity of $50m/s$ from the surface of the moon at an angle of $40^{\circ}$ to the horizontal, Calculate the horizontal distance covered  after half time of flight.
+A rocket was launched with a velocity of $50$ m$/$s from the surface of the moon at an angle of $40^{\circ}$ to the horizontal, Calculate the horizontal distance covered  after half time of flight.
 
-Show that the angle of projection $\theta ^{\circ}$ for a projectile launched from the origin is given by $\theta ^{\circ}=$ tan^{-1}(4h_{m}/R)$ , where $R$ stand for horizontal range and $h_{m}$ is the maximum vertical height.
+Show that the angle of projection $\theta ^{\circ}$ for a projectile launched from the origin is given by $\theta ^{\circ}= tan^{-1}(4h_{m}/R)$ , where $R$ stand for horizontal range and $h_{m}$ is the maximum vertical height.
 
 Determine the angle of projection for which the horizontal range of a projectile is $4\sqrt{3}$ times its maximum height. 
 
@@ -30,13 +30,13 @@ Why the velocity and acceleration of a body executing simple harmonic motion are
 
 The period of a particle executing simple harmonic motion (S.H.M) is $3$ seconds. If its amplitude is $25$ cm, calculate the time taken by the particle to move a distance of $12.5$ cm on either side from the mean position.
 
-A person weighing $50$ kg stands on a platform which oscillates with a frequency of $2$ Hz and of amplitude $0.05m$. Find his/her minimum weight as recorded by a machine of the platform. 
+A person weighing $50$ kg stands on a platform which oscillates with a frequency of $2$ Hz and of amplitude $0.05$m. Find his/her minimum weight as recorded by a machine of the platform. 
 
 In which aspect does circular motion differ from linear motion? 
 
 Why there must be a force acting on a particle moving with uniform speed in a circular path? 
 
-The Figure below  shows a particle moving in a semi-circular path AB of radius $6m$ with constant speed of $12m/s$. Calculate its average velocity. 
+The Figure below  shows a particle moving in a semi-circular path AB of radius $6$m with constant speed of $12$ m$/$s. Calculate its average velocity. 
 ### Insert Figure Here ###
 
 A stone tied to the end of string $80$ cm long, is whirled in a horizontal circle with a constant speed making $25$ revolutions in $14$ seconds. Determine the magnitude of its acceleration. 
@@ -48,7 +48,7 @@ How far above the earth surface does the value of acceleration due to gravity be
 Compute the period of revolution of a satellite revolving in a circular orbit at a height of $3400$ km above the Earth’s surface. 
 
 Prove that the angular momentum fora satellite of mass $M_{s}$ revolving round the
-earth of mass $M_{e}$ in an orbit of radius $r$ is equal to $(GM_{e}$  $M_{s}^{2}r)^{1/2}$.
+earth of mass $M_{e}$ in an orbit of radius $r$ is equal to $(G M_{e}$  $M_{s}^{2}r)^{1/2}$.
 
 Why water is preferred as a cooling agent in many automobiles?
 
@@ -56,26 +56,26 @@ A thermometer has wrong calibration as it reads the melting point of ice as $-10
 
 Analyze  three practical applications of thermal expansion of solids in daily life situations.
 
-A closed metal vessel containing water at $75^{\circ}$C , has a surface area of $0.5m^{2}$ and uniform thickness of $4.0$ mm.  If its outside temperature is $15^{\circ}$C , calculate the head loss per minute by conduction.
+A closed metal vessel containing water at $75^{\circ}$C , has a surface area of $0.5$m$^{2}$ and uniform thickness of $4.0$ mm.  If its outside temperature is $15^{\circ}$C , calculate the head loss per minute by conduction.
 
 Sketch the graph to illustrates how the energy radiated by a black body is distributed among various wavelengths. 
 What information would be drawn from the graph above? Give three points.
 
 Why stainless steel cooking pans are made with extra copper at the bottom?
 
-At what temperature will the filament of a $10W$ lamp operate if it is supposed to be a perfectly black body of area  $1 cm^{2}$ ? 
+At what temperature will the filament of a $10$W lamp operate if it is supposed to be a perfectly black body of area  $1 $cm$^{2}$ ? 
 
 Elaborate three significance of dielectric material in a capacitor. 
 
 Give the reason behind a loss of electrical energy when two capacitors are joined either in series or parallel. 
 
-A researcher has $2g$ of gold and wishes to form it into a wire having a resistance of $80\Omega $ at $0^{\circ}$C . How long should the wire be? 
+A researcher has $2$g of gold and wishes to form it into a wire having a resistance of $80\Omega $ at $0^{\circ}$C . How long should the wire be? 
 
 What is the potential difference between two points if $5$ Joules of work are required to move $10$ Coulombs from one point to another? 
 
 Why does a room light turn on at once when the switch is closed? Give comment.
 
-A current of $3.0$ mA flows in a Television resistor $R$ when a potential difference of $6.0V$ is connected across its terminals. Determine the value of conductance.
+A current of $3.0$ mA flows in a Television resistor $R$ when a potential difference of $6.0$V is connected across its terminals. Determine the value of conductance.
 
 The circuit diagram in the Figure below contains a capacitor, resistors and three cells of negligible internal resistance.
 ### Insert Figure here ###
@@ -97,7 +97,7 @@ Give one application of each type of OP-AMP described above.
 
 Figure $4$ shows the diagram of a non-inverting amplifier with input and output voltages
 ### Insert Figure Here ###
-Determine the closed loop voltage gain, $G_{ain}$ of the amplifier given that $G_{ain}=1+ R$2/$R$1$ .
+Determine the closed loop voltage gain, $G_{ain}$ of the amplifier given that $G_{ain}=1+ R2/R1$ .
 Use the Figure to show how the given expression above is derived. 
 
 Identify three basic elements of a communication system. 
@@ -106,7 +106,7 @@ Why sky waves are not used for transmission of TV signals?
 
 The Figure below shows the essential components of a transmitter for radio broadcasting.
 ### Insert Figure here ###
-What role does each of the component labeled A, $B$, $C$, $D$, and $E$ play to facilitate the communication system?
+What role does each of the component labeled $A$, $B$, $C$, $D$, and $E$ play to facilitate the communication system?
 
 What 's meant by epicentre and wind belt as used in Geophysics? 
 

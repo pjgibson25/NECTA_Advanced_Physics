@@ -1,0 +1,8 @@
+post edit notes:
+
+$\Omega $'s Law ----> Ohm's law
+
+$10$cm ----> $ 10$ cm
+# adding space after dollar signs does not affect spacing within mathmode but will outside.  Creates uniform space after math text.
+
+

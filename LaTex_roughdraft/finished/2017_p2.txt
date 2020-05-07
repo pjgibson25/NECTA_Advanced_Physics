@@ -12,7 +12,7 @@ Derive an expression for the terminal velocity of a spherical body falling  from
 
 Two capillaries of the same length and radii in the ratio of $1$: $2$ are connected in series and the liquid flow through the system under stream line conditions. If the pressure across the two extreme ends of the combination is  $1m$ of water, what is the pressure difference across the first capillary?
 
-A cyclist and a railway train are approaching each other with a speed of $10m/s$ and $20m/s$ respectively. If the engine driver sounds a warning siren at a frequency of  $480$ Hz, calculate the frequency of the noise heard by the cyclist:
+A cyclist and a railway train are approaching each other with a speed of $10$ m$/$s and $20$ m$/$s respectively. If the engine driver sounds a warning siren at a frequency of  $480$ Hz, calculate the frequency of the noise heard by the cyclist:
 (i) Before the train has passed.
 (ii) After the tram has passed. 
 
@@ -91,7 +91,7 @@ It is desired to design a solenoid that produces a magnetic field of $0.1T$ at t
 
 State the Biot-Savart law. 
 
-In a hydrogen atom, an electron keeps moving around its nucleus with a constant speed of $2.18 \times 10^{6}m/s$. Assuming that the orbit is a circular of radius $5.3 \times 10^{-11}m$. determine the magnetic flux density produced at the site of the proton in the nucleus. 
+In a hydrogen atom, an electron keeps moving around its nucleus with a constant speed of $2.18 \times 10^{6}$ m$/$s. Assuming that the orbit is a circular of radius $5.3 \times 10^{-11}m$. determine the magnetic flux density produced at the site of the proton in the nucleus. 
 
 Use the Rydberg constant, $R_{H}=1.0974 \times 10^{7}m^{-1}$ to calculate the shortest wavelength of the Balmer series. 
 
