@@ -36,7 +36,7 @@ Cite two examples of SHM which are of importance to everyday life experience.
 What does one require in order to establish a scale of temperature?
 
 A copper-constantan thermocouple with its cold junction at $ 0^{\circ}$C had an emf of $ 4.28$ mV when its other hot junction was at $ 100^{\circ}$C. The emf became $ 9.29$ mV when the temperature of the hot junction was $ 200^{\circ}$C. If the emf $ E$ is related to the temperature difference $ 8$ between hot and cold junctions by the equation $ E= A(\theta )+B(\theta ^{2})$ , calculate:
-The values of A and $ B$ .
+The values of $ A$ and $ B$ .
 The range of temperature for which $ E$ may be assumed proportional to $ 8$ without incurring an error of more than $ 1\%$ .
 
 The resistance $ R$ , of a platinum varies with temperature $ t$ according to the equation $ R_{t}=R_{o}(1+8000bt -b t^{2})$ where $ b$ is a constant. Calculate the temperature on platinum scale corresponding to $ 400^{\circ}$C on the gas scale. 

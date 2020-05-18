@@ -96,7 +96,7 @@ A $ 100$ V battery terminals are connected to two large and parallel plates whic
 
 Mention any three uses of a transistor
 
-A certain transistor has a current gain $ \$ \beta =55$ . If it is used in a circuit with common-base configuration, how much change occurs in the collector current if an emitter current is changed by $ 100$ micro A? (Assume the collector potential to be constant and neglect the small collector — current due to the minority current carriers).
+A certain transistor has a current gain $ $ \beta =55$ . If it is used in a circuit with common-base configuration, how much change occurs in the collector current if an emitter current is changed by $ 100$ micro A? (Assume the collector potential to be constant and neglect the small collector — current due to the minority current carriers).
 
 What is an operational amplifier 
 

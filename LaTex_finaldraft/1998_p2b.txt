@@ -59,7 +59,7 @@ Give the S.I units of self inductance.
 
 Derive an expression for the coefficient of self induction of a uniformly wound solenoid; of length $ 1$ , cross-sectional area A having $ N$ turns in air.
 
-Two coils A and $ B$ have $ 200$ and $ 800$ turns respectively. A current of $ 2$ amperes in A produces a magnetic flux of $ 1.8 \times 10^{-4}$ Wb in each turn of $ B$ . Compute:
+Two coils $ A$ and $ B$ have $ 200$ and $ 800$ turns respectively. A current of $ 2$ amperes in A produces a magnetic flux of $ 1.8 \times 10^{-4}$ Wb in each turn of $ B$ . Compute:
 (i) the mutual inductance.
 (ii) the magnetic flux through A when there is a current of $ 4.0$ amperes in $ B$ and
 (iii) the emf induced in $ B$ when the current in A changes from $ 3$ amperes to $ 1$ ampere in $ 0.2$ seconds.

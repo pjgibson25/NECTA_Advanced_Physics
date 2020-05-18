@@ -96,7 +96,7 @@ Describe the action of dielectric in a capacitor.
 
 The electric field intensity inside a capacitor is $ E$ . What is the work done in displacing a charge $ q$ over a closed rectangular surface?
 
-A capacitor of $ 12\$ $mu$F is connected in series with a resistor of $ 0.7$ M$ \Omega $ across a $ 250$ V d.c supply. Calculate the current and p.d across the capacitor after $ 4.2$ seconds.
+A capacitor of $ 12$ $\mu$F is connected in series with a resistor of $ 0.7$ M$ \Omega $ across a $ 250$ V d.c supply. Calculate the current and p.d across the capacitor after $ 4.2$ seconds.
 
 Explain the following observations:
 A dressing table mirror becomes dusty when wiped with a dry cloth on a warm day.

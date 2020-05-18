@@ -99,7 +99,7 @@ A $ 60$ V, $ 10$ W lamp is to be run on $ 100$ V, $ 60$ Hz A.C mains.
 (ii) If a resistor is used in above instead of choke, what will be value of its resistance.
 
 An LCR circuit with $ R=70\Omega$ in series with a parallel combination of $ L=1.5$ H and
-$ C=30\$ $mu$F is driven by a $ 230$ V supply with angular frequency of $ 300$ rad$/$s.
+$ C=30$ $\mu$F is driven by a $ 230$ V supply with angular frequency of $ 300$ rad$/$s.
 $ (1)$ Find the power in put to the circuit. 
 (ii)  At the frequency $ \omega_{o}=1/(\sqrt{LC})$ , how does the circuit respond?
 

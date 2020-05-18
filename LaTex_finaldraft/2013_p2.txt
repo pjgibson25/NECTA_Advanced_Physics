@@ -83,7 +83,7 @@ A toroid of inner radius $ 25$ cm and an outer radius of $ 28$ cm has $ 4500$ tu
 
 Derive an expression for impedance of a series $ R-C$ circuit. 
 
-An alternating current (a.c) of $ 0.2$ A r.m.s and frequency of $ 110/2\pi$ Hz flow in a circuit containing a series arrangement of a resistor $ R$ of resistance $ 20\Omega$ , an inductor $ L$ of $ 0.15$ H and a capacitor $ C$ of capacitance $ 500\$ $mu$F . Calculate the potential difference (p.d) and the impedence of the circuit.
+An alternating current (a.c) of $ 0.2$ A r.m.s and frequency of $ 110/2\pi$ Hz flow in a circuit containing a series arrangement of a resistor $ R$ of resistance $ 20\Omega$ , an inductor $ L$ of $ 0.15$ H and a capacitor $ C$ of capacitance $ 500$ $\mu$F . Calculate the potential difference (p.d) and the impedence of the circuit.
 
 What is meant by transistor action?
 

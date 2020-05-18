@@ -8,7 +8,7 @@ Basing on the applications of Bernoulli’s principle, briefly explain why two s
 
 A sphere is dropped under gravity through a fluid of viscosity,$ \eta $ .  Taking average acceleration as half of the initial acceleration, show that the time taken to attain terminal velocity is independent of fluid density.
 
-Water is flowing through a horizontal pipe having different cross-sections at two points A and $ B$ .  The diameters of the ippe at A and $ B$ are $ 0.6$ m and $ 0.2$ m respectively.   The pressure difference between points A and $ B$ is $ 1$ m column of water.  Calculate the volume of water flowing per second.
+Water is flowing through a horizontal pipe having different cross-sections at two points $ A$ and $ B$ .  The diameters of the ippe at $ A$ and $ B$ are $ 0.6$ m and $ 0.2$ m respectively.   The pressure difference between points $ A$ and $ B$ is $ 1$ m column of water.  Calculate the volume of water flowing per second.
 
 The flow rate of water from a tap of diameter $ 1.25$ cm is $ 3$ litres per minute.  The coefficient of viscosity of water is $ 10^{-3}$ Ns/m$ ^{2}$ .  Determine the Reynolds’ number and then state the type of flow of water.
 
@@ -59,9 +59,9 @@ Differentiate electric potential from electric potential difference.
 
 Sketch a graph of variation of electrical potential from the centre of a hollow charged conducting sphere of radius, $ r$ , up to infinity.  Explain the shape of the graph.
 
-Two bodies A and $ B$ are $ 0.1$ m apart.  A point charge of $ 3\times 10^{-3}\$ $mu$C is placed at A and a point charge of $ 1\times 10^{-9}\mu C$ is placed at $ B$ .  $ C$ is the point on the straight line between $ A$ and $ B$ , where the electric potential is zero.  Calculate the distance between $ A$ and $ C$ .
+Two bodies $ A$ and $ B$ are $ 0.1$ m apart.  A point charge of $ 3\times 10^{-3}$ $\mu$C is placed at A and a point charge of $ 1\times 10^{-9}\mu C$ is placed at $ B$ .  $ C$ is the point on the straight line between $ A$ and $ B$ , where the electric potential is zero.  Calculate the distance between $ A$ and $ C$ .
 
-A square ABCD has each side of $ 100$ cm.  Four points charges of $ +0.04\$ $mu$C, $ -0.05\$ $mu$C, $ +0.06\$ $mu$C, and $ +0.05\$ $mu$C are placed at $ A$ , $ B$ , $ C$ , and $ D$ respectively.  Calculate the electric potential at the centre of the square.
+A square ABCD has each side of $ 100$ cm.  Four points charges of $ +0.04$ $\mu$C, $ -0.05$ $\mu$C, $ +0.06$ $\mu$C, and $ +0.05$ $\mu$C are placed at $ A$ , $ B$ , $ C$ , and $ D$ respectively.  Calculate the electric potential at the centre of the square.
 
 What do you understand by dielectric constant?
 
@@ -69,7 +69,7 @@ When are the capacitors said to be connected in parallel?
 
 The parallel plate capacitor consisting of two metal plates each of area $ 20$ cm$ ^{2}$ placed at $ 1$ cm apart are connected to the terminals of an electrostatic voltmeter.  The system is charged to give a reading of $ 120$ V on the voltmeter scale.  When the space between the plates is filled with a glass of dielectric constant of $ 5$ , the voltmeter reading falls to $ 50$ V.  What is the capacitance of the voltmeter?  You may assume that volutage recorded by a voltmeter is directly proportional to the scale reading.
 
-A $ 4.0\$ $mu$F capacitor is charged by $ 12$ V supply and is then discharged through $ 1.5M\Omega $ resistor.  
+A $ 4.0$ $\mu$F capacitor is charged by $ 12$ V supply and is then discharged through $ 1.5M\Omega $ resistor.  
 (i) Obtain the time constant.
 (ii) Calculate the charge on the capacitor at the start of the discharge.
 (iii) What will the value of the charge on the capacitor, the potential difference across the capacitor and the current in the circuit be $ 2$ seconds after the discharge starts?

@@ -119,7 +119,7 @@ An a.c. circuit consists of a pure resistance of $ 10\Omega $ is connected acros
 (i) Current flowing in the circuit.
 (ii) Power dissipated
 
-A $ 25\$ $mu$F capacitor, a $ 0.10$ H inductor and a $ 25\Omega $ resistor are connected in series with an a.c. source whose e.m.f. is given by $ E=310 \sin(314t)$ .  Determine the;
+A $ 25$ $\mu$F capacitor, a $ 0.10$ H inductor and a $ 25\Omega $ resistor are connected in series with an a.c. source whose e.m.f. is given by $ E=310 \sin(314t)$ .  Determine the;
 (i) Frequency of the e.m.f.
 (ii) Net reactance of the circuit.
 

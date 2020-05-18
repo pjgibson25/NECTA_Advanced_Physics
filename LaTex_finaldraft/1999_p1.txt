@@ -67,7 +67,6 @@ State Kirchhoff’s laws of circuit analysis
 Determine the magnitudes of $ I​_{1​}$ and $ I​_{3​}$ .
 
 Write down an expression for the forces on an electron when moving perpendicular to: an electric field
-
 Write down an expression for the forces on an electron when moving perpendicular to: a magnetic field.
 
 An electron is moving in a uniform electric field of intensity $ 1.2 \times 10^5$ Vm​ $ -1$ .  Find the acceleration of the electron.

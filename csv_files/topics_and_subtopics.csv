@@ -1,0 +1,51 @@
+topic,subtopic,number
+Measurement,Physical Quantities,1.1
+Measurement,Errors,1.2
+Mechanics,Newton’s Laws of Motion,2.1
+Mechanics,Projectile Motion,2.2
+Mechanics,Uniform Circular Motion,2.3
+Mechanics,Simple Harmonic Motion,2.4
+Mechanics,Gravitation,2.5
+Mechanics,Rotation of Rigid Bodies,2.6
+Fluid Dynamics,Streamline Flow and Continuity,3.1
+Fluid Dynamics,Bernoulli's Principle,3.2
+Fluid Dynamics,Viscosity and Turbulent Flow,3.3
+Properties of Matter,Surface Tension,4.1
+Properties of Matter,Elasticity,4.2
+Properties of Matter,Kinetic Theory of Gases,4.3
+Heat,Thermometers,5.1
+Heat,Thermal Conduction,5.2
+Heat,Thermal Convection,5.3
+Heat,Thermal Radiation,5.4
+Heat,First Law of Thermodynamics,5.5
+Vibrations and Waves,Mechanical Vibrations,6.1
+Vibrations and Waves,Wave Motion,6.2
+Vibrations and Waves,Sound,6.3
+Vibrations and Waves,Electromagnetic Waves (em-waves),6.4
+Vibrations and Waves,Physical Optics (interferance/diffraction/polarization),6.5
+Vibrations and Waves,Doppler Effect,6.6
+Electrostatics,The Electric Field,7.1
+Electrostatics,Electric Potential,7.2
+Electrostatics,Capacitance,7.3
+Electromagnetism,Magnetic Fields,8.1
+Electromagnetism,Magnetic Properties of Materials,8.2
+Electromagnetism,Magnetic Forces,8.3
+Electromagnetism,Electromagnetic Induction,8.4
+Electromagnetism,Magnetic Field of the Earth,8.5
+Current Electricity,Electric Conduction in Metals,9.1
+Current Electricity,Electric Conduction in Gases,9.2
+Current Electricity,Alternating Current (ac),9.3
+Electronics,The Band Theory of Solids,10.1
+Electronics,Semiconductors,10.2
+Electronics,Transistors,10.3
+Electronics,Logic Gates,10.4
+Electronics,Operational Amplifiers,10.5
+Electronics,Telecommunication,10.6
+Atomic Physics,Structure of the Atom,11.1
+Atomic Physics,Quantum Physics,11.2
+Atomic Physics,LASER,11.3
+Atomic Physics,Nuclear Physics,11.4
+Environmental Physics,Agricultural Physics,12.1
+Environmental Physics,Energy from the environment,12.2
+Environmental Physics,Earthquakes,12.3
+Environmental Physics,Environmental Pollution,12.4

@@ -72,7 +72,7 @@ A parallel plate capacitor with air as a dielectric has plates of area $ 4.0 \ti
 
 Derive an expression for the total capacitance of two capacitors $ C_{1}$ and $ C_{2}$ connected in series. 
 
-Two capacitor of $ 15\$ $mu$F and $ 20\$ $mu$F are connected in series with a $ 600$ V supply.  Calculate the charge and Potential difference across each capacitor. 
+Two capacitor of $ 15$ $\mu$F and $ 20$ $\mu$F are connected in series with a $ 600$ V supply.  Calculate the charge and Potential difference across each capacitor. 
 
 Based on Balmer series of hydrogen spectra determine the wavelength of the series limit of Paschen series. 
 

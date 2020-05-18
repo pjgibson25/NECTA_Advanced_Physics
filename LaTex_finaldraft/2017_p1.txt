@@ -17,7 +17,7 @@ What is the basic requirement for a physical relation to be correct?
 
 List two quantities whose dimension is [ $ ML^{2}T^{-1}$ ]
 
-The frequency ‘$ f$ ’ of vibration of a stretched string depends on the tension ‘$ F$ ’, the length ‘$ l$ ’ and the mass per unit length $ \$ $mu$of the string. Derive the formula relating the physical quantities by the method of dimensions. 
+The frequency ‘$ f$ ’ of vibration of a stretched string depends on the tension ‘$ F$ ’, the length ‘$ l$ ’ and the mass per unit length $ $ $\mu$of the string. Derive the formula relating the physical quantities by the method of dimensions. 
 
 Use dimensional analysis to prove the correctness of the relation, $ \rho = \frac{3g}{4 \pi RG}$ where by $ \rho =$ density of the earth, $ g=$ acceleration due to gravity, $ R=$ radius of the earth and $ G=$ gravitational constant.
 
@@ -99,8 +99,10 @@ Briefly explain the function of the following:
 
 Study the Figure below then construct a truth table showing the output $ P$ , $ Q$ and $ R$ .
 ### Insert figure here ###
-(i)  List three basic elements of communication system. 
-(ii) Explain the advantage of using optical fibre systems instead of coaxial cable systems in telecommunication processes.
+
+List three basic elements of communication system. 
+
+Explain the advantage of using optical fibre systems instead of coaxial cable systems in telecommunication processes.
 
 Define the term semiconductor.
 Give three examples of semiconductor materials. 

@@ -145,12 +145,12 @@ Define a mass spectrometer.
 
 Ion A of mass $ 24$ and charge $ +e$ and ion $ B$ of mass $ 22$ and charge $ +2e$ both enter the magnetic field of a mass spectrometer with the same speed. If the radius of A is $ 2.5 \times 10^{-1}m$ , calculate the radius of the circular path of $ B$ . 
 
-In a paper manufacturing plant, a paper passes between a $ \$ \beta -$ source and the detector.
+In a paper manufacturing plant, a paper passes between a $ $ \beta -$ source and the detector.
 Refer to the Figure below.
 ### Insert Figure here ###
 (i) How will the detector system respond to an increase in thickness of paper? 
 (ii) What do you think, in your opinion, the control system will have to do in such an event?
-(iii) Give a concise explanation of how the $ \$ \beta -$ source and the detector are used for quality control in this manufacturing plant.
+(iii) Give a concise explanation of how the $ $ \beta -$ source and the detector are used for quality control in this manufacturing plant.
 
 If the ratio of mass of lead – $ 206$  to mass of uranium – $ 238$ in a certain rock was found to be $ 0.45$ and that the rock originally contained no lead – $ 206$ , estimate the age of the rock given that the half life of uranium – $ 238$ is $ 4.5 \times 10^{9}$ years.
 

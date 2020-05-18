@@ -44,7 +44,7 @@ State the principle of:
 
 The incident parallel light is a monochromatic beam of wavelength $ 450$ nm.  The two slits $ A$ and $ B$ have their centres, a distance of $ 0.3$ mm apart.  The screen is situated a distance of $ 2.0$ m from the slits.
 (i) Calculate the spacing between fringes observed on the screen.
-(ii) How would you expect the pattern to change when the slits A and $ B$ are each made wider?
+(ii) How would you expect the pattern to change when the slits $ A$ and $ B$ are each made wider?
 
 Describe the formation of interference patterns by using Newton’s rings experiment.
 $ D$
@@ -81,7 +81,7 @@ Mention two common properties of electric field lines.
 Two identical balls each of mass $ 0.8$ kg carry identical charge and they are separated by thread of equal length.  At equilibrium they positioned themselves at a distance of $ 1.2$ cm as shown in the Figure below.  Calculate the charge in either ball.
 ### Insert Figure here ###
 
-Two capacitors $ C_{1}$ and $ C_{2}$ each of area $ 36$ cm$ ^{2}$ separated by $ 4$ cm have capacities of $ 6\$ $mu$C and $ 8\$ $mu$C respectively.  The capacitor $ C_{1}$ is charged to a potential difference of $ 110$ V whereas the capacitor $ C_{2}$ is charged to a potential difference of $ 140$ V.  The capacitors are now joined with plates of like charges connected together.
+Two capacitors $ C_{1}$ and $ C_{2}$ each of area $ 36$ cm$ ^{2}$ separated by $ 4$ cm have capacities of $ 6$ $\mu$C and $ 8$ $\mu$C respectively.  The capacitor $ C_{1}$ is charged to a potential difference of $ 110$ V whereas the capacitor $ C_{2}$ is charged to a potential difference of $ 140$ V.  The capacitors are now joined with plates of like charges connected together.
 (i) What will be the loss of energy transferred to heat in the connecting wires?
 (ii) What will be the loss of energy per unit volume transferred to heat in the connecting wires?
 
@@ -98,7 +98,7 @@ Identify any three factors on which the capacitance of parallel plate capacitor 
 
 A proton of mass $ 16.7 \times 10^{-28}$ kg falls through a distance of $ 2.5$ cm in a uniform electric field of magnitude $ 2.65 \times 10^{4}$ V$/$m.  Determine the time of fall if the air resistance and the acceleration due to gravity, $ g$ , are neglected.
 
-A parallel plate capacitor is made of a paper $ 40$ mm wider and $ 3.0 \times 10^{-2}$ mm thick.  Determine the length of the paper sheet required to construct a capacitance of $ 15\$ $mu$F , if its relative permitting is $ 2.5$ .
+A parallel plate capacitor is made of a paper $ 40$ mm wider and $ 3.0 \times 10^{-2}$ mm thick.  Determine the length of the paper sheet required to construct a capacitance of $ 15$ $\mu$F , if its relative permitting is $ 2.5$ .
 
 State any three magnetic components of the earth’s magnetic field.
 

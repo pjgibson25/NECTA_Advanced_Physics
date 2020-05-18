@@ -115,7 +115,7 @@ situated at the corners of the square?
 
 What do you understand by an electrostatic generator?
 
-The belt of a Van de Graaf generator carries a charge of $ 100\$ $mu$C per metre.  If the diameter of the lower pulley is $ 10$ cm and its angular velocity is $ 5$ rad$/$s, what p.d. will the upper conductor attain in $ 5$ minutes if its capacitance to ground is $ 5x10^{-12}$ F and if there is no leakage of charge?
+The belt of a Van de Graaf generator carries a charge of $ 100$ $\mu$C per metre.  If the diameter of the lower pulley is $ 10$ cm and its angular velocity is $ 5$ rad$/$s, what p.d. will the upper conductor attain in $ 5$ minutes if its capacitance to ground is $ 5x10^{-12}$ F and if there is no leakage of charge?
 
 Two similar balls of mass $ m$ are hung from silk thread of length "a" and carry a similar charge $ q$ .  Assume $ \theta $ is small enough that $ X = (\frac{q^2 a}{2 \pi \epsilon_0 m g})^{1/3}$
 where $ X$ is the distance of separation.
