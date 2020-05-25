@@ -166,7 +166,7 @@ If the Earth were made of lead of relative density of $ 11.3$ kg$/$m$ ^{3}$ , wh
 Efficiency of the engine. 
 Temperature which will increase the efficiency by $ 10\%$ if the room temperature is kept at $ 27^{\circ}$C. ",2014,1,Heat,First Law of Thermodynamics,.,.,.,.,0,0
 02H,Define thermal convection.,2014,1,Heat,Thermal Convection,.,.,.,.,0,1
-02I,"Prove that at a very small temperature difference, DELTA $ T=T_{b}$ – $ T_{s}$ ,  Newton's law of cooling obeys the Stefan’s law, whereby $ T_{b}$ , is the temperature of the body and $ T_{s}$ is the temperature of the surrounding. ",2014,1,Heat,Thermal Convection,Heat,Thermal Radiation,.,.,0,0
+02I,"Prove that at a very small temperature difference, $ \Delta T=T_{b}$ – $ T_{s}$ ,  Newton's law of cooling obeys the Stefan’s law, whereby $ T_{b}$ , is the temperature of the body and $ T_{s}$ is the temperature of the surrounding. ",2014,1,Heat,Thermal Convection,Heat,Thermal Radiation,.,.,0,0
 02J,What is meant by temperature of inversion?,2014,1,Heat,Thermometers,.,.,.,.,0,1
 02K,A thermometer was wrongly calibrated as mt reads the melting point of ice as $ -10^{\circ}$C and reading a temperature of $ 60^{\circ}$C in place of $ 50^{\circ}$C What would be the temperature of boiling point of water on this scale? ,2014,1,Heat,Thermometers,.,.,.,.,0,0
 02L,"What is meant by the following terms:
@@ -218,10 +218,10 @@ Which among the transistors mentioned above responds quickly to electrical signa
 (ii) Wind
 ",2014,1,Environmental Physics,Agricultural Physics,.,.,.,.,0,1
 37,Mention two applications and two limitations of dimensional analysis.,1999,1,Measurement,Physical Quantities,.,.,.,.,0,1
-38,"The frequency $ f$ of a note produced by a taut wire stretched between two supports depends on the distance ​ $ l$ ​ between the supports, the mass per unit length of the wire,$ \mu $ , and the tension $ T$ . Use dimensional analysis to find how $ f$ is related to ​ $ l$ ​ , mu, and $ T$ .",1999,1,Measurement,Physical Quantities,.,.,.,.,0,0
+38,"The frequency $ f$ of a note produced by a taut wire stretched between two supports depends on the distance ​ $ l$ ​ between the supports, the mass per unit length of the wire,$ \mu $ , and the tension $ T$ . Use dimensional analysis to find how $ f$ is related to ​ $ l$ ​ , $\mu$, and $ T$ .",1999,1,Measurement,Physical Quantities,.,.,.,.,0,0
 39,Define momentum,1999,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,1
 03A,Define impulse of a force,1999,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,1
-03B,"A jet of water emerges from a hose pipe of a cross-sectional area $ 5.0x10^{-3}$ m​$ ^{2}$ with a velocity of $ 3.0$ m$/$s and strikes a wall at right angle. Assuming the water to be brought to rest by the wall and does not rebound, calculate the force on the wall.",1999,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
+03B,"A jet of water emerges from a hose pipe of a cross-sectional area $ 5.0\times 10^{-3}$ m​$ ^{2}$ with a velocity of $ 3.0$ m$/$s and strikes a wall at right angle. Assuming the water to be brought to rest by the wall and does not rebound, calculate the force on the wall.",1999,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
 03C,What do you understand by the term escape velocity?,1999,1,Mechanics,Gravitation,.,.,.,.,0,1
 03D,Calculate the escape velocity from the moon’s surface given that a man on the moon has $ 1/6$ his weight on earth. The mean radius of the moon is $ 1.75 \times 10^6$ m.,1999,1,Mechanics,Gravitation,.,.,.,.,0,0
 03E,Give two similarities between simple harmonic motion and circular motion.,1999,1,Mechanics,Simple Harmonic Motion,.,.,.,.,0,1
@@ -277,7 +277,7 @@ In the following nuclear reactions find the values of $ x$ , $ y$ and $ z$ .
 (i) The minimum rate of fuel consumption that enable the rocket to rise from the ground. 
 (ii) The ultimate vertical speed gained by the rocket when the rate of fuel consumption ts $ 2$ kg/sec. ",2019,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
 04J,Determine the least number of pieces required to stop the bullet if a rifle bullet loses $ 1/20$ of its velocity when passing through them.,2019,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
-04K,"A man of $ 100$ kg jumps into a swimming pool from a height of $ 5$ m. If it takes $ O.4$ seconds for the water in a pool to reduce its velocity to zero, what average force did  the water exert on the man? ",2019,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
+04K,"A man of $ 100$ kg jumps into a swimming pool from a height of $ 5$ m. If it takes $ 0.4$ seconds for the water in a pool to reduce its velocity to zero, what average force did  the water exert on the man? ",2019,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
 04L,Justify the statement that projectile motion is two dimensional motion.,2019,1,Mechanics,Projectile Motion,.,.,.,.,0,1
 04M,"A rocket was launched with a velocity of $ 50$ m$/$s from the surface of the moon at an angle of $ 40^{\circ}$ to the horizontal, Calculate the horizontal distance covered  after half time of flight.",2019,1,Mechanics,Projectile Motion,.,.,.,.,0,0
 04N,"Show that the angle of projection $ \theta ^{\circ}$ for a projectile launched from the origin is given by $ \theta ^{\circ}= tan^{-1}(4h_{m}/R)$ , where $ R$ stand for horizontal range and $ h_{m}$ is the maximum vertical height.",2019,1,Mechanics,Projectile Motion,.,.,.,.,0,0
@@ -297,7 +297,7 @@ In the following nuclear reactions find the values of $ x$ , $ y$ and $ z$ .
 50,"Prove that the angular momentum fora satellite of mass $ M_{s}$ revolving round the
 earth of mass $ M_{e}$ in an orbit of radius $ r$ is equal to $ (G M_{e}$  $ M_{s}^{2}r)^{1/2}$ .",2019,1,Mechanics,Gravitation,.,.,.,.,0,0
 51,Why water is preferred as a cooling agent in many automobiles?,2019,1,Heat,First Law of Thermodynamics,.,.,.,.,0,1
-52,A thermometer has wrong calibration as it reads the melting point of ice as $ -10^{\circ}$C . If it reads $ 40^{\circ}$C in a place where the temperature reads $ 30^{\circ}$C , determine the boiling point of water on this scale.,2019,1,Heat,Thermometers,.,.,.,.,0
+52,"A thermometer has wrong calibration as it reads the melting point of ice as $ -10^{\circ}$C . If it reads $ 40^{\circ}$C in a place where the temperature reads $ 30^{\circ}$C ,  determine the boiling point of water on this scale.",2019,1,Heat,Thermometers,.,.,.,.,0,0
 53,Analyze  three practical applications of thermal expansion of solids in daily life situations.,2019,1,Heat,First Law of Thermodynamics,.,.,.,.,0,1
 54,"A closed metal vessel containing water at $ 75^{\circ}$C , has a surface area of $ 0.5$ m$ ^{2}$ and uniform thickness of $ 4.0$ mm.  If its outside temperature is $ 15^{\circ}$C , calculate the head loss per minute by conduction.",2019,1,Heat,Thermal Conduction,.,.,.,.,0,0
 55,"Sketch the graph to illustrates how the energy radiated by a black body is distributed among various wavelengths. 
@@ -564,7 +564,7 @@ Give the order of resolution of electron microscope in the question above.",2013
 09K,Briefly explain why Cathode Ray Oscilloscope (C.R.O.) is said to be an excellent instrument for measuring the emf ,2013,1,Electronics,Operational Amplifiers,.,.,.,.,0,1
 09L,An electron gun fires electrons at the screen of a TV tube. The electrons start from rest and are accelerated through a potential difference of $ 30$ kV. What is the speed of impact of electrons on the screen of the picture tube?,2013,1,Electronics,Telecommunication,.,.,.,.,0,0
 09M,"Give comment on the statement that, an electron suffers no force when it moves parallel to the magnetic field, $ B$ .",2013,1,Electromagnetism,Magnetic Forces,.,.,.,.,0,0
-09N,A $ 10$ eV proton is circulating in a plane at right angles to a uniform magnetic field of magnetic flux density of $ 1.0,\times 10^{-4}$ Wb$/$m$ ^{2}$ Calculate the cyclotron frequency of a proton.,2013,1,Electromagnetism,Magnetic Fields,.,.,.,.,0
+09N,A $ 10$ eV proton is circulating in a plane at right angles to a uniform magnetic field of magnetic flux density of $ 1.0 \times 10^{-4}$ Wb$/$m$ ^{2}$ Calculate the cyclotron frequency of a proton.,2013,1,Electromagnetism,Magnetic Fields,.,.,.,.,0,0
 09O,"An oscilloscope Is used to measure the waveform across a $ 500\Omega$ resistor in an a.c. circuit as shown in the figure below. Given that the time base of the oscilloscope is set at $ 5$ ms/cm, its $ Y-$ gain at $ 0.5$ V$/$cm and the grid has squares of $ 1.0$ cm, calculate:
 (i)  the period and the frequency.
 (ii) the peak voltage and the r.m.s. voltage.
@@ -691,8 +691,8 @@ What will be the new frequency of a pipe whos original frequency was $ 256$ Hz i
 0BI,"Explain why when catching a fast moving ball, the hands are drawn back will the ball is being brought to rest.",2007,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,1
 0BJ,Rockets are propelled by the ejection of the products of the combustion of fuel.  Consider a rocket of total mass $ M$ travelling at a speed v in a region of space where the gravitational forces are negligible.  ,2007,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
 0BK,"Supposing the combustion products are ejected at a constant speed v, relative to the rocket, show that a fuel ""burn"" which reduces the total mass $ M$ of the rocket to $ m$ results in an increase in the speed of the rocket to v such that $ v-V=V_{f} \ln (M/m)$ .",2007,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
-0BL,"Supposing that $ 2.1\times10^{6}$ kg of fuel are consumed during a ""burn"" lasting $ 1.5\times10^{2}$ seconds and given that there is a constant force on the rocket of $ 3.4x10^{7}$ N during this burn, calculate v, and increase in speed resulting from the burn if $ M=2.8\times10^{6}$ kg.  ",2007,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
-0BM,What is the initial vertical acceleration that can be imparted to this rocket when it is launched from the Earth if the initital mass is $ 2.8x10^{6}$ kg?,2007,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
+0BL,"Supposing that $ 2.1\times10^{6}$ kg of fuel are consumed during a ""burn"" lasting $ 1.5\times10^{2}$ seconds and given that there is a constant force on the rocket of $ 3.4\times 10^{7}$ N during this burn, calculate v, and increase in speed resulting from the burn if $ M=2.8\times10^{6}$ kg.  ",2007,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
+0BM,What is the initial vertical acceleration that can be imparted to this rocket when it is launched from the Earth if the initital mass is $ 2.8\times 10^{6}$ kg?,2007,1,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
 0BN,What is meant by centripetal force?,2007,1,Mechanics,Uniform Circular Motion,.,.,.,.,0,1
 0BO,"Derive the expression $ a =(v^{2}/r)$ where a, v, and $ r$ stands for the centripetal acceleration, linear velocity and radius of a circular path respectively.  ",2007,1,Mechanics,Uniform Circular Motion,.,.,.,.,0,0
 0BP,"A ball of mass $ 0.5$ kg attached to a light inextensible string rotates in a vertical circle of radius $ 0.75$ m such that it has a speed of $ 5$ m$/$s when the string is horizontal.  Calculate:
@@ -826,7 +826,7 @@ $ \epsilon _{0}=$ permittivity constant of vacuum
 TABLE $ 1$
 [Thickness of Aluminium | $ 2.3$ | $ 6.9$ | $ 11.4$ | $ 16.0$ ]
 [Mean Count rate $ (min^{-1}$ | $ 1326$ | $ 802$ | $ 496$ | $ 300$ ]
-Use these data to plot a graph and hence determine for this radiation in aluminium, the linear absorption coefficient mu, defined by$ \mu = - dI/I  I/dx$ , where i is the intensity of the incident radiation and dI is the part of the incident radiation absorbed in the thickness dz.",1999,2,Atomic Physics,Nuclear Physics,.,.,.,.,0,0
+Use these data to plot a graph and hence determine for this radiation in aluminium, the linear absorption coefficient mu, defined by$ \mu = - dI/I  I/dx$ , where i is the intensity of the incident radiation and dI is the part of the incident radiation absorbed in the thickness dz.",1999,2,Atomic Physics,Nuclear Physics,.,.,.,.,1,0
 0DW,Briefly describe the major factors that you would consider when designing a voltage amplifier.,1999,2,Electronics,Operational Amplifiers,.,.,.,.,0,1
 0DX,Explain the term “thermal run away” as regards a transistor amplifier.,1999,2,Electronics,Transistors,.,.,.,.,0,1
 0DY,"With the help of clear diagrams, explain how you would overcome thermal run away in a voltage amplifier.",1999,2,Electronics,Operational Amplifiers,.,.,.,.,0,1
@@ -916,7 +916,7 @@ A charged metal ball comes into contact with an uncharged identical ball.  (Illu
 0FA,Write down the Bernoulli’s equation for fluid flow in a pipe and indicate the term which will disappear when the fluid is stopped.,2015,2,Fluid Dynamics,Bernoulli's Principle,.,.,.,.,0,1
 0FB,Name the principle on which the continuity equation is based.,2015,2,Fluid Dynamics,Streamline Flow and Continuity,.,.,.,.,0,1
 0FC,"Basing on the applications of Bernoulli’s principle, briefly explain why two ships which are moving parallel and close to each other experience an attractive force.",2015,2,Fluid Dynamics,Bernoulli's Principle,.,.,.,.,0,1
-0FD,"A sphere is dropped under gravity through a fluid of viscosity,$ \eta $ .  Taking average acceleration as half of the initial acceleration, show that the time taken to attain terminal velocity is independent of fluid density.",2015,2,Fluid Dynamics,Viscosity and Turbulent Flow,.,.,.,.,0,0
+0FD,"A sphere is dropped under gravity through a fluid of viscosity, $ \eta $ .  Taking average acceleration as half of the initial acceleration, show that the time taken to attain terminal velocity is independent of fluid density.",2015,2,Fluid Dynamics,Viscosity and Turbulent Flow,.,.,.,.,0,0
 0FE,Water is flowing through a horizontal pipe having different cross-sections at two points $ A$ and $ B$ .  The diameters of the ippe at $ A$ and $ B$ are $ 0.6$ m and $ 0.2$ m respectively.   The pressure difference between points $ A$ and $ B$ is $ 1$ m column of water.  Calculate the volume of water flowing per second.,2015,2,Fluid Dynamics,Bernoulli's Principle,.,.,.,.,0,0
 0FF,The flow rate of water from a tap of diameter $ 1.25$ cm is $ 3$ litres per minute.  The coefficient of viscosity of water is $ 10^{-3}$ Ns/m$ ^{2}$ .  Determine the Reynolds’ number and then state the type of flow of water.,2015,2,Fluid Dynamics,Viscosity and Turbulent Flow,.,.,.,.,0,0
 0FG,Air is moving fast horizontally past an air-plane.  The speed over the top surface is $ 60$ m$/$s and under the bottom surface is $ 45$ m$/$s.  Calculate the difference in pressure.,2015,2,Fluid Dynamics,Streamline Flow and Continuity,.,.,.,.,0,0
@@ -935,7 +935,7 @@ Write down three uses of Doppler effect.",2015,2,Vibrations and Waves,Doppler Ef
 0FP,State four conditions for sustained interference of light.,2015,2,Vibrations and Waves,Physical Optics (interferance/diffraction/polarization),.,.,.,.,0,1
 0FQ,"In a Young’s double slit experiment the interval between the slits is $ 0.2$ mm.  For the light of wavelength $ 6.0\times 10^{-7}$ m, Find the distance of the second dark fringe from the central fringe.",2015,2,Vibrations and Waves,Physical Optics (interferance/diffraction/polarization),.,.,.,.,0,0
 0FR,Distinguish between diffraction and diffraction grating.,2015,2,Vibrations and Waves,Physical Optics (interferance/diffraction/polarization),.,.,.,.,0,1
-0FS,A parallel beam of the monochromatic light is incident normally on a diffraction grating.  The angle between the two first-order spectra on either side of the normal is $ 30^{\circ}$ .  Assume that the wavelength of the light is $ 5893\times 10^{14}$ m, find the number of ruling per mm on the grating and the greatest number of bright images obtained. ,2015,2,Vibrations and Waves,.,.,.,.,.,0
+0FS,A parallel beam of the monochromatic light is incident normally on a diffraction grating.  The angle between the two first-order spectra on either side of the normal is $ 30^{\circ}$ .  Assume that the wavelength of the light is $ 5893\times 10^{14}$ m. Find the number of ruling per mm on the grating and the greatest number of bright images obtained. ,2015,2,Vibrations and Waves,Physical Optics (interferance/diffraction/polarization),.,.,.,.,0,0
 0FT,"Define the following materials as classified on the basis of elastic properties:
 (i)  Ductile materials 
 (ii) Brittle materials
@@ -962,7 +962,7 @@ Write down three uses of Doppler effect.",2015,2,Vibrations and Waves,Doppler Ef
 0GA,"Show that the average power transferred to an a.c. circuit is, in general, given by $ EIR/Z$ , where $ R$ is the resistance in the circuit defined to be the real part of complex impedance and $ Z$ is its impedance.",2015,2,Current Electricity,Alternating Current (ac),.,.,.,.,0,0
 0GB,"A coil which has an inductance of $ 0.2$ H and negligible resistance is in series in a resistor, whose resistance is $ 60\Omega $ . The pair is connected across a $ 50$ V supply alternating at $ 100/\pi$ Hz.  Calculate the toal impedance of the circuit and its power factor.",2015,2,Current Electricity,Alternating Current (ac),.,.,.,.,0,0
 0GC,Show that the de Broglie hypothesis of matter wave are in agreement with Bohr’s theory.,2015,2,Atomic Physics,Quantum Physics,.,.,.,.,0,1
-0GD,A $ 10$ kg satellite circles the Earth once every $ 2$ hours in an orbit having a radius of $ 8000$ km.  Assuming Bohr’s angular momentum postulate applies to the satellite just as it does to an electron in the hydrogen atom, find the quantum number of the orbit of the satellite.,2015,2,Mechanics,Gravitation,Atomic Physics,Quantum Physics,.,.,0
+0GD,"A $ 10$ kg satellite circles the Earth once every $ 2$ hours in an orbit having a radius of $ 8000$ km.  Assuming Bohr’s angular momentum postulate applies to the satellite just as it does to an electron in the hydrogen atom,  find the quantum number of the orbit of the satellite.",2015,2,Mechanics,Gravitation,Atomic Physics,Quantum Physics,.,.,0,0
 0GE,"A muon is a particle which has the same change as an electron but its mass is $ 207$ times the mass of an electron.  An unusual atom similar to a hydrogen has been created consisting of a muon orbiting a single proton.  An energy level diagram for this atom is shown in the figure below.
 ### Insert image below ###
 (i) Determine the ionization energy of this atom in joules.
@@ -992,22 +992,22 @@ Suppose $ 50\%$ of this energy was used to produce $ 1$ MW of electricity, for h
 0GT,"Develop an equation to determine the velocity of a fluid in a venture meter pipe.
 What amount of fluid passes through a section at any given time? ",2007,2,Fluid Dynamics,Streamline Flow and Continuity,.,.,.,.,0,1
 0GU,Differentiate between tensile and shear stress. ,2007,2,Properties of Matter,Elasticity,.,.,.,.,0,1
-0GV,"A lift is designed to hold a maximum of $ 12$ people. The lift cage has a mass of $ 500$ kg and the distance from the top floor of the building to the ground floor is $ 50m$ .
+0GV,"A lift is designed to hold a maximum of $ 12$ people. The lift cage has a mass of $ 500$ kg and the distance from the top floor of the building to the ground floor is $ 50$ m.
 (i) What minimum cross-sectional area should the cable have in order to support the lift and the people in it?
 (ii) Why should the cable have to be thicker than the minimum cross-sectional area above in practice? 
 (iii) How much will the lift cable above stretch if $ 10$ people get into the lift at the ground floor, assuming that the lift cable has a cross section of $ 1.36$ cm? 
-Note: Mass of an average person $ =70$ kg . $ E_{steel}=2 \times 10^{11}N/m^{2}$ , Tensile strength of steel $ =4 \times 10^{11}N/m^{2}$ .",2007,2,Properties of Matter,Elasticity,.,.,.,.,0,0
-0GW,"State and define Newton’$ s2$ "" law of motion with respect to angular motion. ",2007,2,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
+Note: Mass of an average person $ =70$ kg . $ E_{steel}=2 \times 10^{11}$ N$/$m$^{2}$ , Tensile strength of steel $ =4 \times 10^{11}$ N$/$m$^{2}$ .",2007,2,Properties of Matter,Elasticity,.,.,.,.,0,0
+0GW,State and define Newton’s 2nd law of motion with respect to angular motion. ,2007,2,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
 0GX,"A pendulum is constructed from two identical uniform rods $ X$ and $ Y$ , each of length $ L$ and mass $ m$ connected at right angles to form a $ T$ by joining the centre of rod $ X$ to one end of rod $ Y$ WA
 ### Insert Figure Here ###",2007,2,Mechanics,Simple Harmonic Motion,.,.,.,.,1,0
 0GY,"The $ T$ is then suspended from the free end of rod $ Y$ and the pendulum swings in the plane of $ T$ about the axis Of rotation.
 (i) Calculate the moment of inertia i of the $ T$ about the axis of rotation. 
 (ii) Obtain the expression for the k.e. and p.e. in terms of the angle $ \theta $ of inclination to the vertical oscillation of the pendulum. 
 (iii) Show that the period of oscillation is $ 2\pi\sqrt{17L/18g}$ . 
-[ Moment of inertia of a thin rod about its centre $ I_{C}=mL^{2}/12$ . ] ",2007,2,Mechanics,Rotation of Rigid Bodies,.,.,.,.,0,0
+( Moment of inertia of a thin rod about its centre $ I_{C}=mL^{2}/12$ . )",2007,2,Mechanics,Rotation of Rigid Bodies,.,.,.,.,0,0
 0GZ,"On the basis of Newton’s universal law of gravitation, derive Kepler’s third law of planetary motion. ",2007,2,Mechanics,Gravitation,.,.,.,.,0,1
 0H0,"A planet has half the density of earth but twice its radius. What will be the speed of a satellite moving fast past the surface of the planet which has on no atmosphere?
-[ Radius of earth $ R_{E}=6.4 \times 10^{3}$ km and gravitational potential energy $ g_{E}=9.81N/$kg ]",2007,2,Mechanics,Gravitation,.,.,.,.,0,0
+( Radius of earth $ R_{E}=6.4 \times 10^{3}$ km and gravitational potential energy $ g_{E}=9.81$ N$/$kg )",2007,2,Mechanics,Gravitation,.,.,.,.,0,0
 0H1,Define an ideal gas.,2007,2,Properties of Matter,Kinetic Theory of Gases,.,.,.,.,0,1
 0H2,State the four $ (4)$ assumptions necessary for an ideal gas that are used to develop the expression $ p=$ ½ $ \rho C^{2}$ .,2007,2,Properties of Matter,Kinetic Theory of Gases,.,.,.,.,0,0
 0H3,How is pressure explained in terms of the kinetic theory? ,2007,2,Properties of Matter,Kinetic Theory of Gases,.,.,.,.,0,1
@@ -1031,7 +1031,7 @@ If the internal cross-sectional area of the pipe is $ 2 \times 10^{-5}m^{2}$ ;
 (iii) Determine the temperature of the air in the bubble at the end of the adiabatic compression. ",2007,2,Heat,First Law of Thermodynamics,.,.,.,.,1,0
 0HB,"Find the number of molecules and their mean kinetic energy for a cylinder of volume $ 5 \times 10^{-4}m^{3}$ containing oxygen at a pressure of $ 2 \times 10^{5}$ Pa and a temperature of $ 300K$ . 
 When the gas is compressed adiabatically to a volume of $ 2 \times 10^{-4}m^{3}$ , the temperature rises to $ 434K$ . Determine $ \gamma $ , the ratio of the principal heat capacities.
-[ Molar gas constant $ R=8.31J/mol/K$ ,$ N$ , $ =6 \times 10^{32}$ mol^{-1}$ ] ",2007,2,Heat,First Law of Thermodynamics,.,.,.,.,0,0
+[ Molar gas constant $ R=8.31$ J$/$mol$/$K ,$ N  =6 \times 10^{32}$ mol$^{-1}$ ] ",2007,2,Heat,First Law of Thermodynamics,.,.,.,.,0,0
 0HC,Describe briefly the formation of Newton rings. How would you measure the wavelength of yellow light by use of Newton’s rings? ,2007,2,Vibrations and Waves,Physical Optics (interferance/diffraction/polarization),.,.,.,.,0,1
 0HD,What would happen to the central spot when air rests between the lens and the plate of the apparatus for Newton’s rings? ,2007,2,Vibrations and Waves,Physical Optics (interferance/diffraction/polarization),.,.,.,.,0,1
 0HE,What is meant by Doppler effect? ,2007,2,Vibrations and Waves,Doppler Effect,.,.,.,.,0,1
@@ -1080,12 +1080,12 @@ Find the closed loop voltage gain. ",2007,2,Current Electricity,Alternating Curr
 0HY,It is not possible to separate the different isotopes of an element by chemical means.  Explain.,2007,2,Atomic Physics,Nuclear Physics,.,.,.,.,0,1
 0HZ,Define a mass spectrometer. ,2007,2,Atomic Physics,Nuclear Physics,.,.,.,.,0,1
 0I0,"Ion A of mass $ 24$ and charge $ +e$ and ion $ B$ of mass $ 22$ and charge $ +2e$ both enter the magnetic field of a mass spectrometer with the same speed. If the radius of A is $ 2.5 \times 10^{-1}m$ , calculate the radius of the circular path of $ B$ . ",2007,2,Atomic Physics,Nuclear Physics,.,.,.,.,0,0
-0I1,"In a paper manufacturing plant, a paper passes between a $ $ \beta -$ source and the detector.
+0I1,"In a paper manufacturing plant, a paper passes between a $ \beta -$ source and the detector.
 Refer to the Figure below.
 ### Insert Figure here ###
 (i) How will the detector system respond to an increase in thickness of paper? 
 (ii) What do you think, in your opinion, the control system will have to do in such an event?
-(iii) Give a concise explanation of how the $ $ \beta -$ source and the detector are used for quality control in this manufacturing plant.",2007,2,Atomic Physics,Nuclear Physics,.,.,.,.,1,0
+(iii) Give a concise explanation of how the $ \beta -$ source and the detector are used for quality control in this manufacturing plant.",2007,2,Atomic Physics,Nuclear Physics,.,.,.,.,1,0
 0I2,"If the ratio of mass of lead – $ 206$  to mass of uranium – $ 238$ in a certain rock was found to be $ 0.45$ and that the rock originally contained no lead – $ 206$ , estimate the age of the rock given that the half life of uranium – $ 238$ is $ 4.5 \times 10^{9}$ years.",2007,2,Atomic Physics,Nuclear Physics,.,.,.,.,0,0
 0I3,Explain breifly the action of a helium-neon laser.,2007,2,Atomic Physics,LASER,.,.,.,.,0,1
 0I4,"Define the following terms:
@@ -1289,13 +1289,12 @@ Draw the graph of the spectra stated. ‘",2009,2,Atomic Physics,Quantum Physics
 0L5,"Two equal drops of water are falling through air with a steady velocity of $ 0.15$ ms$ ^{-1}$ , If the drops coalesce, find their new terminal velocity.",1998,2b,Fluid Dynamics,Viscosity and Turbulent Flow,.,.,.,.,0,0
 0L6,State Newton's laws of motion.,1998,2b,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,1
 0L7,"Explain why a length of horse pipe which is lying in a curve on a smooth horizontal surface, straightens out when a fast flowing stream of water passes through it.",1998,2b,Fluid Dynamics,Streamline Flow and Continuity,.,.,.,.,0,1
-0L8,"
-A ball of mass $ 0.4$ kg is dropped vertically from a height of $ 2.5$ m on to a horizontal table and bounces to a height of $ 1.5$ m.
+0L8,"A ball of mass $ 0.4$ kg is dropped vertically from a height of $ 2.5$ m on to a horizontal table and bounces to a height of $ 1.5$ m.
 (i) Find the kinetic energy of the ball just before striking the table.
 (ii) Find the kinetic energy just after impact.
 (iii) Suggest reasons for the difference between these two values of kinetic energy.
 (iv) What height would you expect the ball to reach after its next bounce from the table?",1998,2b,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
-0L9,"A jet of water flowing with a velocity of $ 20$ ms$ ^{-1}$ ? from a pipe of cross-sectional area, $ 5.0 \times 10^{-3}$ m$ ^{2}$ , strikes a wall at right angles and loses all its velocity.
+0L9,"A jet of water flowing with a velocity of $ 20$ ms$ ^{-1}$ from a pipe of cross-sectional area, $ 5.0 \times 10^{-3}$ m$ ^{2}$ , strikes a wall at right angles and loses all its velocity.
 (i) What is the mass of water striking the wall per second?
 (ii) What is the change in momentum per second of the water hitting the wall?
 (iii) What is the force exerted on the wall?",1998,2b,Mechanics,Newton’s Laws of Motion,.,.,.,.,0,0
@@ -1805,7 +1804,7 @@ Briefly explain the applications of multivibrators listed above.",2016,1,Electro
 (ii) At what velocity will it hit the lower plate?
 (iii) Determine its kinetic energy and the time it takes for the whole journey.",2000,2,Electrostatics,The Electric Field,.,.,.,.,0,0
 0UE,Mention any three uses of a transistor,2000,2,Electronics,Transistors,.,.,.,.,0,1
-0UF,"A certain transistor has a current gain $ $ \beta =55$ . If it is used in a circuit with common-base configuration, how much change occurs in the collector current if an emitter current is changed by $ 100$ micro A? (Assume the collector potential to be constant and neglect the small collector — current due to the minority current carriers).",2000,2,Electronics,Transistors,.,.,.,.,0,0
+0UF,"A certain transistor has a current gain $  \beta =55$ . If it is used in a circuit with common-base configuration, how much change occurs in the collector current if an emitter current is changed by $ 100$ micro A? (Assume the collector potential to be constant and neglect the small collector — current due to the minority current carriers).",2000,2,Electronics,Transistors,.,.,.,.,0,0
 0UG,What is an operational amplifier ,2000,2,Electronics,Operational Amplifiers,.,.,.,.,0,1
 0UH,List three desirable features of an operational amplifier.,2000,2,Electronics,Operational Amplifiers,.,.,.,.,0,1
 0UI,"In almost all cases, where an operation amplifier is used as a linear voltage amplifier, negative feedback is employed. State the advantage of negative feedback.",2000,2,Electronics,Operational Amplifiers,.,.,.,.,0,1

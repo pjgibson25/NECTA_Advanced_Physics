@@ -1,0 +1,19 @@
+
+\documentclass{article}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+% \usepackage[utf8]{inputenc}
+\usepackage{abstract}
+\renewcommand{\abstractname}{Description}
+\title{Categorized Advanced Physics ACSEE Questions}
+\author{PJ Gibson - Peace Corps Tanzania}
+\date{May 2020}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+
+Below are 1046 physics questions from previous Tanzanian ACSEE physics exams.  This resource is intended to help students learn physics material categorically and to help teachers better prepare students for national exam-level questions. I compiled this document using test images and PDFs made freely available at Maktaba, a great resource for learning.  I apologize ahead of time for small erros and miscategorized questions.  Additionally, questions that required graphs were left out of this catalogue.  
+
+\end{abstract}
