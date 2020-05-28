@@ -3,7 +3,9 @@
 \usepackage[a4paper, total={6in, 8in}]{geometry}
 % \usepackage[utf8]{inputenc}
 \usepackage{abstract}
-\title{3 - Fluid Dynamics}
+\newcommand{\mysection}[2]{\setcounter{section}{#1}\addtocounter{section}{-1}\section{#2}}
+
+\title{\textbf{3 - Fluid Dynamics}}
 \author{PJ Gibson - Peace Corps Tanzania}
 \date{May 2020}
 
@@ -12,10 +14,105 @@
 \maketitle
 
 
-\section{Fluid Dynamics}
+\mysection{3}{Fluid Dynamics}
+
+\subsection{Streamline Flow and Continuity}
+\begin{itemize}
+\item (1998)  What is terminal velocity?
+\item (1998)  Briefly explain an experiment designed to measure terminal velocity.
+\item (1998)  A small sphere of radius $ r$ and density $ \sigma $ is released from the bottom of a column of liquid of density $ \rho $ which is slightly higher than $ \sigma $ . Deduce expressions for;
+ \begin{itemize}
+\item the initial acceleration of the sphere.
+\item the terminal velocity of the sphere.
+\end{itemize}
+\item (1998)  Explain why a length of horse pipe which is lying in a curve on a smooth horizontal surface, straightens out when a fast flowing stream of water passes through it.
+\item (1999)  Write down the equation of continuity of a fluid defining all your symbols.
+\item (2000)  At two points on a horizontal tube of varying circular cross-section carrying water, the radii are 1cm and $ 0.4$ cm and the pressure difference between these points is $ 4.9$ cm of water. How much liquid flows through the tube per second?
+\item (2007)  Write the Continuity and Bernoullis’ equations as applied to fluid dynamics. 
+\item (2007)  Develop an equation to determine the velocity of a fluid in a venture meter pipe.
+ \begin{itemize}
+\item What amount of fluid passes through a section at any given time? 
+\end{itemize}
+\item (2013)  What is meant by Newtonian fluid? 
+\item (2015)  Name the principle on which the continuity equation is based.
+\item (2015)  Air is moving fast horizontally past an air-plane.  The speed over the top surface is $ 60$ m$/$s and under the bottom surface is $ 45$ m$/$s.  Calculate the difference in pressure.
+\item (2016)   A jet of of water from a fire hose is capable of reaching a height of $ 20$ m.  If the cross sectional area of the hose outlet is $ 4.0	\times 10^{-4}$ m$ ^{2}$ , calculate the:
+ \begin{itemize}
+\item Minimum speed of water from the hose.
+\item Mass of water leaving the hose each second.
+\item Force on the hose due to the water jet.
+\end{itemize}
+\item (2017)  What is the terminal velocity?
+\item (2018)  Compute the mass of water striking the wall per second when a jet of water with a velocity of $ 5$ m$/$s and cross-sectional area of $ 3 \times 10^{-2}$ m$ ^{2}$ strikes the wall at right angle losing its velocity to zero. 
+\item (2018)  Define the following terms when applied to fluid flow:
+ \begin{itemize}
+\item Non-viscous fluid 
+\item Steady flow 
+\item Line of flow 
+\item Turbulent flow
+\end{itemize}
+\end{itemize}
+
+\subsection{Bernoulli's Principle}
+\begin{itemize}
+\item (1999)  The velocity at a certain point in a flow pipe is $ 1.0$ ms$ ^{-1}$ and the gauge pressure there is $ 3 \times 10^5 $ N$/$m$ ^{2}$ ​ . The cross-sectional area at a point $ 10$ m above the first is half that at the first point. If the flowing fluid is pure water, calculate the gauge pressure at the second point.
+\item (2000)  Write down the Bernoulli's equations for fluid flow in a pipe and indicate the term which will disappear when the flow of fluid is stopped.
+\item (2000)  Water flows into a tank of large cross-section area at a rate of $ 10^{-4}$ m$ ^{3}/$s but flows out from a  hole of area 1cm$ ^{2}$ which has been punched through the base. How high does the water rise in the tank?
+\item (2007)  Under what conditions is the Bernoullis’ equation applicable?
+\item (2007)  Discuss two $ (2)$ applications of the Bernoullis equation. 
+\item (2013)  A submarine model is situated in a part of a tube with diameter $ 5.1$ cm where water moves at $ 2.4$ m$/$s.  Determine the:
+ \begin{itemize}
+\item velocity of flow in the water supply pipe of diameter $ 25.4$ cm. 
+\item pressure difference between the narrow and the wide tube. 
+\end{itemize}
+\item (2015)  Write down the Bernoulli’s equation for fluid flow in a pipe and indicate the term which will disappear when the fluid is stopped.
+\item (2015)  Basing on the applications of Bernoulli’s principle, briefly explain why two ships which are moving parallel and close to each other experience an attractive force.
+\item (2015)  Water is flowing through a horizontal pipe having different cross-sections at two points $ A$ and $ B$ .  The diameters of the ippe at $ A$ and $ B$ are $ 0.6$ m and $ 0.2$ m respectively.   The pressure difference between points $ A$ and $ B$ is $ 1$ m column of water.  Calculate the volume of water flowing per second.
+\item (2016)  Distinguish between static pressure, dynamic pressure and total pressure when applied to streamline or laminar fluid flow and write down expression at a point in the fluid in terms of the fluid velocity v, the fluid density $ \rho $ , pressure $ P$ and the height $ h$ , of the point with respect to a datum.  
+\item (2016)  The static pressure in a horizontal pipeline is $ 4.3 \times 10^{4}$ Pa, the total pressure is $ 4.7 \times 10^{4}$ Pa and the area of cross-section is $ 20 $ cm$ ^{2}$ . The fluid may be considered to be incompressible and non-viscous and has a density of $ 1000$ kg$/$m$ ^{3}$ .  Calculate the flow velocity and the volume flow rate in the pipeline.
+\item (2016)  Briefly explain the carburetor of a car as applied to Bernoulli’s theorem.
+\item (2016)  Three capillaries of the same length but with internal radii $ 3R$ , $ 4R$ , and $ 5R$ are connected in series and a liquid flows through them under streamline conditions.  If the pressure across the third capillary is $ 8.1$ mm of liquid, find the pressure across the first capillary.
+\item (2017)  State Bernoulli's theorem for the horizontal flow. 
+\item (2017)  On which principle does the Bernoulli's theorem based. 
+\item (2017)  A pipe is running full of water. At a certain point $ A$ , it tapers from $ 30$ cm diameter to $ 10$ cm diameter at $ B$ , the pressure difference between point $ A$ and $ B$ is $ 100$ cm of water column. Find the rate of flow of water through the pipe. 
+\item (2017)  Two capillaries of the same length and radii in the ratio of $ 1$:$ 2$ are connected in series and the liquid flow through the system under stream line conditions. If the pressure across the two extreme ends of the combination is  $ 1$ m of water, what is the pressure difference across the first capillary?
+\item (2018)  Given the Bernoulli’s equation: $ p+\rho gh+\rho v^{2}=$ constant where all the symbols carry their usual meaning.
+ \begin{itemize}
+\item What quantity does each expression on the left hand side of the equation represent? 
+\item Mention any three conditions which make the equation to be valid. 
+\end{itemize}
+\item (2018)  Water is supplied to a house at ground level through a pipe of inner diameter $ 1.5$ cm at an absolute pressure of $ 6.5 \times 10^{5}$ Pa and velocity of $ 5$ m$/$s. The pipe line leading to the second floor bath room $ 8$ m above has an inner diameter of $ 0.75$ cm. Find the flow velocity and pressure at the pipe outlet in the second floor bathroom. 
+\item (2018)  A horizontal pipeline increases uniformly from $ 0.080$ m diameter to $ 0.160$ m diameter in the direction of flow of water. When $ 96$ litres of water is flowing per second, a pressure gauge at the $ 0.080$ m diameter section reads $ 3.5 \times 10^{5}$ Pa. What should be the reading of the gauge at the $ 0.160$ m diameter section neglecting any loss? 
+\item (2019)  A horizontal pipe of cross - sectional area $ 10 $ cm$ ^{2}$ has one section of cross sectional area $ 5 $ cm$ ^{2}$ . If water flows through the pipe, and the pressure difference between the two sections is $ 300$ Pa, how many cubic meters of water will flow out of the pipe in $ 1$ minute?
+\end{itemize}
 
 \subsection{Viscosity and Turbulent Flow}
 \begin{itemize}
+\item (1998)  Two equal drops of water are falling through air with a steady velocity of $ 0.15$ ms$ ^{-1}$ , If the drops coalesce, find their new terminal velocity.
+\item (1999)  With the help of a well labelled diagram briefly explain how you will determine the coefficient of viscosity of a liquid by a constant pressure head apparatus in the laboratory.
+\item (2010)  In the form of Millikan’s experiment, an oil drop was observe fall with a constant velocity of $ 2.5	\times 10^{-4}m/s$ in the absence of an electric field. When a p.d of $ 1000$ V was applied between the plates $ 10$ mm apart, the drop remained stationary between them. i the density of oil is $ 9 \times 10^{2}$ kg$/$m$ ^{3}$ , density of air is $ 1.2$ kg$/$m$ ^{3}$ and viscosity of air is $ 1.8\times 10^{-5}$ Ns$/$m$ ^{2}$ , Calculate the radius of the oil drop and the number of electric charges it carries.
+\item (2013)  Write down the Poiscuille’s equation for a viscous fluid flowing through a tube defining all the symbols.
+ \begin{itemize}
+\item What assumptions are used to develop the equation above. 
+\end{itemize}
+\item (2015)  A sphere is dropped under gravity through a fluid of viscosity, $ \eta $ .  Taking average acceleration as half of the initial acceleration, show that the time taken to attain terminal velocity is independent of fluid density.
+\item (2015)  The flow rate of water from a tap of diameter $ 1.25$ cm is $ 3$ litres per minute.  The coefficient of viscosity of water is $ 10^{-3}$ Ns/m$ ^{2}$ .  Determine the Reynolds’ number and then state the type of flow of water.
+\item (2016)  State Newton’s law of viscosity and hence deduce the dimensions of the coefficient of viscosity.
+\item (2016)  In an experiment to determine the coefficient of viscosity of motor oil, the following measurements are made:
+ \begin{itemize}
+\item Mass of glass sphere $ =1.2 \times 10^{-4}$ kg.
+\item Diameter of sphere $ =4.0 \times 10^{-3}$ m.
+\item Terminal velocity of sphere $ =5.4 \times 10^{-5}$ m$/$s.
+\item Density of oil $ =860$ kg$/$m$ ^{3}$
+\item Calculate the coefficient of viscosity of the oil.
+\end{itemize}
+\item (2016)  Give reasons for the following observations as applied in fluid dynamics.
+ \begin{itemize}
+\item A flag flutter when strong winds are blowing on a certain day.
+\item A parachute is used while jumping from an airplane.
+\item Hotter liquids flow faster than cold ones.
+\end{itemize}
+\item (2017)  Derive an expression for the terminal velocity of a spherical body falling  from rest through a viscous fluid. 
 \item (2019)  Give the meaning of the terms velocity gradient, tangential stress and coefficient of viscosity as used in fluid dynamics.
 \item (2019)  Write Stokes’ equation defining clearly the meaning of all symbols used.
  \begin{itemize}
@@ -23,11 +120,6 @@
 \end{itemize}
 \item (2019)  Calculate the terminal velocity of the rain drops falling in air assuming that the flow is laminar, the rain drops are spheres of diameter $ 1$ mm and the coefficient of viscosity, $ \eta =1.8 \times 10^{-5}$ Ns$/$m$ ^{2}$ . 
 \item (2019)  Water flows past a horizontal plate of area $ 1.2$ m$ ^{2}$ . If its velocity gradient and coefficient of viscosity adjacent to the plate are $ 10$ s$ ^{-1}$ and $ 1.3 \times 10^{-5}$ Ns$/$m$ ^{2}$ respectively, calculate the force acting on the plate.  
-\end{itemize}
-
-\subsection{Bernoulli's Principle}
-\begin{itemize}
-\item (2019)  A horizontal pipe of cross - sectional area $ 10 $ cm$ ^{2}$ has one section of cross sectional area $ 5 $ cm$ ^{2}$ . If water flows through the pipe, and the pressure difference between the two sections is $ 300$ Pa, how many cubic meters of water will flow out of the pipe in $ 1$ minute?
 \end{itemize}
 
 \end{document}
